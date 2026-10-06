@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>文型クイズ</title>
+  <meta name="description" content="英米文学の名文で5文型を判定するクイズ">
+  <meta name="theme-color" content="#f6f3ec" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1b1a17" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="文型クイズ">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <main class="app">
+
+    <section id="screen-home" class="screen" hidden>
+      <h1 class="title">文型クイズ</h1>
+      <p class="lead">英米文学の名文で、5文型を見抜く。</p>
+
+      <fieldset class="choice-group">
+        <legend>出題する英文</legend>
+        <label class="choice"><input type="radio" name="source" value="all" checked> すべて</label>
+        <label class="choice"><input type="radio" name="source" value="builtin"> 収録の名文</label>
+        <label class="choice"><input type="radio" name="source" value="user"> 自分の英文</label>
+      </fieldset>
+
+      <fieldset class="choice-group">
+        <legend>問題数</legend>
+        <label class="choice"><input type="radio" name="count" value="10" checked> 10問</label>
+        <label class="choice"><input type="radio" name="count" value="20"> 20問</label>
+        <label class="choice"><input type="radio" name="count" value="0"> 全問</label>
+      </fieldset>
+
+      <p id="home-message" class="message" role="status"></p>
+      <button id="start-button" class="button primary" type="button">はじめる</button>
+      <button id="open-register-button" class="button" type="button">自分の英文を登録する</button>
+    </section>
+
+    <section id="screen-quiz" class="screen" hidden>
+      <header class="quiz-header">
+        <button id="quit-button" class="button small" type="button">やめる</button>
+        <span id="progress" class="progress"></span>
+      </header>
+
+      <p id="question-instruction" class="instruction"></p>
+      <blockquote id="question-text" class="sentence" lang="en"></blockquote>
+      <p id="question-source" class="source"></p>
+
+      <div id="answer-buttons" class="answer-buttons"></div>
+
+      <div id="feedback" class="feedback" hidden>
+        <p id="feedback-result" class="feedback-result"></p>
+        <div id="feedback-parts" class="parts" lang="en"></div>
+        <p id="feedback-point" class="feedback-point"></p>
+        <p id="feedback-explanation"></p>
+        <p id="feedback-note" class="feedback-note"></p>
+        <button id="next-button" class="button primary" type="button">次へ</button>
+      </div>
+    </section>
+
+    <section id="screen-result" class="screen" hidden>
+      <h2>結果</h2>
+      <p id="result-score" class="score"></p>
+      <h3 id="missed-heading">間違えた問題</h3>
+      <ul id="missed-list" class="missed-list"></ul>
+      <button id="retry-button" class="button primary" type="button">もう一度</button>
+      <button id="home-button" class="button" type="button">ホームへ</button>
+    </section>
+
+    <section id="screen-register" class="screen" hidden>
+      <header class="quiz-header">
+        <button id="register-back-button" class="button small" type="button">戻る</button>
+      </header>
+      <h2>自分の英文を登録</h2>
+
+      <form id="register-form" class="register-form">
+        <label class="field">英文（必須）
+          <textarea id="input-text" rows="4" lang="en" autocapitalize="off" spellcheck="false" required></textarea>
+        </label>
+        <label class="field">判定する部分（任意・英文からそのままコピー）
+          <input id="input-target" type="text" lang="en" autocapitalize="off" spellcheck="false">
+        </label>
+        <fieldset class="choice-group">
+          <legend>正解の文型（必須）</legend>
+          <div id="input-answer" class="answer-radios"></div>
+        </fieldset>
+        <label class="field">解説メモ（任意）
+          <textarea id="input-explanation" rows="3"></textarea>
+        </label>
+        <label class="field">出典（任意）
+          <input id="input-source" type="text">
+        </label>
+        <p id="register-message" class="message" role="status"></p>
+        <button class="button primary" type="submit">登録する</button>
+      </form>
+
+      <h3>登録した英文</h3>
+      <ul id="user-list" class="user-list"></ul>
+    </section>
+
+  </main>
+</body>
+</html>

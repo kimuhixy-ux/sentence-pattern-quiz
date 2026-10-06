@@ -1,0 +1,270 @@
+:root {
+  --bg: #f6f3ec;
+  --surface: #fffdf8;
+  --text: #24211c;
+  --muted: #6b6559;
+  --border: #ddd6c8;
+  --accent: #8a3b2a;
+  --accent-text: #fffdf8;
+  --mark: #f3dd8c;
+  --correct: #2f7a4a;
+  --wrong: #b23a2e;
+  --role-s: #2c5f9e;
+  --role-v: #b23a2e;
+  --role-o: #2f7a4a;
+  --role-c: #9a5a00;
+  --role-m: #7a7468;
+  --serif: 'Georgia', 'Times New Roman', serif;
+  --sans: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b1a17;
+    --surface: #262420;
+    --text: #ece6da;
+    --muted: #a59e90;
+    --border: #3d3a33;
+    --accent: #d98a6c;
+    --accent-text: #1b1a17;
+    --mark: #6b5a1c;
+    --correct: #6cc08b;
+    --wrong: #ec7b6e;
+    --role-s: #7fb0ec;
+    --role-v: #ec7b6e;
+    --role-o: #6cc08b;
+    --role-c: #e2ad58;
+    --role-m: #a59e90;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-text-size-adjust: 100%;
+}
+
+.app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding:
+    calc(16px + env(safe-area-inset-top))
+    calc(16px + env(safe-area-inset-right))
+    calc(32px + env(safe-area-inset-bottom))
+    calc(16px + env(safe-area-inset-left));
+}
+
+[hidden] { display: none !important; }
+
+.title {
+  font-family: var(--serif);
+  font-size: 2rem;
+  margin: 24px 0 4px;
+}
+
+.lead { color: var(--muted); margin: 0 0 24px; }
+
+h2 { font-size: 1.4rem; margin: 8px 0 16px; }
+h3 { font-size: 1.1rem; margin: 28px 0 8px; }
+
+.choice-group {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin: 0 0 16px;
+  background: var(--surface);
+}
+
+.choice-group legend { padding: 0 4px; font-weight: 600; }
+
+.choice {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+}
+
+.choice input { width: 20px; height: 20px; margin: 0; accent-color: var(--accent); }
+
+.button {
+  display: block;
+  width: 100%;
+  min-height: 48px;
+  margin: 12px 0 0;
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.button.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+.button.danger { color: var(--wrong); }
+
+.button.small {
+  display: inline-block;
+  width: auto;
+  min-height: 44px;
+  min-width: 44px;
+  margin: 0;
+  padding: 8px 14px;
+  font-weight: 500;
+}
+
+.message { color: var(--wrong); min-height: 1.6em; margin: 8px 0 0; }
+
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.progress { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.instruction { font-weight: 600; margin: 0 0 8px; }
+
+.sentence {
+  margin: 0;
+  padding: 16px;
+  background: var(--surface);
+  border-left: 4px solid var(--accent);
+  border-radius: 4px;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  line-height: 1.75;
+  overflow-wrap: break-word;
+}
+
+mark {
+  background: var(--mark);
+  color: inherit;
+  padding: 0 2px;
+  border-radius: 2px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.source { color: var(--muted); font-size: 0.9rem; margin: 8px 0 16px; text-align: right; }
+
+.answer-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+/* 5つ目のボタンを横幅いっぱいにして、2列の並びに半端な空白を残さない */
+.answer-button:last-child { grid-column: 1 / -1; }
+
+.answer-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 64px;
+  padding: 8px;
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.answer-button .form { font-family: var(--serif); font-size: 0.95rem; color: var(--muted); font-weight: 400; }
+.answer-button:disabled { cursor: default; opacity: 0.55; }
+.answer-button.is-correct { border-color: var(--correct); opacity: 1; }
+.answer-button.is-wrong { border-color: var(--wrong); opacity: 1; }
+
+.feedback {
+  margin-top: 20px;
+  padding: 16px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  scroll-margin-top: calc(16px + env(safe-area-inset-top));
+}
+
+.feedback p { margin: 0 0 12px; }
+.feedback-result { font-weight: 700; font-size: 1.1rem; }
+.is-correct.feedback-result { color: var(--correct); }
+.is-wrong.feedback-result { color: var(--wrong); }
+.feedback-point { font-weight: 600; }
+.feedback-note { color: var(--muted); font-size: 0.9rem; }
+
+.parts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 14px;
+}
+
+.part {
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 100%;
+  border: 1.5px solid var(--role);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.part-role {
+  padding: 0 6px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--surface);
+  background: var(--role);
+}
+
+.part-text { padding: 2px 6px; font-family: var(--serif); overflow-wrap: break-word; }
+
+/* 役割ごとの色を変数で渡し、枠線とラベル背景の両方に同じ色を使う */
+.role-s { --role: var(--role-s); }
+.role-v { --role: var(--role-v); }
+.role-o { --role: var(--role-o); }
+.role-c { --role: var(--role-c); }
+.role-m { --role: var(--role-m); }
+
+.score { font-size: 1.6rem; font-weight: 700; margin: 0; }
+
+.missed-list, .user-list { list-style: none; margin: 0; padding: 0; }
+
+.missed-list li, .user-list li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.missed-list p, .user-list p { margin: 0 0 4px; }
+.missed-list p[lang], .user-list p[lang] { font-family: var(--serif); }
+.missed-detail { color: var(--muted); font-size: 0.9rem; }
+.user-list .empty { color: var(--muted); }
+
+.register-form .field {
+  display: block;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+.register-form textarea,
+.register-form input[type="text"] {
+  display: block;
+  width: 100%;
+  margin-top: 6px;
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  /* iOS Safari は16px未満の入力欄でフォーカス時に勝手にズームするため */
+  font: 400 16px/1.5 var(--sans);
+}

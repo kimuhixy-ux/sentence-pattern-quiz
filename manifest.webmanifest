@@ -1,0 +1,14 @@
+{
+  "name": "文型クイズ",
+  "short_name": "文型クイズ",
+  "description": "英米文学の名文で5文型を判定するクイズ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#8a3b2a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

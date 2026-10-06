@@ -1,0 +1,537 @@
+[
+  {
+    "id": "joyce-dead-1",
+    "text": "His soul swooned slowly as he heard the snow falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead.",
+    "target": "",
+    "answer": 1,
+    "parts": [["His soul", "S"], ["swooned", "V"], ["slowly", "M"], ["as he heard the snow falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead.", "M"]],
+    "point": "as節の中の heard the snow falling（知覚動詞＋O＋分詞）は第5文型の形だが、従属節にすぎない。",
+    "explanation": "主節の動詞 swooned（気が遠くなる）は自動詞で目的語も補語も取らない。slowly と as節はすべて修飾語(M)なので、文の骨格は His soul swooned＝SV。",
+    "author": "James Joyce", "authorJa": "ジェイムズ・ジョイス", "work": "Dubliners (\"The Dead\")", "workJa": "ダブリン市民「死者たち」", "year": 1914
+  },
+  {
+    "id": "joyce-eveline-1",
+    "text": "She sat at the window watching the evening invade the avenue.",
+    "target": "",
+    "answer": 1,
+    "parts": [["She", "S"], ["sat", "V"], ["at the window", "M"], ["watching the evening invade the avenue.", "M"]],
+    "point": "watching the evening invade（watch＋O＋原形）がSVOCに見えるが、分詞構文で修飾語。",
+    "explanation": "sat は自動詞「座っていた」。at the window は場所、watching 以下は「〜を眺めながら」という付帯状況の分詞構文。骨格は She sat＝SV。",
+    "author": "James Joyce", "authorJa": "ジェイムズ・ジョイス", "work": "Dubliners (\"Eveline\")", "workJa": "ダブリン市民「エヴリン」", "year": 1914
+  },
+  {
+    "id": "fitzgerald-gatsby-1",
+    "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "target": "",
+    "answer": 1,
+    "parts": [["So", "M"], ["we", "S"], ["beat on,", "V"], ["boats against the current,", "M"], ["borne back ceaselessly into the past.", "M"]],
+    "point": "beat を他動詞「打つ」と読み、boats を目的語にすると誤り。",
+    "explanation": "beat on は「（舟を）漕ぎ進め続ける」という自動詞＋副詞 on。boats against the current は we の在り方を言い換えた同格的な描写、borne back 以下は分詞構文で、どちらも修飾語。骨格は we beat on＝SV。",
+    "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
+  },
+  {
+    "id": "fitzgerald-gatsby-3",
+    "text": "Gatsby believed in the green light, the orgiastic future that year by year recedes before us.",
+    "target": "",
+    "answer": 1,
+    "parts": [["Gatsby", "S"], ["believed", "V"], ["in the green light, the orgiastic future that year by year recedes before us.", "M"]],
+    "point": "「〜を信じた」と訳せるので目的語がありそうに見える。",
+    "explanation": "believe in は自動詞 believe＋前置詞句。5文型では前置詞の後ろの名詞は文の要素(O)にならず、前置詞句全体が修飾語になる。骨格は Gatsby believed＝SV。",
+    "note": "believe in をひとまとまりの他動詞（群動詞）とみてSVOとする説明もある。本アプリは「前置詞の目的語は文の要素にしない」原則に従う。初版の綴りは orgastic で、Project Gutenberg 版は orgiastic。",
+    "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
+  },
+  {
+    "id": "fitzgerald-gatsby-4",
+    "text": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+    "target": "",
+    "answer": 1,
+    "parts": [["I", "S"], ["was", "V"], ["within and without,", "M"], ["simultaneously enchanted and repelled by the inexhaustible variety of life.", "M"]],
+    "point": "be動詞を見た瞬間にSVCと決めつけると外れる。",
+    "explanation": "within と without はここでは場所の副詞「内側に」「外側に」。be動詞＋場所は「〜にいる」という存在を表し、場所は補語ではなく修飾語なのでSV。enchanted 以下は分詞構文。",
+    "note": "be＋場所の副詞句をCとみる文法書もある（その場合SVC）。日本の学校文法では「存在のbe＝SV」とするのが一般的。",
+    "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
+  },
+  {
+    "id": "bronte-jane-eyre-1",
+    "text": "There was no possibility of taking a walk that day.",
+    "target": "",
+    "answer": 1,
+    "parts": [["There", "M"], ["was", "V"], ["no possibility of taking a walk", "S"], ["that day.", "M"]],
+    "point": "文頭の There を主語だと思わないこと。",
+    "explanation": "There is 構文の There は形だけの誘導副詞で、本当の主語は was の後ろの no possibility。「可能性が存在しなかった」という存在文なのでSV。that day は副詞的な名詞句（修飾語）。",
+    "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
+  },
+  {
+    "id": "conrad-darkness-1",
+    "text": "The Nellie, a cruising yawl, swung to her anchor without a flutter of the sails, and was at rest.",
+    "target": "The Nellie, a cruising yawl, swung to her anchor without a flutter of the sails",
+    "answer": 1,
+    "parts": [["The Nellie, a cruising yawl,", "S"], ["swung", "V"], ["to her anchor", "M"], ["without a flutter of the sails", "M"]],
+    "point": "swing を他動詞「振る」と取らない。a cruising yawl は主語の同格。",
+    "explanation": "swung to her anchor は「錨を軸に（船首を風上へ）振れた」という航海用語で、swing は自動詞。後ろは前置詞句が2つ並ぶだけなのでSV。",
+    "author": "Joseph Conrad", "authorJa": "ジョゼフ・コンラッド", "work": "Heart of Darkness", "workJa": "闇の奥", "year": 1899
+  },
+  {
+    "id": "twain-huck-1",
+    "text": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter.",
+    "target": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer",
+    "answer": 1,
+    "parts": [["You", "S"], ["don't know", "V"], ["about me", "M"], ["without you have read a book by the name of The Adventures of Tom Sawyer", "M"]],
+    "point": "know は他動詞のことが多いが、ここは know about。without が接続詞として使われている点も紛らわしい。",
+    "explanation": "know about〜「〜について知っている」は自動詞＋前置詞句。without は方言で unless の意味の接続詞（「〜を読んでいない限り」）で、節全体が修飾語。骨格は You don't know＝SV。",
+    "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "Adventures of Huckleberry Finn", "workJa": "ハックルベリー・フィンの冒険", "year": 1884
+  },
+  {
+    "id": "twain-huck-3",
+    "text": "\"All right, then, I'll go to hell\"",
+    "target": "",
+    "answer": 1,
+    "parts": [["\"All right, then,", "M"], ["I", "S"], ["'ll go", "V"], ["to hell\"", "M"]],
+    "point": "go の後ろの名詞 hell を目的語と見ないこと。",
+    "explanation": "go は自動詞で、to hell は行き先を表す前置詞句（修飾語）。All right, then も文頭の間投詞的な修飾語。骨格は I'll go＝SV。ハックが黒人奴隷ジムを売り渡す手紙を破り捨てる場面。",
+    "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "Adventures of Huckleberry Finn", "workJa": "ハックルベリー・フィンの冒険", "year": 1884
+  },
+  {
+    "id": "poe-masque-1",
+    "text": "There are some who would have thought him mad.",
+    "target": "",
+    "answer": 1,
+    "parts": [["There", "M"], ["are", "V"], ["some who would have thought him mad.", "S"]],
+    "point": "関係詞節の thought him mad（SVOC）に目を奪われると誤答する。",
+    "explanation": "主節は There are some「〜な人もいる」という存在文でSV。who 以下は some を修飾する関係詞節で、その中が think O C の第5文型になっている。",
+    "author": "Edgar Allan Poe", "authorJa": "エドガー・アラン・ポー", "work": "The Masque of the Red Death", "workJa": "赤死病の仮面", "year": 1842
+  },
+  {
+    "id": "joyce-portrait-1",
+    "text": "Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo.",
+    "target": "there was a moocow coming down along the road",
+    "answer": 1,
+    "parts": [["there", "M"], ["was", "V"], ["a moocow", "S"], ["coming down along the road", "M"]],
+    "point": "句読点のない幼児語りの文。どこで節が切れるかを見極める。",
+    "explanation": "Once upon a time and a very good time it was（昔々とってもいい時のこと）の後に there was 構文が続く。主語は a moocow、coming down 以下は moocow を後ろから修飾する分詞句でSV。",
+    "author": "James Joyce", "authorJa": "ジェイムズ・ジョイス", "work": "A Portrait of the Artist as a Young Man", "workJa": "若い芸術家の肖像", "year": 1916
+  },
+  {
+    "id": "austen-pp-1",
+    "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+    "target": "",
+    "answer": 2,
+    "parts": [["It", "S(仮)"], ["is", "V"], ["a truth universally acknowledged,", "C"], ["that a single man in possession of a good fortune must be in want of a wife.", "S(真)"]],
+    "point": "that節の長さに気を取られず、主節の It is a truth を骨格として捉える。",
+    "explanation": "It は後ろの that節を指す仮主語。「〜ということは、あまねく認められた真理である」で、It = a truth の関係が成り立つのでSVC。",
+    "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
+  },
+  {
+    "id": "wilde-dorian-1",
+    "text": "The books that the world calls immoral are books that show the world its own shame.",
+    "target": "",
+    "answer": 2,
+    "parts": [["The books that the world calls immoral", "S"], ["are", "V"], ["books that show the world its own shame.", "C"]],
+    "point": "関係詞節の中に第5文型（calls immoral）と第4文型（show the world its own shame）が埋まっている。",
+    "explanation": "主節は The books ... are books ...＝SVC。主語と補語がそれぞれ関係詞節を抱えているため長く見えるが、動詞は are だけ。",
+    "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
+  },
+  {
+    "id": "wilde-dorian-3",
+    "text": "Dorian Gray grew pale as he watched her.",
+    "target": "",
+    "answer": 2,
+    "parts": [["Dorian Gray", "S"], ["grew", "V"], ["pale", "C"], ["as he watched her.", "M"]],
+    "point": "grow には「育てる」（SVO）と「〜になる」（SVC）の両方がある。",
+    "explanation": "pale は形容詞で、grow の後ろに形容詞が来たら「〜になる」。Dorian Gray = pale の関係なのでSVC。as節は修飾語。",
+    "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
+  },
+  {
+    "id": "bronte-wuthering-1",
+    "text": "Whatever our souls are made of, his and mine are the same; and Linton's is as different as a moonbeam from lightning, or frost from fire.",
+    "target": "Whatever our souls are made of, his and mine are the same",
+    "answer": 2,
+    "parts": [["Whatever our souls are made of,", "M"], ["his and mine", "S"], ["are", "V"], ["the same", "C"]],
+    "point": "Whatever節を主語と誤解しやすい。カンマの後ろに本当の主語がある。",
+    "explanation": "Whatever ... of, は「魂が何でできていようとも」という譲歩の副詞節(M)。主語は his and mine（彼の魂と私の魂）で、are the same＝SVC。",
+    "author": "Emily Brontë", "authorJa": "エミリー・ブロンテ", "work": "Wuthering Heights", "workJa": "嵐が丘", "year": 1847
+  },
+  {
+    "id": "bronte-wuthering-2",
+    "text": "…and that, not because he's handsome, Nelly, but because he's more myself than I am.",
+    "target": "he's more myself than I am",
+    "answer": 2,
+    "parts": [["he", "S"], ["'s", "V"], ["more myself", "C"], ["than I am", "M"]],
+    "point": "myself（再帰代名詞）＝目的語、という思い込みを突く問題。",
+    "explanation": "'s は is。myself はここでは「私自身（という存在）」を表す補語で、he = myself の関係。「彼は私以上に私なのだ」でSVC。",
+    "author": "Emily Brontë", "authorJa": "エミリー・ブロンテ", "work": "Wuthering Heights", "workJa": "嵐が丘", "year": 1847
+  },
+  {
+    "id": "poe-telltale-1",
+    "text": "True!—nervous—very, very dreadfully nervous I had been and am; but why will you say that I am mad?",
+    "target": "nervous—very, very dreadfully nervous I had been and am",
+    "answer": 2,
+    "parts": [["nervous—very, very dreadfully nervous", "C"], ["I", "S"], ["had been and am", "V"]],
+    "point": "補語が文頭に飛び出した倒置。語順だけ見ると文型が読めない。",
+    "explanation": "普通の語順に戻すと I had been and am very, very dreadfully nervous。nervous は I の状態を表す補語なのでSVC。",
+    "author": "Edgar Allan Poe", "authorJa": "エドガー・アラン・ポー", "work": "The Tell-Tale Heart", "workJa": "告げ口心臓", "year": 1843
+  },
+  {
+    "id": "dickens-carol-1",
+    "text": "Old Marley was as dead as a door-nail.",
+    "target": "",
+    "answer": 2,
+    "parts": [["Old Marley", "S"], ["was", "V"], ["as dead as a door-nail.", "C"]],
+    "point": "as ... as の比較構文でも、補語の中心は形容詞 dead。",
+    "explanation": "dead は形容詞で、Marley = dead の関係。as ... as a door-nail は「ドアの鋲のように完全に」という強調でSVC。",
+    "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "A Christmas Carol", "workJa": "クリスマス・キャロル", "year": 1843
+  },
+  {
+    "id": "twain-huck-2",
+    "text": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter.",
+    "target": "that ain't no matter",
+    "answer": 2,
+    "parts": [["that", "S"], ["ain't", "V"], ["no matter", "C"]],
+    "point": "ain't は方言で isn't の意味。二重否定も方言で、意味は「それは問題ではない」。",
+    "explanation": "matter は「問題」という名詞で、that = (no) matter の関係なのでSVC。",
+    "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "Adventures of Huckleberry Finn", "workJa": "ハックルベリー・フィンの冒険", "year": 1884
+  },
+  {
+    "id": "eliot-middlemarch-3",
+    "text": "…and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs.",
+    "target": "that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs",
+    "answer": 2,
+    "parts": [["that things are not so ill with you and me as they might have been,", "S"], ["is", "V"], ["half", "M"], ["owing to the number who lived faithfully a hidden life, and rest in unvisited tombs", "C"]],
+    "point": "長いthat節がそのまま主語。カンマの後の is を見落とさないこと。",
+    "explanation": "that節（「物事が今ほど悪くないこと」）が主語、is が動詞、owing to 〜「〜のおかげである」が補語でSVC。小説の最終文。",
+    "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
+  },
+  {
+    "id": "melville-moby-4",
+    "text": "They think me mad—Starbuck does; but I'm demoniac, I am madness maddened!",
+    "target": "I am madness maddened",
+    "answer": 2,
+    "parts": [["I", "S"], ["am", "V"], ["madness maddened", "C"]],
+    "point": "名詞＋過去分詞という異様な補語。maddened を述語動詞と見ないこと。",
+    "explanation": "述語動詞は am のみ。madness maddened は「狂わされた狂気」という名詞句（maddened が後ろから修飾）で、I = madness maddened の関係なのでSVC。",
+    "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
+  },
+  {
+    "id": "dickens-expectations-1",
+    "text": "My father's family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip.",
+    "target": "",
+    "answer": 3,
+    "parts": [["My father's family name being Pirrip, and my Christian name Philip,", "M"], ["my infant tongue", "S"], ["could make", "V"], ["of both names", "M"], ["nothing longer or more explicit than Pip.", "O"]],
+    "point": "make A of B「BからAを作る」で、目的語 A が後ろに回っている。形容詞 longer があるので補語と誤認しやすい。",
+    "explanation": "文頭は独立分詞構文(M)。主節は my infant tongue could make nothing ... of both names の of句が前に割り込んだ形。nothing longer ... than Pip が make の目的語なのでSVO。",
+    "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
+  },
+  {
+    "id": "bronte-jane-eyre-2",
+    "text": "A quiet wedding we had: he and I, the parson and clerk, were alone present.",
+    "target": "A quiet wedding we had",
+    "answer": 3,
+    "parts": [["A quiet wedding", "O"], ["we", "S"], ["had", "V"]],
+    "point": "文頭の名詞句を主語と思うと、we had の説明がつかなくなる。",
+    "explanation": "目的語を文頭に出した強調の倒置。普通の語順なら We had a quiet wedding でSVO。",
+    "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
+  },
+  {
+    "id": "bronte-jane-eyre-3",
+    "text": "Reader, I married him.",
+    "target": "",
+    "answer": 3,
+    "parts": [["Reader,", "M"], ["I", "S"], ["married", "V"], ["him.", "O"]],
+    "point": "Reader は主語でも目的語でもなく、読者への呼びかけ。",
+    "explanation": "呼びかけ語は文の要素にならない。marry は他動詞で前置詞なしに目的語を取る（marry with とは言わない）のでSVO。",
+    "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
+  },
+  {
+    "id": "wilde-dorian-2",
+    "text": "It is the spectator, and not life, that art really mirrors.",
+    "target": "",
+    "answer": 3,
+    "parts": [["It is", "M"], ["the spectator, and not life,", "O"], ["that", "M"], ["art", "S"], ["really", "M"], ["mirrors.", "V"]],
+    "point": "It is ... that の強調構文。表面の It is に引っ張られてSVCと答えないこと。",
+    "explanation": "It is と that を取り除くと Art really mirrors the spectator, and not life.（芸術が映すのは観る者であって人生ではない）。mirror は他動詞でSVO。",
+    "note": "強調構文の外側（It is〜）だけを見てSVCとする説明もあるが、多くの文法書は元の文の文型で判定する。",
+    "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray (Preface)", "workJa": "ドリアン・グレイの肖像（序文）", "year": 1891
+  },
+  {
+    "id": "melville-bartleby-1",
+    "text": "I would prefer not to.",
+    "target": "",
+    "answer": 3,
+    "parts": [["I", "S"], ["would prefer", "V"], ["not to.", "O"]],
+    "point": "目的語が to だけ（代不定詞）なので、何もないように見える。",
+    "explanation": "not to は not to (do that) の省略で、to不定詞の名詞用法として prefer の目的語。「そうしない方がいいのですが」でSVO。",
+    "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Bartleby, the Scrivener", "workJa": "書記バートルビー", "year": 1853
+  },
+  {
+    "id": "austen-persuasion-2",
+    "text": "She had been forced into prudence in her youth, she learned romance as she grew older: the natural sequel of an unnatural beginning.",
+    "target": "she learned romance as she grew older",
+    "answer": 3,
+    "parts": [["she", "S"], ["learned", "V"], ["romance", "O"], ["as she grew older", "M"]],
+    "point": "従属節 she grew older（SVC）に引きずられないこと。",
+    "explanation": "learned は他動詞で romance が目的語。as節（年を重ねるにつれて）は修飾語なのでSVO。",
+    "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Persuasion", "workJa": "説得", "year": 1817
+  },
+  {
+    "id": "hardy-tess-1",
+    "text": "\"Justice\" was done, and the President of the Immortals, in Æschylean phrase, had ended his sport with Tess.",
+    "target": "the President of the Immortals, in Æschylean phrase, had ended his sport with Tess",
+    "answer": 3,
+    "parts": [["the President of the Immortals,", "S"], ["in Æschylean phrase,", "M"], ["had ended", "V"], ["his sport", "O"], ["with Tess", "M"]],
+    "point": "主語と動詞の間に挿入句。with Tess を目的語と見ないこと。",
+    "explanation": "in Æschylean phrase（アイスキュロス風に言えば）は挿入の修飾語。end は他動詞で his sport（戯れ）が目的語、with Tess は修飾語なのでSVO。",
+    "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Tess of the d'Urbervilles", "workJa": "ダーバヴィル家のテス", "year": 1891
+  },
+  {
+    "id": "dickens-copperfield-1",
+    "text": "Whether I shall turn out to be the hero of my own life, or whether that station will be held by anybody else, these pages must show.",
+    "target": "",
+    "answer": 3,
+    "parts": [["Whether I shall turn out to be the hero of my own life, or whether that station will be held by anybody else,", "O"], ["these pages", "S"], ["must show.", "V"]],
+    "point": "文頭の Whether節を「〜かどうかにかかわらず」の副詞節と読むと、show の目的語がなくなる。",
+    "explanation": "Whether節は「〜かどうか」という名詞節で、show の目的語が文頭に出た倒置。普通の語順なら These pages must show whether ... でSVO。",
+    "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
+  },
+  {
+    "id": "poe-cask-1",
+    "text": "The thousand injuries of Fortunato I had borne as I best could; but when he ventured upon insult, I vowed revenge.",
+    "target": "The thousand injuries of Fortunato I had borne as I best could",
+    "answer": 3,
+    "parts": [["The thousand injuries of Fortunato", "O"], ["I", "S"], ["had borne", "V"], ["as I best could", "M"]],
+    "point": "文頭の名詞句は主語ではなく、前に出た目的語。",
+    "explanation": "普通の語順なら I had borne the thousand injuries of Fortunato。bear（耐える）は他動詞でSVO。",
+    "author": "Edgar Allan Poe", "authorJa": "エドガー・アラン・ポー", "work": "The Cask of Amontillado", "workJa": "アモンティラードの酒樽", "year": 1846
+  },
+  {
+    "id": "fitzgerald-gatsby-2",
+    "text": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
+    "target": "",
+    "answer": 4,
+    "parts": [["In my younger and more vulnerable years", "M"], ["my father", "S"], ["gave", "V"], ["me", "O1"], ["some advice that I've been turning over in my mind ever since.", "O2"]],
+    "point": "文頭の長い前置詞句で主語を見失わないこと。",
+    "explanation": "give＋人＋物の典型的な第4文型。関係詞節 that I've been ... は advice を修飾しており、まとめて直接目的語になる。",
+    "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
+  },
+  {
+    "id": "wilde-happy-prince-1",
+    "text": "\"Bring me the two most precious things in the city,\" said God to one of His Angels; and the Angel brought Him the leaden heart and the dead bird.",
+    "target": "the Angel brought Him the leaden heart and the dead bird",
+    "answer": 4,
+    "parts": [["the Angel", "S"], ["brought", "V"], ["Him", "O1"], ["the leaden heart and the dead bird", "O2"]],
+    "point": "前半の命令文 Bring me ... も第4文型。大文字の Him は神を指す。",
+    "explanation": "bring＋人＋物で「人に物を持ってくる」。Him ≠ the leaden heart なのでSVOO。",
+    "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Happy Prince", "workJa": "幸福な王子", "year": 1888
+  },
+  {
+    "id": "austen-pp-3",
+    "text": "You could not have made me the offer of your hand in any possible way that would have tempted me to accept it.",
+    "target": "",
+    "answer": 4,
+    "parts": [["You", "S"], ["could not have made", "V"], ["me", "O1"], ["the offer of your hand", "O2"], ["in any possible way that would have tempted me to accept it.", "M"]],
+    "point": "make me ＋名詞 は第5文型（私を〜にする）にもなる形。意味で見分ける。",
+    "explanation": "make 人 an offer は「人に申し込みをする」。me ≠ the offer なので、me が間接目的語、the offer of your hand（結婚の申し込み）が直接目的語のSVOO。in any possible way 以下は修飾語。",
+    "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
+  },
+  {
+    "id": "austen-persuasion-1",
+    "text": "Either of them would, in all probability, make him an affectionate, good-humoured wife.",
+    "target": "",
+    "answer": 4,
+    "parts": [["Either of them", "S"], ["would,", "V"], ["in all probability,", "M"], ["make", "V"], ["him", "O1"], ["an affectionate, good-humoured wife.", "O2"]],
+    "point": "make him a wife を「彼を妻にする」と読むと意味が破綻する。最難関の第4文型。",
+    "explanation": "ここでの make は「（人にとって）〜になる」。「どちらの娘も彼にとって愛情深く気立てのよい妻になるだろう」。him ≠ wife（wife になるのは主語の Either of them）なのでSVOOとして扱う。",
+    "note": "この make は become に近いため、SV＋O＋C的な特殊な第4文型として説明されることもある。He will make her a good husband 型として多くの文法書が第4文型に分類している。",
+    "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Persuasion", "workJa": "説得", "year": 1817
+  },
+  {
+    "id": "eliot-middlemarch-1",
+    "text": "If he makes me an offer, I shall accept him.",
+    "target": "If he makes me an offer",
+    "answer": 4,
+    "parts": [["If", "M"], ["he", "S"], ["makes", "V"], ["me", "O1"], ["an offer", "O2"]],
+    "point": "同じ make me ＋名詞 でも、me = an offer にはならない。",
+    "explanation": "make 人 an offer「人に申し込みをする」。me ≠ an offer なのでSVOO。",
+    "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
+  },
+  {
+    "id": "dickens-expectations-3",
+    "text": "Her mother died when she was a baby, and her father denied her nothing.",
+    "target": "her father denied her nothing",
+    "answer": 4,
+    "parts": [["her father", "S"], ["denied", "V"], ["her", "O1"], ["nothing", "O2"]],
+    "point": "deny は「否定する」（SVO）だけでなく「人に物を与えない」（SVOO）にもなる。",
+    "explanation": "deny＋人＋物「人に物を拒む」。直訳は「彼女に何ものも拒まなかった」＝何でも与えた。her ≠ nothing なのでSVOO。",
+    "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
+  },
+  {
+    "id": "dickens-expectations-4",
+    "text": "You cost me that place.",
+    "target": "",
+    "answer": 4,
+    "parts": [["You", "S"], ["cost", "V"], ["me", "O1"], ["that place.", "O2"]],
+    "point": "cost は「（費用が）かかる」以外に「人に物を失わせる」の意味を持つ。",
+    "explanation": "cost＋人＋物「人に物を失わせる」。「お前のせいで俺はあの職を失った」。me ≠ that place なのでSVOO。",
+    "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
+  },
+  {
+    "id": "bronte-jane-eyre-4",
+    "text": "For my part, I wish you no ill and all good.",
+    "target": "",
+    "answer": 4,
+    "parts": [["For my part,", "M"], ["I", "S"], ["wish", "V"], ["you", "O1"], ["no ill and all good.", "O2"]],
+    "point": "wish は that節を取る用法が目立つが、wish＋人＋物の第4文型もある。",
+    "explanation": "wish 人 物「人に物（幸運など）を願う」。you ≠ no ill and all good なのでSVOO。I wish you a merry Christmas と同じ形。",
+    "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
+  },
+  {
+    "id": "dickens-copperfield-2",
+    "text": "I made him a bow.",
+    "target": "",
+    "answer": 4,
+    "parts": [["I", "S"], ["made", "V"], ["him", "O1"], ["a bow.", "O2"]],
+    "point": "「彼をおじぎにした」では意味をなさない。make him a ＋名詞 の引っかけ。",
+    "explanation": "make 人 a bow「人におじぎをする」。him ≠ a bow なのでSVOO。",
+    "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
+  },
+  {
+    "id": "melville-moby-1",
+    "text": "Call me Ishmael.",
+    "target": "",
+    "answer": 5,
+    "parts": [["Call", "V"], ["me", "O"], ["Ishmael.", "C"]],
+    "point": "命令文なので主語 You が省略されている。",
+    "explanation": "call O C「OをCと呼ぶ」。me = Ishmael の関係が成り立つのでSVOC。SVOOだと「私にイシュメールを呼べ」となり意味が通らない。",
+    "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
+  },
+  {
+    "id": "melville-moby-2",
+    "text": "Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off—then, I account it high time to get to sea as soon as I can.",
+    "target": "I account it high time to get to sea as soon as I can",
+    "answer": 5,
+    "parts": [["I", "S"], ["account", "V"], ["it", "O(仮)"], ["high time", "C"], ["to get to sea as soon as I can", "O(真)"]],
+    "point": "4つの whenever節はすべて修飾語。主節にたどり着くまでに find myself growing（SVOC）が2回出てきて惑わす。",
+    "explanation": "it は後ろの to get to sea ... を指す仮目的語。account O C「OをCとみなす」で、「すぐに海に出るべき時だと考える」。it = high time なのでSVOC。",
+    "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
+  },
+  {
+    "id": "melville-moby-3",
+    "text": "They think me mad—Starbuck does; but I'm demoniac, I am madness maddened!",
+    "target": "They think me mad",
+    "answer": 5,
+    "parts": [["They", "S"], ["think", "V"], ["me", "O"], ["mad", "C"]],
+    "point": "think の後ろに that節が来ない形。",
+    "explanation": "think O C「OをCだと思う」。me = mad（私が狂っている）の関係なのでSVOC。",
+    "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
+  },
+  {
+    "id": "dickens-expectations-2",
+    "text": "So, I called myself Pip, and came to be called Pip.",
+    "target": "I called myself Pip",
+    "answer": 5,
+    "parts": [["I", "S"], ["called", "V"], ["myself", "O"], ["Pip", "C"]],
+    "point": "再帰代名詞 myself も目的語になる。",
+    "explanation": "call O C で myself = Pip の関係なのでSVOC。後半の came to be called Pip は受け身で、これは問われていない。",
+    "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
+  },
+  {
+    "id": "wilde-dorian-1b",
+    "text": "The books that the world calls immoral are books that show the world its own shame.",
+    "target": "that the world calls immoral",
+    "answer": 5,
+    "parts": [["that", "O"], ["the world", "S"], ["calls", "V"], ["immoral", "C"]],
+    "point": "関係詞節の中だけを判定する問題。目的語は関係代名詞 that。",
+    "explanation": "that は先行詞 books を受ける関係代名詞で calls の目的語。元に戻すと the world calls the books immoral（世間がそれらの本を不道徳と呼ぶ）でSVOC。",
+    "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
+  },
+  {
+    "id": "wilde-dorian-4",
+    "text": "It had kept him awake at night.",
+    "target": "",
+    "answer": 5,
+    "parts": [["It", "S"], ["had kept", "V"], ["him", "O"], ["awake", "C"], ["at night.", "M"]],
+    "point": "awake を「起こす」という動詞と見間違えないこと。ここでは形容詞。",
+    "explanation": "keep O C「OをCの状態に保つ」。him = awake（彼が目覚めている）の関係なのでSVOC。",
+    "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
+  },
+  {
+    "id": "conrad-darkness-3",
+    "text": "He considered it necessary to sigh, but neglected to be consistently sorrowful.",
+    "target": "He considered it necessary to sigh",
+    "answer": 5,
+    "parts": [["He", "S"], ["considered", "V"], ["it", "O(仮)"], ["necessary", "C"], ["to sigh", "O(真)"]],
+    "point": "it が何を指すかを見抜く。前の文の内容ではなく、後ろの to sigh。",
+    "explanation": "it は to sigh を指す仮目的語。consider O C「OをCとみなす」で、「ため息をつくことを必要だとみなした」。it = necessary なのでSVOC。",
+    "author": "Joseph Conrad", "authorJa": "ジョゼフ・コンラッド", "work": "Heart of Darkness", "workJa": "闇の奥", "year": 1899
+  },
+  {
+    "id": "austen-pp-2",
+    "text": "You must allow me to tell you how ardently I admire and love you.",
+    "target": "",
+    "answer": 5,
+    "parts": [["You", "S"], ["must allow", "V"], ["me", "O"], ["to tell you how ardently I admire and love you.", "C"]],
+    "point": "to不定詞の中の tell you how ...（SVOO）に惑わされないこと。",
+    "explanation": "allow O to do「Oが〜するのを許す」。me と to tell の間に「私が言う」という主述関係があるので、日本の学校文法ではSVOCとして扱う。",
+    "note": "SVO＋to不定詞を第5文型に含めるかは文法書によって異なる。本アプリは学校文法の一般的な扱い（第5文型）に従う。",
+    "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
+  },
+  {
+    "id": "austen-pp-4",
+    "text": "Mr. Bingley thought her quite beautiful, and danced with her twice.",
+    "target": "Mr. Bingley thought her quite beautiful",
+    "answer": 5,
+    "parts": [["Mr. Bingley", "S"], ["thought", "V"], ["her", "O"], ["quite beautiful", "C"]],
+    "point": "think の後ろに that が省略されているわけではない（that she was ではなく her）。",
+    "explanation": "think O C「OをCだと思う」。her = quite beautiful の関係なのでSVOC。",
+    "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
+  },
+  {
+    "id": "shelley-frankenstein-1",
+    "text": "I was benevolent and good; misery made me a fiend.",
+    "target": "misery made me a fiend",
+    "answer": 5,
+    "parts": [["misery", "S"], ["made", "V"], ["me", "O"], ["a fiend", "C"]],
+    "point": "make me a ＋名詞。I made him a bow（第4文型）と同じ見た目。",
+    "explanation": "「不幸が私を悪鬼にした」。me = a fiend（私が悪鬼である）の関係が成り立つのでSVOC。",
+    "author": "Mary Shelley", "authorJa": "メアリー・シェリー", "work": "Frankenstein", "workJa": "フランケンシュタイン", "year": 1818
+  },
+  {
+    "id": "shelley-frankenstein-2",
+    "text": "Make me happy, and I shall again be virtuous.",
+    "target": "Make me happy",
+    "answer": 5,
+    "parts": [["Make", "V"], ["me", "O"], ["happy", "C"]],
+    "point": "命令文＋and の構文。主語 You が省略されている。",
+    "explanation": "make O C「OをCにする」。me = happy の関係なのでSVOC。",
+    "author": "Mary Shelley", "authorJa": "メアリー・シェリー", "work": "Frankenstein", "workJa": "フランケンシュタイン", "year": 1818
+  },
+  {
+    "id": "eliot-middlemarch-2",
+    "text": "If they would make him a bishop, now!",
+    "target": "they would make him a bishop",
+    "answer": 5,
+    "parts": [["they", "S"], ["would make", "V"], ["him", "O"], ["a bishop", "C"]],
+    "point": "同じ作品の If he makes me an offer（第4文型）と見比べたい一文。",
+    "explanation": "「彼を主教にしてくれたらねえ」。him = a bishop（彼が主教である）の関係が成り立つのでSVOC。",
+    "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
+  },
+  {
+    "id": "wharton-innocence-1",
+    "text": "Madame Olenska has had an unhappy life: that doesn't make her an outcast.",
+    "target": "that doesn't make her an outcast",
+    "answer": 5,
+    "parts": [["that", "S"], ["doesn't make", "V"], ["her", "O"], ["an outcast", "C"]],
+    "point": "主語 that は前半の内容（不幸な人生を送ったこと）を指す。",
+    "explanation": "「だからといって彼女が追放者になるわけではない」。her = an outcast の関係なのでSVOC。",
+    "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The Age of Innocence", "workJa": "エイジ・オブ・イノセンス", "year": 1920
+  },
+  {
+    "id": "james-ambassadors-1",
+    "text": "Live all you can; it's a mistake not to.",
+    "target": "it's a mistake not to",
+    "answer": 2,
+    "parts": [["it", "S(仮)"], ["'s", "V"], ["a mistake", "C"], ["not to", "S(真)"]],
+    "point": "真主語が not to だけ（代不定詞）なので、仮主語構文だと気づきにくい。",
+    "explanation": "it は not to (live all you can)「精一杯生きないこと」を指す仮主語。it = a mistake の関係なのでSVC。",
+    "author": "Henry James", "authorJa": "ヘンリー・ジェイムズ", "work": "The Ambassadors", "workJa": "使者たち", "year": 1903
+  }
+]
