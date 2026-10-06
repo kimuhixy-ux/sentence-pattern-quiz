@@ -178,6 +178,7 @@ function renderFeedback(q, isCorrect) {
   result.textContent = `${isCorrect ? '正解' : '不正解'}　答え: ${patternText(q.answer)}`;
   result.classList.toggle('is-correct', isCorrect);
   result.classList.toggle('is-wrong', !isCorrect);
+  setOptionalText('feedback-translation', q.translation ? `訳: ${q.translation}` : '');
   renderParts(q.parts || []);
   setOptionalText('feedback-point', q.point ? `引っかけポイント: ${q.point}` : '');
   setOptionalText('feedback-explanation', q.explanation || '');
@@ -281,6 +282,7 @@ function handleRegisterSubmit(event) {
     text,
     target,
     answer: Number(checked.value),
+    translation: $('input-translation').value.trim(),
     explanation: $('input-explanation').value.trim(),
     source: $('input-source').value.trim()
   });

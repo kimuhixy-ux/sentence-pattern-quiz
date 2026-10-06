@@ -200,6 +200,7 @@ mark {
 .is-correct.feedback-result { color: var(--correct); }
 .is-wrong.feedback-result { color: var(--wrong); }
 .feedback-point { font-weight: 600; }
+.translation { padding: 8px 12px; border-radius: 6px; background: var(--bg); }
 .feedback-note { color: var(--muted); font-size: 0.9rem; }
 
 .parts {

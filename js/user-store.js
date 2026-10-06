@@ -23,7 +23,7 @@ function saveUserQuestions(list) {
   }
 }
 
-export function addUserQuestion({ text, target, answer, explanation, source }) {
+export function addUserQuestion({ text, target, answer, translation, explanation, source }) {
   const list = loadUserQuestions();
   list.push({
     id: `user-${Date.now()}`,
@@ -32,6 +32,7 @@ export function addUserQuestion({ text, target, answer, explanation, source }) {
     answer,
     parts: [],
     point: '',
+    translation,
     explanation,
     source,
     isUser: true
