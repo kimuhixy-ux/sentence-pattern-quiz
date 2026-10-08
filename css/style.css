@@ -269,3 +269,38 @@ mark {
   /* iOS Safari は16px未満の入力欄でフォーカス時に勝手にズームするため */
   font: 400 16px/1.5 var(--sans);
 }
+
+.api-settings {
+  margin-bottom: 20px;
+  padding: 0 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+/* 折りたたみの見出しもタップしやすいよう 44px の高さを確保する */
+.api-settings summary {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.api-settings .note { color: var(--muted); font-size: 0.9rem; margin: 0 0 12px; }
+.api-settings .field { display: block; margin-bottom: 12px; font-weight: 600; }
+.api-settings .message { margin-bottom: 12px; }
+
+.api-settings input[type="password"] {
+  display: block;
+  width: 100%;
+  margin-top: 6px;
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  font: 400 16px/1.5 var(--sans);
+}
+
+#auto-judge-button { margin-bottom: 4px; }
+#auto-judge-message { margin-bottom: 16px; }

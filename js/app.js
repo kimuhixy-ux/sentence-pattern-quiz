@@ -1,4 +1,5 @@
 import { loadUserQuestions, addUserQuestion, removeUserQuestion } from './user-store.js';
+import { loadApiKey, saveApiKey, judgeSentence } from './auto-judge.js';
 
 const PATTERNS = [
   { n: 1, label: '第1文型', form: 'SV' },
@@ -46,6 +47,8 @@ function bindEvents() {
   $('home-button').addEventListener('click', () => showScreen('home'));
   $('register-back-button').addEventListener('click', () => showScreen('home'));
   $('register-form').addEventListener('submit', handleRegisterSubmit);
+  $('save-api-key-button').addEventListener('click', handleSaveApiKey);
+  $('auto-judge-button').addEventListener('click', handleAutoJudge);
 }
 
 function showScreen(name) {
@@ -259,6 +262,9 @@ function renderAnswerRadios() {
 
 function openRegister() {
   $('register-message').textContent = '';
+  $('auto-judge-message').textContent = '';
+  $('api-key-message').textContent = '';
+  $('input-api-key').value = loadApiKey();
   renderUserList();
   showScreen('register');
 }
@@ -291,6 +297,45 @@ function handleRegisterSubmit(event) {
     $('register-form').reset();
     renderUserList();
   }
+}
+
+function handleSaveApiKey() {
+  const key = $('input-api-key').value.trim();
+  const saved = saveApiKey(key);
+  $('api-key-message').textContent = !saved ? '保存できませんでした（プライベートブラウズでは保存できません）。'
+    : key ? '保存しました。' : 'キーを削除しました。';
+}
+
+async function handleAutoJudge() {
+  const text = $('input-text').value.trim();
+  const message = $('auto-judge-message');
+  const button = $('auto-judge-button');
+  if (!text) { message.textContent = '先に英文を入力してください。'; return; }
+  const apiKey = loadApiKey();
+  if (!apiKey) {
+    message.textContent = '上の「自動判定の設定」で API キーを保存してください。';
+    $('api-settings').open = true;
+    return;
+  }
+  // 判定中に連打されると料金が重複してかかるため、終わるまで押せなくする
+  button.disabled = true;
+  message.textContent = '判定中です…（10秒ほどかかります）';
+  try {
+    const result = await judgeSentence(text, apiKey);
+    fillJudgement(result);
+    message.textContent = '自動で入力しました。AIの判定は間違えることもあるので、確認してから登録してください。';
+  } catch (error) {
+    message.textContent = error.message;
+  } finally {
+    button.disabled = false;
+  }
+}
+
+function fillJudgement({ answer, translation, explanation }) {
+  const radio = document.querySelector(`input[name="answer"][value="${answer}"]`);
+  if (radio) radio.checked = true;
+  $('input-translation').value = translation;
+  $('input-explanation').value = explanation;
 }
 
 function renderUserList() {

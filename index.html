@@ -78,10 +78,22 @@
       </header>
       <h2>自分の英文を登録</h2>
 
+      <details id="api-settings" class="api-settings">
+        <summary>自動判定の設定（API キー）</summary>
+        <p class="note">Claude の API キーを入れると、英文から文型・訳文・解説を自動で入れられます。キーはこの端末の中にだけ保存されます。</p>
+        <label class="field">API キー
+          <input id="input-api-key" type="password" autocomplete="off" autocapitalize="off" spellcheck="false">
+        </label>
+        <button id="save-api-key-button" class="button small" type="button">保存</button>
+        <p id="api-key-message" class="message" role="status"></p>
+      </details>
+
       <form id="register-form" class="register-form">
         <label class="field">英文（必須）
           <textarea id="input-text" rows="4" lang="en" autocapitalize="off" spellcheck="false" required></textarea>
         </label>
+        <button id="auto-judge-button" class="button" type="button">自動判定（文型・訳文・解説を入れる）</button>
+        <p id="auto-judge-message" class="message" role="status"></p>
         <label class="field">判定する部分（任意・英文からそのままコピー）
           <input id="input-target" type="text" lang="en" autocapitalize="off" spellcheck="false">
         </label>
