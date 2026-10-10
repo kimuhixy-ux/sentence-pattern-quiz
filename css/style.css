@@ -313,3 +313,38 @@ mark {
 
 #auto-judge-button { margin-bottom: 4px; }
 #auto-judge-message { margin-bottom: 16px; }
+
+.message.ok { color: var(--correct); }
+
+.word-picker-label { font-size: 0.9rem; color: var(--muted); margin: 12px 0 6px; }
+
+/* 1語ずつのボタン。指で押しやすいよう高さ44pxを確保し、選んだ語は色で分かるようにする */
+.word-picker { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+
+.word-chip {
+  min-height: 44px;
+  min-width: 44px;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.word-chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+
+#clear-words-button { margin-top: 8px; }
+
+.send-words-text {
+  width: 100%;
+  margin-top: 8px;
+  padding: 8px;
+  font-size: 16px; /* iOS で16px未満だと選択時に画面が勝手に拡大されるため */
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+}

@@ -1,4 +1,7 @@
-import { loadUserQuestions, addUserQuestion, removeUserQuestion } from './user-store.js';
+import {
+  loadUserQuestions, addUserQuestion, removeUserQuestion,
+  loadPickedWords, togglePickedWord, clearPickedWords
+} from './user-store.js';
 import { loadApiKey, saveApiKey, judgeSentence } from './auto-judge.js';
 
 const PATTERNS = [
@@ -13,6 +16,9 @@ const PATTERNS = [
 const ROLE_LABELS = { O1: 'O₁', O2: 'O₂' };
 
 const IDIOM_CHOICE_COUNT = 4;
+
+// 単語帳アプリが貼り付けられた文字列を見分けるための目印。単語帳側と同じ値にする
+const WORDS_HEADER = 'BUNKEI-QUIZ-WORDS';
 
 const state = {
   builtinQuestions: [],
@@ -53,9 +59,12 @@ function bindEvents() {
   $('register-form').addEventListener('submit', handleRegisterSubmit);
   $('save-api-key-button').addEventListener('click', handleSaveApiKey);
   $('auto-judge-button').addEventListener('click', handleAutoJudge);
+  $('send-words-button').addEventListener('click', handleSendWords);
+  $('clear-words-button').addEventListener('click', handleClearWords);
 }
 
 function showScreen(name) {
+  if (name === 'home') updateSendWordsButton();
   document.querySelectorAll('.screen').forEach((el) => {
     el.hidden = el.id !== `screen-${name}`;
   });
@@ -255,6 +264,7 @@ function renderFeedback(q, isCorrect) {
   result.classList.toggle('is-correct', isCorrect);
   result.classList.toggle('is-wrong', !isCorrect);
   setOptionalText('feedback-translation', q.translation ? `訳: ${q.translation}` : '');
+  renderWordPicker(q);
   // イディオム問題では文型の解説を出さず、熟語の意味と訳文に集中させる
   renderParts(isIdiom ? [] : q.parts || []);
   setOptionalText('feedback-point', !isIdiom && q.point ? `引っかけポイント: ${q.point}` : '');
@@ -447,6 +457,74 @@ function createUserListItem(q) {
   });
   li.append(sentence, meta, del);
   return li;
+}
+
+// 英文を単語に分けてボタンにする。I’m や well-known のような語は1語として残す
+function splitWords(text) {
+  const words = text.match(/[A-Za-zÀ-ÿæœ]+(?:[’'-][A-Za-zÀ-ÿæœ]+)*/g) || [];
+  const seen = new Set();
+  return words.filter((w) => {
+    const key = w.toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function renderWordPicker(q) {
+  const wrap = $('word-picker');
+  wrap.replaceChildren();
+  const picked = new Set(loadPickedWords().map((w) => w.word.toLowerCase()));
+  splitWords(q.text).forEach((word, i) => {
+    // 文頭の大文字は固有名詞と区別がつかないので、文頭だけ小文字にそろえる
+    const entry = i === 0 && word.slice(1) === word.slice(1).toLowerCase() ? word.toLowerCase() : word;
+    const chip = document.createElement('button');
+    chip.type = 'button';
+    chip.className = 'word-chip';
+    chip.textContent = entry;
+    chip.setAttribute('aria-pressed', String(picked.has(entry.toLowerCase())));
+    chip.addEventListener('click', () => {
+      const added = togglePickedWord({
+        word: entry, sentence: q.text, translation: q.translation || '', source: formatSource(q)
+      });
+      chip.setAttribute('aria-pressed', String(added));
+    });
+    wrap.append(chip);
+  });
+}
+
+function updateSendWordsButton() {
+  const count = loadPickedWords().length;
+  $('send-words-button').textContent = `単語帳へ送る（${count}語）`;
+  $('send-words-button').disabled = count === 0;
+  $('clear-words-button').hidden = count === 0;
+}
+
+// 単語帳は別アプリで保存場所も別なので、クリップボード経由で受け渡す
+async function handleSendWords() {
+  const words = loadPickedWords();
+  const payload = `${WORDS_HEADER}\n${JSON.stringify(words)}`;
+  try {
+    await navigator.clipboard.writeText(payload);
+    $('send-words-message').textContent =
+      `${words.length}語をコピーしました。単語帳アプリで「文型クイズから取りこむ」を押してください。`;
+  } catch {
+    // 自動コピーを断られた環境でも渡せるよう、文字列を見せて手でコピーしてもらう
+    const box = $('send-words-text');
+    box.value = payload;
+    box.hidden = false;
+    box.select();
+    $('send-words-message').textContent =
+      '自動でコピーできませんでした。下の欄を長押しして「すべてを選択」→「コピー」してください。';
+  }
+}
+
+function handleClearWords() {
+  if (!window.confirm('送る単語の候補をすべて消しますか？（単語帳に取りこんだ単語は消えません）')) return;
+  clearPickedWords();
+  $('send-words-message').textContent = '';
+  $('send-words-text').hidden = true;
+  updateSendWordsButton();
 }
 
 function registerServiceWorker() {

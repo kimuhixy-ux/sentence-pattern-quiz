@@ -44,3 +44,43 @@ export function removeUserQuestion(id) {
   const list = loadUserQuestions().filter((q) => q.id !== id);
   return saveUserQuestions(list);
 }
+
+// 単語帳アプリへ送る単語の候補。単語帳は別アプリなので、ここにためてからまとめてコピーで渡す
+const WORDS_KEY = 'sentence-pattern-quiz:picked-words';
+
+export function loadPickedWords() {
+  try {
+    const raw = localStorage.getItem(WORDS_KEY);
+    const list = raw ? JSON.parse(raw) : [];
+    return Array.isArray(list) ? list : [];
+  } catch {
+    return [];
+  }
+}
+
+function savePickedWords(list) {
+  try {
+    localStorage.setItem(WORDS_KEY, JSON.stringify(list));
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+// 同じ単語を二度タップしたら取り消しにする。大文字小文字の違いは同じ単語とみなす
+export function togglePickedWord({ word, sentence, translation, source }) {
+  const list = loadPickedWords();
+  const key = word.toLowerCase();
+  const index = list.findIndex((w) => w.word.toLowerCase() === key);
+  if (index >= 0) {
+    list.splice(index, 1);
+  } else {
+    list.push({ word, sentence, translation, source });
+  }
+  savePickedWords(list);
+  return index < 0;
+}
+
+export function clearPickedWords() {
+  return savePickedWords([]);
+}
