@@ -12,8 +12,11 @@ const PATTERNS = [
 // 画面表示用に O1/O2 を添字にする。データ側は入力しやすい ASCII のままにしておく
 const ROLE_LABELS = { O1: 'O₁', O2: 'O₂' };
 
+const IDIOM_CHOICE_COUNT = 4;
+
 const state = {
   builtinQuestions: [],
+  idioms: [],
   questions: [],
   index: 0,
   correctCount: 0,
@@ -32,6 +35,7 @@ async function init() {
     const res = await fetch('data/questions.json');
     if (!res.ok) throw new Error(String(res.status));
     state.builtinQuestions = await res.json();
+    state.idioms = state.builtinQuestions.flatMap((q) => q.idioms || []);
   } catch {
     $('home-message').textContent = '収録問題を読み込めませんでした。通信状態を確認してください。';
   }
@@ -63,7 +67,11 @@ function getCheckedValue(name) {
 }
 
 function readSettings() {
-  return { source: getCheckedValue('source'), count: Number(getCheckedValue('count')) };
+  return {
+    mode: getCheckedValue('mode'),
+    source: getCheckedValue('source'),
+    count: Number(getCheckedValue('count'))
+  };
 }
 
 function buildPool(source) {
@@ -71,6 +79,20 @@ function buildPool(source) {
   if (source === 'builtin') return [...state.builtinQuestions];
   if (source === 'user') return userQuestions;
   return [...state.builtinQuestions, ...userQuestions];
+}
+
+// 1つの文に熟語が複数あれば別々の問題にする。target を熟語に差し替え、既存の色付け表示をそのまま使う
+function toIdiomItems(questions) {
+  return questions.flatMap((q) => (q.idioms || []).map((idiom) => ({ ...q, target: idiom.phrase, idiom })));
+}
+
+function emptyPoolMessage(settings) {
+  if (settings.mode === 'idiom') {
+    return 'イディオムの問題は収録の名文にだけあります。「出題する英文」を「すべて」か「収録の名文」にしてください。';
+  }
+  return settings.source === 'user'
+    ? 'まだ英文が登録されていません。「自分の英文を登録する」から追加してください。'
+    : '出題できる問題がありません。';
 }
 
 function shuffle(list) {
@@ -83,11 +105,10 @@ function shuffle(list) {
 }
 
 function startQuiz(settings) {
-  const pool = shuffle(buildPool(settings.source));
+  const questions = buildPool(settings.source);
+  const pool = shuffle(settings.mode === 'idiom' ? toIdiomItems(questions) : questions);
   if (pool.length === 0) {
-    $('home-message').textContent = settings.source === 'user'
-      ? 'まだ英文が登録されていません。「自分の英文を登録する」から追加してください。'
-      : '出題できる問題がありません。';
+    $('home-message').textContent = emptyPoolMessage(settings);
     return;
   }
   $('home-message').textContent = '';
@@ -122,14 +143,60 @@ function renderQuestion() {
   const q = state.questions[state.index];
   const hasTarget = Boolean(q.target) && q.text.includes(q.target);
   $('progress').textContent = `${state.index + 1} / ${state.questions.length}`;
-  $('question-instruction').textContent = hasTarget
-    ? '色をつけた部分の文型は？'
-    : '文全体（主節）の文型は？';
+  $('question-instruction').textContent = questionInstruction(q, hasTarget);
   renderSentence($('question-text'), q.text, hasTarget ? q.target : '');
   $('question-source').textContent = formatSource(q);
   $('feedback').hidden = true;
+  $('answer-buttons').hidden = Boolean(q.idiom);
+  $('idiom-buttons').hidden = !q.idiom;
+  if (q.idiom) renderIdiomButtons(q);
   setAnswerButtonsEnabled(true);
   $('answer-buttons').querySelectorAll('button').forEach((b) => b.classList.remove('is-correct', 'is-wrong'));
+}
+
+function questionInstruction(q, hasTarget) {
+  if (q.idiom) return '色をつけたイディオムの意味は？';
+  return hasTarget ? '色をつけた部分の文型は？' : '文全体（主節）の文型は？';
+}
+
+// 似た意味の選択肢が並ぶと正解が2つになるので、同じ熟語や「・」区切りの訳語が重なるものは外す
+function pickIdiomChoices(idiom, candidates) {
+  const words = new Set(idiom.meaning.split('・'));
+  const used = new Set([idiom.meaning]);
+  const others = shuffle(candidates).filter((c) => {
+    if (c.base === idiom.base || used.has(c.meaning)) return false;
+    if (c.meaning.split('・').some((w) => words.has(w))) return false;
+    used.add(c.meaning);
+    return true;
+  });
+  return shuffle([idiom.meaning, ...others.slice(0, IDIOM_CHOICE_COUNT - 1).map((c) => c.meaning)]);
+}
+
+function renderIdiomButtons(q) {
+  const wrap = $('idiom-buttons');
+  wrap.replaceChildren();
+  pickIdiomChoices(q.idiom, state.idioms).forEach((meaning) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'answer-button idiom-button';
+    button.textContent = meaning;
+    button.addEventListener('click', () => handleIdiomAnswer(meaning));
+    wrap.append(button);
+  });
+}
+
+function handleIdiomAnswer(chosen) {
+  const q = state.questions[state.index];
+  const isCorrect = chosen === q.idiom.meaning;
+  if (isCorrect) state.correctCount += 1;
+  else state.missed.push({ question: q, chosen });
+
+  setAnswerButtonsEnabled(false);
+  $('idiom-buttons').querySelectorAll('button').forEach((b) => {
+    if (b.textContent === q.idiom.meaning) b.classList.add('is-correct');
+    else if (b.textContent === chosen) b.classList.add('is-wrong');
+  });
+  renderFeedback(q, isCorrect);
 }
 
 function renderAnswerButtons() {
@@ -151,7 +218,7 @@ function renderAnswerButtons() {
 }
 
 function setAnswerButtonsEnabled(enabled) {
-  $('answer-buttons').querySelectorAll('button').forEach((b) => {
+  document.querySelectorAll('#answer-buttons button, #idiom-buttons button').forEach((b) => {
     b.disabled = !enabled;
   });
 }
@@ -176,16 +243,23 @@ function patternText(n) {
   return p ? `${p.label}（${p.form}）` : '';
 }
 
+function idiomText(idiom) {
+  return `${idiom.base}＝${idiom.meaning}`;
+}
+
 function renderFeedback(q, isCorrect) {
   const result = $('feedback-result');
-  result.textContent = `${isCorrect ? '正解' : '不正解'}　答え: ${patternText(q.answer)}`;
+  const isIdiom = Boolean(q.idiom);
+  const answer = isIdiom ? idiomText(q.idiom) : patternText(q.answer);
+  result.textContent = `${isCorrect ? '正解' : '不正解'}　答え: ${answer}`;
   result.classList.toggle('is-correct', isCorrect);
   result.classList.toggle('is-wrong', !isCorrect);
   setOptionalText('feedback-translation', q.translation ? `訳: ${q.translation}` : '');
-  renderParts(q.parts || []);
-  setOptionalText('feedback-point', q.point ? `引っかけポイント: ${q.point}` : '');
-  setOptionalText('feedback-explanation', q.explanation || '');
-  setOptionalText('feedback-note', q.note ? `補足: ${q.note}` : '');
+  // イディオム問題では文型の解説を出さず、熟語の意味と訳文に集中させる
+  renderParts(isIdiom ? [] : q.parts || []);
+  setOptionalText('feedback-point', !isIdiom && q.point ? `引っかけポイント: ${q.point}` : '');
+  setOptionalText('feedback-explanation', isIdiom ? '' : q.explanation || '');
+  setOptionalText('feedback-note', !isIdiom && q.note ? `補足: ${q.note}` : '');
   $('next-button').textContent = state.index + 1 < state.questions.length ? '次へ' : '結果を見る';
   $('feedback').hidden = false;
   $('feedback').scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -238,7 +312,9 @@ function showResult() {
     renderSentence(sentence, question.text, question.target);
     const detail = document.createElement('p');
     detail.className = 'missed-detail';
-    detail.textContent = `あなた: ${patternText(chosen)} → 答え: ${patternText(question.answer)}`;
+    detail.textContent = question.idiom
+      ? `あなた: ${chosen} → 答え: ${idiomText(question.idiom)}`
+      : `あなた: ${patternText(chosen)} → 答え: ${patternText(question.answer)}`;
     li.append(sentence, detail);
     list.append(li);
   });

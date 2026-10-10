@@ -22,6 +22,12 @@
       <p class="lead">英米文学の名文で、5文型を見抜く。</p>
 
       <fieldset class="choice-group">
+        <legend>問題の種類</legend>
+        <label class="choice"><input type="radio" name="mode" value="pattern" checked> 文型</label>
+        <label class="choice"><input type="radio" name="mode" value="idiom"> イディオム</label>
+      </fieldset>
+
+      <fieldset class="choice-group">
         <legend>出題する英文</legend>
         <label class="choice"><input type="radio" name="source" value="all" checked> すべて</label>
         <label class="choice"><input type="radio" name="source" value="builtin"> 収録の名文</label>
@@ -51,6 +57,7 @@
       <p id="question-source" class="source"></p>
 
       <div id="answer-buttons" class="answer-buttons"></div>
+      <div id="idiom-buttons" class="idiom-buttons" hidden></div>
 
       <div id="feedback" class="feedback" hidden>
         <p id="feedback-result" class="feedback-result"></p>

@@ -186,6 +186,15 @@ mark {
 .answer-button.is-correct { border-color: var(--correct); opacity: 1; }
 .answer-button.is-wrong { border-color: var(--wrong); opacity: 1; }
 
+/* 訳語は長さがまちまちなので1列に並べ、2列だと折り返しで読みにくくなるのを避ける */
+.idiom-buttons {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+
+.idiom-button { min-height: 52px; text-align: center; }
+
 .feedback {
   margin-top: 20px;
   padding: 16px;
