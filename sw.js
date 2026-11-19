@@ -1,5 +1,5 @@
 // データやコードを更新したら必ず番号を上げる（上げ忘れると端末に古い版が残る）
-const CACHE_NAME = 'sentence-pattern-quiz-v12';
+const CACHE_NAME = 'sentence-pattern-quiz-v13';
 
 const PRECACHE_URLS = [
   './',
