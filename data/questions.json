@@ -5060,7 +5060,7 @@
     "point": "at a loss は前置詞句なので修飾語と見て、第1文型を選びやすい。しかしこれは「途方に暮れた状態」を表すので補語（I＝at a loss）。what to do 以下も補足。第2文型。",
     "explanation": "be＋状態を表す前置詞句で「〜の状態である」。I＝at a loss（途方に暮れている）の関係なので SVC。what to do 以下は「何をすべきか（について）」と at a loss を補う修飾語。",
     "note": "at a loss の後ろには本来 as to（〜について）があり、what to do はその目的語にあたる。",
-    "idioms": [{"phrase": "brought up", "base": "bring up", "meaning": "〜を育てる・しつける"}, {"phrase": "at first", "base": "at first", "meaning": "はじめは"}, {"phrase": "at a loss", "base": "at a loss", "meaning": "途方に暮れて"}],
+    "idioms": [{"phrase": "brought up", "base": "bring up", "meaning": "〜を育てる・しつける", "point": "bring（持ってくる）＋up（上へ）で「持ち上げる」や「（話題を）持ち出す」と読みやすい。人が目的語なら「子どもを上へ引き上げる」、つまり「育てる・しつける」の意味。"}, {"phrase": "at first", "base": "at first", "meaning": "はじめは", "point": "first を「1番目の」と読んで「最初に（＝順番の1番に）」と取りやすい。at first は「はじめのうちは（あとで変わった）」で、後の変化を前提にした言い方。"}, {"phrase": "at a loss", "base": "at a loss", "meaning": "途方に暮れて", "point": "loss を「損失」と読んで「損をして」と取りやすい。at a loss は「（どうすればよいか）わからなくなって」で、「途方に暮れて」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -5072,7 +5072,7 @@
     "parts": [["He", "S"], ["has made up", "V"], ["his mind", "O"], ["to leave off wandering at once, and to give up his dependence on your generosity.", "M"]],
     "point": "make up one's mind to do の to 不定詞を2つ目の要素と見て、第4文型や第5文型を選びやすい。to 不定詞は決心の中身を示す修飾語で、目的語は his mind の1つ。第3文型。",
     "explanation": "made up は make＋副詞 up のひとまとまりの他動詞で、his mind が目的語。to leave off 〜 と to give up 〜 は mind を補う修飾語。骨格は He has made up his mind＝SVO。",
-    "idioms": [{"phrase": "made up his mind", "base": "make up one’s mind", "meaning": "決心する"}, {"phrase": "leave off", "base": "leave off", "meaning": "〜をやめる"}, {"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち"}, {"phrase": "give up", "base": "give up", "meaning": "〜をやめる・手放す"}],
+    "idioms": [{"phrase": "made up his mind", "base": "make up one’s mind", "meaning": "決心する", "point": "make up を「作り上げる・化粧する」と読み、mind を「心」として「心を作る」と取りやすい。make up one's mind は「（迷いを）決着させる」で「決心する」。"}, {"phrase": "leave off", "base": "leave off", "meaning": "〜をやめる", "point": "leave を「去る・残す」と読んで「立ち去る」と取りやすい。leave off は「（していたことを）やめる」の意味。"}, {"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち", "point": "once を「一度・かつて」と読んで「一度に」や「かつて」と取りやすい。at once は「すぐに・たちまち」。ただし「同時に」の意味もあるので文脈で見分ける。"}, {"phrase": "give up", "base": "give up", "meaning": "〜をやめる・手放す", "point": "give（与える）＋up（上へ）で「差し出す・上げる」と読みやすい。give up は「（続けていたこと・持っていたものを）やめる・手放す」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -5084,7 +5084,7 @@
     "parts": [["he", "S"], ["picked up", "V"], ["his cane", "O"]],
     "point": "前半の I was at a loss（SVC）と同じ文にあるので、第2文型を選びやすい。判定するのは he picked up his cane で、picked up はひとまとまりの他動詞。目的語1つの第3文型。",
     "explanation": "pick up「〜を拾い上げる」の目的語が his cane なので SVO。up は副詞で動詞の一部として扱う。",
-    "idioms": [{"phrase": "picked up", "base": "pick up", "meaning": "〜を拾い上げる"}, {"phrase": "made up my mind", "base": "make up one’s mind", "meaning": "決心する"}],
+    "idioms": [{"phrase": "picked up", "base": "pick up", "meaning": "〜を拾い上げる", "point": "pick を「つつく・選ぶ」と読んで「選び出す」と取りやすい。ここの pick up は「（下にあるものを）拾い上げる・手に取る」の意味。"}, {"phrase": "made up my mind", "base": "make up one’s mind", "meaning": "決心する", "point": "make up を「作り上げる・化粧する」と読み、mind を「心」として「心を作る」と取りやすい。make up one's mind は「（迷いを）決着させる」で「決心する」。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Hound of the Baskervilles", "workJa": "バスカヴィル家の犬", "year": 1902
   },
   {
@@ -5096,7 +5096,7 @@
     "parts": [["so many of my loveliest dreams", "S"], ["have come", "V"], ["true", "C"], ["all at once", "M"]],
     "point": "come は「来る」の自動詞なので、true を修飾語と見て第1文型を選びやすい。come＋形容詞は「〜になる」で、形容詞は補語（dreams＝true）。so 〜 that 構文の that 以下は範囲外。第2文型。",
     "explanation": "come true は「本当になる＝実現する」。dreams＝true の関係が成り立つので SVC。all at once は副詞句で修飾語。",
-    "idioms": [{"phrase": "come true", "base": "come true", "meaning": "実現する・かなう"}, {"phrase": "all at once", "base": "all at once", "meaning": "一度に・突然"}, {"phrase": "so many of my loveliest dreams have come true all at once that", "base": "so … that 〜", "meaning": "とても…なので〜"}],
+    "idioms": [{"phrase": "come true", "base": "come true", "meaning": "実現する・かなう", "point": "come を「来る」と読んで「本当にやって来る」と取りやすい。come＋形容詞は「〜になる」で、come true は「（夢・予言が）本当になる＝実現する」。"}, {"phrase": "all at once", "base": "all at once", "meaning": "一度に・突然", "point": "all（すべて）＋at once（すぐに）で「全部すぐに」と読みやすい。all at once は「一度に・同時に」または「突然」の意味。"}, {"phrase": "so many of my loveliest dreams have come true all at once that", "base": "so … that 〜", "meaning": "とても…なので〜", "point": "so を「だから」と読んで、that 以下を別の文と取りやすい。so … that 〜 は「とても…なので〜」で、so が程度、that 以下が結果を表す。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -5108,7 +5108,7 @@
     "parts": [["Everything", "S"], ["comes", "V"], ["to light,", "M"], ["Nancy,", "M"], ["sooner or later.", "M"]],
     "point": "come to light（明るみに出る）の light を補語と見て、第2文型を選びやすい。to light は前置詞句の修飾語で、come は自動詞。Everything comes の第1文型。",
     "explanation": "comes は自動詞で、to light は「明るみへ」という方向の修飾語。Nancy は呼びかけ、sooner or later も修飾語。骨格は Everything comes＝SV。",
-    "idioms": [{"phrase": "comes to light", "base": "come to light", "meaning": "明るみに出る"}, {"phrase": "sooner or later", "base": "sooner or later", "meaning": "遅かれ早かれ"}],
+    "idioms": [{"phrase": "comes to light", "base": "come to light", "meaning": "明るみに出る", "point": "light を「軽い」と読んだり、「光の方へ来る」と字面どおりに取ったりしやすい。come to light は「（隠れていたことが）明るみに出る」。"}, {"phrase": "sooner or later", "base": "sooner or later", "meaning": "遅かれ早かれ", "point": "sooner（もっと早く）や later（もっと遅く）を比べる意味に取りやすい。sooner or later は「早いか遅いかはともかく、いずれ」で「遅かれ早かれ」。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Silas Marner", "workJa": "サイラス・マーナー", "year": 1861
   },
   {
@@ -5121,7 +5121,7 @@
     "point": "take advantage of 〜（〜を利用する）を「〜を」で訳すので、of の後ろの the confession を目的語と見やすい。目的語は動詞のすぐ後ろの advantage で、of 以下は前置詞句。目的語1つの第3文型。",
     "explanation": "had better は助動詞のように動詞の前につく。take の目的語が advantage で、of the confession は advantage を修飾する。SVO。",
     "note": "take advantage of をひとまとまりの他動詞とみて the confession を目的語とする説明もある。どちらでも SVO になる。",
-    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい"}, {"phrase": "take advantage of", "base": "take advantage of", "meaning": "〜を利用する・〜につけこむ"}, {"phrase": "for the sake of", "base": "for the sake of", "meaning": "〜のために"}],
+    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい", "point": "better を「よりよい」の比較と読んで「〜したほうがもっとよい」と軽く取りやすい。had better do は「〜すべきだ（しないと困る）」という強めの忠告。"}, {"phrase": "take advantage of", "base": "take advantage of", "meaning": "〜を利用する・〜につけこむ", "point": "advantage を「長所・有利」と読んで「有利を取る」と取りやすい。take advantage of は「〜を利用する」、人が目的語なら「〜につけこむ」の意味にもなる。"}, {"phrase": "for the sake of", "base": "for the sake of", "meaning": "〜のために", "point": "sake を日本語の「酒」と混同したり、知らない語で意味が取れなかったりしやすい。sake は「目的・利益」で、for the sake of は「〜のために」。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -5134,7 +5134,7 @@
     "point": "object to 〜 は「〜を嫌がる」と訳せるので、to の後ろを目的語と見て第3文型を選びやすい。object は自動詞で、to は前置詞。前置詞の後ろは文の目的語ではないので第1文型。",
     "explanation": "平叙文に戻すと You object to shaking hands with me.。object「反対する」は自動詞で、to 以下は前置詞句の修飾語。骨格は You object＝SV。",
     "note": "object to をひとまとまりの他動詞（群動詞）とみて SVO とする説明もある。本アプリは「前置詞の目的語は文の要素にしない」原則に従う。",
-    "idioms": [{"phrase": "object to", "base": "object to", "meaning": "〜に反対する・〜を嫌がる"}, {"phrase": "shaking hands with", "base": "shake hands with", "meaning": "〜と握手する"}],
+    "idioms": [{"phrase": "object to", "base": "object to", "meaning": "〜に反対する・〜を嫌がる", "point": "object を「物・目的」という名詞と読みやすい。ここは動詞で、object to 〜 は「〜に反対する・〜を嫌がる」。to は前置詞なので後ろは名詞か動名詞。"}, {"phrase": "shaking hands with", "base": "shake hands with", "meaning": "〜と握手する", "point": "shake を「振る・揺らす」と読んで「手を振る」と取りやすい。shake hands with 〜 は「〜と握手する」で、hands と複数になるのは二人の手だから。"}],
     "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
   },
   {
@@ -5146,7 +5146,7 @@
     "parts": [["He", "S"], ["shook", "V"], ["hands", "O"], ["with us", "M"], ["and took", "V"], ["his leave.", "O"]],
     "point": "shake hands（握手する）、take one's leave（いとまごいする）はひとまとまりの熟語なので、目的語がないように見え第1文型を選びやすい。hands も leave も名詞で、それぞれ動詞の目的語。第3文型。",
     "explanation": "shook の目的語が hands、took の目的語が his leave。2つの動詞がどちらも SVO。",
-    "idioms": [{"phrase": "shook hands with", "base": "shake hands with", "meaning": "〜と握手する"}, {"phrase": "took his leave", "base": "take one’s leave", "meaning": "いとまを告げる"}],
+    "idioms": [{"phrase": "shook hands with", "base": "shake hands with", "meaning": "〜と握手する", "point": "shake を「振る・揺らす」と読んで「手を振る」と取りやすい。shake hands with 〜 は「〜と握手する」で、hands と複数になるのは二人の手だから。"}, {"phrase": "took his leave", "base": "take one’s leave", "meaning": "いとまを告げる", "point": "leave を「去る」の動詞と読んで「去ることを取る」と混乱しやすい。ここの leave は名詞「許し・いとま」で、take one's leave は「いとまを告げる」。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -5158,7 +5158,7 @@
     "parts": [["I", "S"], ["’ll make", "V"], ["a point", "O"], ["of finding out", "M"]],
     "point": "make は第4文型・第5文型にもなる動詞なので、a point を補語と見やすい。make a point of 〜ing（必ず〜するようにする）は make＋a point（目的語）で、of 以下は前置詞句。第3文型。",
     "explanation": "make の目的語が a point、of finding out は a point を修飾する前置詞句。SVO。",
-    "idioms": [{"phrase": "make a point of", "base": "make a point of ~ing", "meaning": "必ず〜するようにする"}, {"phrase": "finding out", "base": "find out", "meaning": "〜を突き止める・知る"}],
+    "idioms": [{"phrase": "make a point of", "base": "make a point of ~ing", "meaning": "必ず〜するようにする", "point": "point を「点・要点」と読んで「〜の要点を作る」と取りやすい。make a point of ~ing は「必ず〜するようにする（〜することを大事にする）」。"}, {"phrase": "finding out", "base": "find out", "meaning": "〜を突き止める・知る", "point": "find（見つける）＋out（外へ）で「外で見つける」と読みやすい。find out は「（調べて事実を）突き止める・知る」の意味で、物を見つけるのではない。"}],
     "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
   },
   {
@@ -5170,7 +5170,7 @@
     "parts": [["I", "S"], ["couldn’t give up", "V"], ["the folks I’ve been used to.", "O"]],
     "point": "関係詞節の中の be used to 〜（〜に慣れている）が第2文型の形なので、そちらを判定しやすい。それは the folks を説明する修飾語。give up は「〜をあきらめる」の他動詞で、the folks が目的語。第3文型。",
     "explanation": "give up「〜を手放す」の目的語は the folks（人々）。I’ve been used to は folks を修飾する関係詞節（目的格の関係代名詞が省略）。SVO。",
-    "idioms": [{"phrase": "give up", "base": "give up", "meaning": "〜をやめる・手放す"}, {"phrase": "been used to", "base": "be used to", "meaning": "〜に慣れている"}],
+    "idioms": [{"phrase": "give up", "base": "give up", "meaning": "〜をやめる・手放す", "point": "give（与える）＋up（上へ）で「差し出す・上げる」と読みやすい。give up は「（続けていたこと・持っていたものを）やめる・手放す」の意味。"}, {"phrase": "been used to", "base": "be used to", "meaning": "〜に慣れている", "point": "used を use の過去分詞と読んで「使われる」という受動態に取りやすい。be used to 〜 は「〜に慣れている」で、to は前置詞（used to do「以前は〜した」とも別）。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Silas Marner", "workJa": "サイラス・マーナー", "year": 1861
   },
   {
@@ -5182,7 +5182,7 @@
     "parts": [["the man", "S"], ["must be got rid of", "V"], ["at once", "M"]],
     "point": "get rid of 〜（〜を取り除く）は他動詞の働きなので、第3文型を選びやすい。しかしこの文は受動態で、目的語だった the man が主語になり、目的語は残らない。at once は修飾語。第1文型。",
     "explanation": "能動態なら We must get rid of the man.（SVO）。受動態になると目的語が主語に移り、後ろに目的語が残らないので SV。",
-    "idioms": [{"phrase": "got rid of", "base": "get rid of", "meaning": "〜を取り除く・追い払う"}, {"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち"}],
+    "idioms": [{"phrase": "got rid of", "base": "get rid of", "meaning": "〜を取り除く・追い払う", "point": "rid を見慣れず、get を「得る」と読んで「〜を得る」と取りやすい。get rid of 〜 は「〜を取り除く・追い払う」で、意味はむしろ逆。"}, {"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち", "point": "once を「一度・かつて」と読んで「一度に」や「かつて」と取りやすい。at once は「すぐに・たちまち」。ただし「同時に」の意味もあるので文脈で見分ける。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -5195,7 +5195,7 @@
     "point": "give は give 人 物（第4文型）の代表的な動詞なので、第4文型を選びやすい。ここは give 物 to 人の形で、「人」は前置詞句。to take care of も目的を表す修飾語。目的語は it の1つの第3文型。",
     "explanation": "give の目的語は it（それ）で、to me は前置詞句の修飾語。to take care of は「預かるために」という目的の不定詞。SVO。",
     "note": "give me it と言えば SVOO になる。代名詞 it が目的語のときは give it to me の語順にするのが普通。",
-    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい"}, {"phrase": "take care of", "base": "take care of", "meaning": "〜の世話をする・〜を預かる"}],
+    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい", "point": "better を「よりよい」の比較と読んで「〜したほうがもっとよい」と軽く取りやすい。had better do は「〜すべきだ（しないと困る）」という強めの忠告。"}, {"phrase": "take care of", "base": "take care of", "meaning": "〜の世話をする・〜を預かる", "point": "care を「注意」と読んで「〜に気をつける」と取りやすい。take care of 〜 は「〜の世話をする・〜を預かる」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -5208,7 +5208,7 @@
     "point": "take は他動詞なので、place を目的語と見て第3文型を選びやすい。take place（行われる）は全体で自動詞1語に相当する熟語で、目的語はない。had better は助動詞のまとまり。第1文型。",
     "explanation": "挿入された I think を除くと The marriage had better take place quite soon.。take place は目的語を取らない自動詞の熟語なので SV。",
     "note": "place を形の上で take の目的語とみることもできるが、take place はひとまとまりで「起こる」という自動詞として扱うのが一般的。",
-    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい"}, {"phrase": "take place", "base": "take place", "meaning": "行われる・起こる"}],
+    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい", "point": "better を「よりよい」の比較と読んで「〜したほうがもっとよい」と軽く取りやすい。had better do は「〜すべきだ（しないと困る）」という強めの忠告。"}, {"phrase": "take place", "base": "take place", "meaning": "行われる・起こる", "point": "place を「場所」と読んで「場所を取る」と取りやすい。take place は「（行事などが）行われる・（出来事が）起こる」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Importance of Being Earnest", "workJa": "まじめが肝心", "year": 1895
   },
   {
@@ -5220,7 +5220,7 @@
     "parts": [["My child,", "M"], ["you", "S"], ["are", "V"], ["far too young", "C"], ["to think of falling in love.", "M"]],
     "point": "too 〜 to do の to 不定詞を目的語や補語の一部と見て、第3文型・第5文型を選びやすい。to 不定詞は形容詞 young を修飾する副詞用法。you＝too young の第2文型。",
     "explanation": "My child は呼びかけ。you＝young の関係なので SVC。to think of 以下は too young を限定する修飾語。",
-    "idioms": [{"phrase": "too young to", "base": "too … to do", "meaning": "あまりに…で〜できない"}, {"phrase": "think of", "base": "think of", "meaning": "〜のことを考える"}, {"phrase": "falling in love", "base": "fall in love", "meaning": "恋に落ちる"}],
+    "idioms": [{"phrase": "too young to", "base": "too … to do", "meaning": "あまりに…で〜できない", "point": "too を「〜もまた」と読んだり、to do を目的（〜するために）と取ったりしやすい。too … to do は「あまりに…なので〜できない」で、否定の意味を含む。"}, {"phrase": "think of", "base": "think of", "meaning": "〜のことを考える", "point": "think of を「〜を思いつく」や「〜をどう思うか」の意味だけで覚えていると取り違えやすい。ここは「〜のことを考える・思い浮かべる」の意味。"}, {"phrase": "falling in love", "base": "fall in love", "meaning": "恋に落ちる", "point": "fall を「落ちる」と読んで、恋から落ちる（冷める）と逆に取りやすい。fall in love は「恋に落ちる＝好きになる」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -5232,7 +5232,7 @@
     "parts": [["I", "S"], ["had taken", "V"], ["a loathing", "O"], ["to my gentleman", "M"], ["at first sight.", "M"]],
     "point": "take a loathing to 〜（〜を毛嫌いする）は「〜を」と訳すので、to の後ろを目的語と見やすい。目的語は動詞のすぐ後ろの a loathing で、to 以下は前置詞句。第3文型。",
     "explanation": "had taken の目的語が a loathing（嫌悪）。to my gentleman は嫌悪の向かう先、at first sight は「ひと目で」という修飾語。SVO。",
-    "idioms": [{"phrase": "at first sight", "base": "at first sight", "meaning": "ひと目で"}],
+    "idioms": [{"phrase": "at first sight", "base": "at first sight", "meaning": "ひと目で", "point": "first を「最初の」、sight を「景色」と読んで「最初の景色で」と取りやすい。at first sight は「ひと目見ただけで」の意味。"}],
     "author": "Robert Louis Stevenson", "authorJa": "ロバート・ルイス・スティーヴンソン", "work": "Strange Case of Dr Jekyll and Mr Hyde", "workJa": "ジキル博士とハイド氏", "year": 1886
   },
   {
@@ -5244,7 +5244,7 @@
     "parts": [["I", "S"], ["just", "M"], ["made up", "V"], ["my mind", "O"], ["to run away and explain afterwards.", "M"]],
     "point": "make up one's mind to do の to 不定詞を補語と見て、第5文型を選びやすい。to 不定詞は決心の中身を示す修飾語で、run away はその中。目的語は my mind の1つの第3文型。",
     "explanation": "made up の目的語が my mind。to run away and explain afterwards は決心の中身を表す修飾語。SVO。",
-    "idioms": [{"phrase": "made up my mind", "base": "make up one’s mind", "meaning": "決心する"}, {"phrase": "run away", "base": "run away", "meaning": "逃げる"}],
+    "idioms": [{"phrase": "made up my mind", "base": "make up one’s mind", "meaning": "決心する", "point": "make up を「作り上げる・化粧する」と読み、mind を「心」として「心を作る」と取りやすい。make up one's mind は「（迷いを）決着させる」で「決心する」。"}, {"phrase": "run away", "base": "run away", "meaning": "逃げる", "point": "run を「走る」と読んで「走り去る」と軽く取りやすい。run away は「（危険・束縛から）逃げる」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -5256,7 +5256,7 @@
     "parts": [["We", "S"], ["had better put", "V"], ["an end", "O"], ["to this most mortifying conference.", "M"]],
     "point": "put an end to 〜（〜を終わらせる）は「〜を」と訳すので、to の後ろを目的語と見やすい。また put は「置く」で場所を表す句を取るので迷いやすい。目的語は an end で、to 以下は前置詞句。第3文型。",
     "explanation": "put の目的語が an end、to 以下は「〜に」という前置詞句の修飾語。SVO。",
-    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい"}, {"phrase": "put an end to", "base": "put an end to", "meaning": "〜を終わらせる"}],
+    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい", "point": "better を「よりよい」の比較と読んで「〜したほうがもっとよい」と軽く取りやすい。had better do は「〜すべきだ（しないと困る）」という強めの忠告。"}, {"phrase": "put an end to", "base": "put an end to", "meaning": "〜を終わらせる", "point": "put を「置く」、end を「端」と読んで「〜の端に置く」と取りやすい。put an end to 〜 は「〜に終わりを置く＝〜を終わらせる」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Mansfield Park", "workJa": "マンスフィールド・パーク", "year": 1814
   },
   {
@@ -5268,7 +5268,7 @@
     "parts": [["He", "S"], ["’s made up", "V"], ["his mind", "O"], ["to make friends with thee", "M"]],
     "point": "He's を He is と読むと、made up を受動態と見て第2文型や第1文型を選びやすい。He's は He has の短縮で、has made up は現在完了。目的語は his mind で、make friends with は不定詞の中。第3文型。",
     "explanation": "has made up の目的語が his mind。to make friends with thee（お前と友達になること）は決心の中身で修飾語。SVO。thee は古い言い方の you。",
-    "idioms": [{"phrase": "made up his mind", "base": "make up one’s mind", "meaning": "決心する"}, {"phrase": "make friends with", "base": "make friends with", "meaning": "〜と友達になる"}],
+    "idioms": [{"phrase": "made up his mind", "base": "make up one’s mind", "meaning": "決心する", "point": "make up を「作り上げる・化粧する」と読み、mind を「心」として「心を作る」と取りやすい。make up one's mind は「（迷いを）決着させる」で「決心する」。"}, {"phrase": "make friends with", "base": "make friends with", "meaning": "〜と友達になる", "point": "make を「作る」と読み、friends が複数なので「友達を作る」と軽く取りやすい。make friends with 〜 は「〜と友達になる」で、相手と自分で複数になる。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -5281,7 +5281,7 @@
     "point": "cannot help 〜ing（〜せずにはいられない）の help を「助ける」と読むと構造を見失いやすい。また thinking の後ろの that 節を2つ目の目的語と見ると第4文型に見える。that 節は thinking の目的語で、help の目的語は動名詞。第3文型。",
     "explanation": "help は「避ける」の意味の他動詞で、thinking（that 節を伴う動名詞）が目的語。in short は挿入の修飾語。SVO。",
     "note": "that 節は thinking の目的語で、thinking と合わせて help の目的語になる。",
-    "idioms": [{"phrase": "cannot help thinking", "base": "cannot help ~ing", "meaning": "〜せずにはいられない"}, {"phrase": "in short", "base": "in short", "meaning": "要するに"}],
+    "idioms": [{"phrase": "cannot help thinking", "base": "cannot help ~ing", "meaning": "〜せずにはいられない", "point": "help を「助ける」と読んで「〜するのを助けられない」と取りやすい。cannot help ~ing は「〜せずにはいられない」で、help は「避ける」の意味。"}, {"phrase": "in short", "base": "in short", "meaning": "要するに", "point": "short を「短い」と読んで「短い時間で」と取りやすい。in short は「短く言えば」、つまり「要するに」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Sense and Sensibility", "workJa": "分別と多感", "year": 1811
   },
   {
@@ -5293,7 +5293,7 @@
     "parts": [["And", "M"], ["I", "S"], ["cannot help", "V"], ["begging you, miss, to have nothing to do with him.", "O"]],
     "point": "help の目的語の中に beg O to do（第5文型）の形 begging you to have ~ があるので、第5文型を選びやすい。それは動名詞句の中身。cannot help の目的語は begging 以下の動名詞句全体で、第3文型。",
     "explanation": "cannot help の目的語は動名詞句 begging you 〜 him 全体。主節は SVO。",
-    "idioms": [{"phrase": "cannot help begging", "base": "cannot help ~ing", "meaning": "〜せずにはいられない"}, {"phrase": "have nothing to do with", "base": "have nothing to do with", "meaning": "〜と何の関係もない"}],
+    "idioms": [{"phrase": "cannot help begging", "base": "cannot help ~ing", "meaning": "〜せずにはいられない", "point": "help を「助ける」と読んで「〜するのを助けられない」と取りやすい。cannot help ~ing は「〜せずにはいられない」で、help は「避ける」の意味。"}, {"phrase": "have nothing to do with", "base": "have nothing to do with", "meaning": "〜と何の関係もない", "point": "nothing と to do で「何もすることがない」と取りやすい。have nothing to do with 〜 は「〜と何の関係もない」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Far from the Madding Crowd", "workJa": "遥か群衆を離れて", "year": 1874
   },
   {
@@ -5305,7 +5305,7 @@
     "parts": [["She", "S"], ["is", "V"], ["very fond", "C"], ["of Frank", "M"]],
     "point": "be fond of（〜が好きだ）は「〜を好む」と訳せるので、Frank を目的語と見て第3文型を選びやすい。fond は形容詞で補語、of Frank は前置詞句。She＝fond の第2文型。",
     "explanation": "fond は形容詞で She＝fond の関係なので SVC。of Frank は形容詞 fond を補う前置詞句。",
-    "idioms": [{"phrase": "fond of", "base": "be fond of", "meaning": "〜が好きだ"}, {"phrase": "speak ill of", "base": "speak ill of", "meaning": "〜の悪口を言う"}],
+    "idioms": [{"phrase": "fond of", "base": "be fond of", "meaning": "〜が好きだ", "point": "fond を見慣れず、food（食べ物）や found（見つけた）と見間違えやすい。be fond of 〜 は「〜が好きだ」の意味。"}, {"phrase": "speak ill of", "base": "speak ill of", "meaning": "〜の悪口を言う", "point": "ill を「病気の」と読んで「〜の病気について話す」と取りやすい。ill は副詞「悪く」で、speak ill of 〜 は「〜の悪口を言う」。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Emma", "workJa": "エマ", "year": 1815
   },
   {
@@ -5317,7 +5317,7 @@
     "parts": [["I", "S"], ["could not help", "V"], ["bursting into tears", "O"]],
     "point": "前半の It was very difficult to begin（仮主語構文の SVC）につられて第2文型を選びやすい。また burst into tears が自動詞の形で紛らわしい。could not help の目的語は動名詞 bursting into tears。第3文型。",
     "explanation": "help の目的語が動名詞 bursting into tears。SVO。",
-    "idioms": [{"phrase": "could not help bursting", "base": "cannot help ~ing", "meaning": "〜せずにはいられない"}, {"phrase": "bursting into tears", "base": "burst into tears", "meaning": "わっと泣き出す"}],
+    "idioms": [{"phrase": "could not help bursting", "base": "cannot help ~ing", "meaning": "〜せずにはいられない", "point": "help を「助ける」と読んで「〜するのを助けられない」と取りやすい。cannot help ~ing は「〜せずにはいられない」で、help は「避ける」の意味。"}, {"phrase": "bursting into tears", "base": "burst into tears", "meaning": "わっと泣き出す", "point": "burst を「破裂する」と読んで「涙が破裂する」と字面どおりに取りやすい。burst into tears は「急にわっと泣き出す」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Bleak House", "workJa": "荒涼館", "year": 1853
   },
   {
@@ -5330,7 +5330,7 @@
     "point": "result in 〜（〜という結果になる）は「〜をもたらす」と訳せるので、in の後ろを目的語と見て第3文型を選びやすい。result は自動詞で、in 以下は前置詞句。第1文型。",
     "explanation": "resulted は自動詞。at any rate は挿入の修飾語、in throwing 以下も前置詞句で修飾語。骨格は It resulted＝SV。",
     "note": "result in をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "at any rate", "base": "at any rate", "meaning": "とにかく・少なくとも"}, {"phrase": "on her own resources", "base": "on one’s own resources", "meaning": "自分の力だけで"}],
+    "idioms": [{"phrase": "at any rate", "base": "at any rate", "meaning": "とにかく・少なくとも", "point": "rate を「割合・料金」と読んで「どんな割合でも」と取りやすい。at any rate は「とにかく・少なくとも」の意味。"}, {"phrase": "on her own resources", "base": "on one’s own resources", "meaning": "自分の力だけで", "point": "resources を「資源」と読んで「自分の資源の上で」と取りやすい。on one's own resources は「（人に頼らず）自分の力だけで」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The House of Mirth", "workJa": "歓楽の家", "year": 1905
   },
   {
@@ -5342,7 +5342,7 @@
     "parts": [["we", "S"], ["shall succeed", "V"], ["in establishing a connection,", "M"], ["after all", "M"]],
     "point": "succeed in 〜ing（〜に成功する）は「〜をなしとげる」と読めるので、in の後ろの動名詞を目的語と見やすい。succeed は自動詞で、in 以下は前置詞句。after all も修飾語。第1文型。",
     "explanation": "succeed は自動詞で、in establishing a connection は修飾語。after all も修飾語。SV。",
-    "idioms": [{"phrase": "succeed in", "base": "succeed in", "meaning": "〜に成功する"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり"}],
+    "idioms": [{"phrase": "succeed in", "base": "succeed in", "meaning": "〜に成功する", "point": "succeed を「〜の後を継ぐ」の意味で読みやすい。succeed in 〜 は「〜に成功する」。「後を継ぐ」は succeed to 〜 で、前置詞で意味が変わる。"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり", "point": "after を「〜の後で」、all を「すべて」と読んで「すべての後で」と取りやすい。after all は「（予想に反して）結局・やはり」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Hound of the Baskervilles", "workJa": "バスカヴィル家の犬", "year": 1902
   },
   {
@@ -5354,7 +5354,7 @@
     "parts": [["The stronger", "S"], ["will win", "V"], ["in the end", "M"]],
     "point": "win は「〜に勝つ」の他動詞にもなるので、目的語を探して第3文型を選びやすい。また The stronger を形容詞と見て主語を見失う。The stronger は「より強いほう」という名詞。in the end は修飾語で、目的語のない第1文型。",
     "explanation": "win はここでは目的語のない自動詞「勝つ」。in the end は修飾語。SV。",
-    "idioms": [{"phrase": "in the end", "base": "in the end", "meaning": "最後には・結局"}, {"phrase": "found out", "base": "find out", "meaning": "〜を突き止める・知る"}],
+    "idioms": [{"phrase": "in the end", "base": "in the end", "meaning": "最後には・結局", "point": "end を「端」と読んで「端に」と場所の意味に取りやすい。in the end は「最後には・結局」で、時間の意味。"}, {"phrase": "found out", "base": "find out", "meaning": "〜を突き止める・知る", "point": "find（見つける）＋out（外へ）で「外で見つける」と読みやすい。find out は「（調べて事実を）突き止める・知る」の意味で、物を見つけるのではない。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -5366,7 +5366,7 @@
     "parts": [["And", "M"], ["I", "S"], ["often", "M"], ["wish", "V"], ["that in public, at any rate, you had been more demonstrative.", "O"]],
     "point": "that 節の中の you had been ~ が補語を取る形（仮定法過去完了）なので、第2文型を選びやすい。それは that 節の中。wish は「〜ならいいのに」で、that 節が目的語。第3文型。",
     "explanation": "wish の目的語が that 以下の名詞節なので SVO。in public と at any rate は that 節の中の修飾語。",
-    "idioms": [{"phrase": "in public", "base": "in public", "meaning": "人前で"}, {"phrase": "at any rate", "base": "at any rate", "meaning": "とにかく・少なくとも"}],
+    "idioms": [{"phrase": "in public", "base": "in public", "meaning": "人前で", "point": "public を「公共の・公の」と読んで「公共の場所で」と取りやすい。in public は「人前で・公然と」の意味。"}, {"phrase": "at any rate", "base": "at any rate", "meaning": "とにかく・少なくとも", "point": "rate を「割合・料金」と読んで「どんな割合でも」と取りやすい。at any rate は「とにかく・少なくとも」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Importance of Being Earnest", "workJa": "まじめが肝心", "year": 1895
   },
   {
@@ -5378,7 +5378,7 @@
     "parts": [["She", "S"], ["is", "V"], ["swift", "C"], ["in making up her mind", "M"], ["and fearless", "C"], ["in carrying out her resolutions.", "M"]],
     "point": "形容詞が2つ並ぶので、1つ目を補語、2つ目を別の要素と見て第5文型などを選びやすい。swift と fearless は and で並んだ補語で、どちらも She の性質。She＝swift and fearless の第2文型。",
     "explanation": "She＝swift、She＝fearless の関係なので SVC。in 〜ing はそれぞれの形容詞を補う修飾語。",
-    "idioms": [{"phrase": "making up her mind", "base": "make up one’s mind", "meaning": "決心する"}, {"phrase": "carrying out", "base": "carry out", "meaning": "〜を実行する"}],
+    "idioms": [{"phrase": "making up her mind", "base": "make up one’s mind", "meaning": "決心する", "point": "make up を「作り上げる・化粧する」と読み、mind を「心」として「心を作る」と取りやすい。make up one's mind は「（迷いを）決着させる」で「決心する」。"}, {"phrase": "carrying out", "base": "carry out", "meaning": "〜を実行する", "point": "carry（運ぶ）＋out（外へ）で「運び出す」と読みやすい。carry out は「（計画・命令を）実行する」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -5390,7 +5390,7 @@
     "parts": [["These", "S"], ["are", "V"], ["things", "C"], ["to be proud of", "M"]],
     "point": "to be proud of の of の後ろに目的語がないので、things を of の目的語と見て構造を見失いやすい。to be proud of は things を修飾する不定詞（誇るべきもの）。These＝things の第2文型。",
     "explanation": "These＝things の関係なので SVC。to be proud of（誇りに思うべき）は things を後ろから修飾する。",
-    "idioms": [{"phrase": "proud of", "base": "be proud of", "meaning": "〜を誇りに思う"}, {"phrase": "have nothing to do with", "base": "have nothing to do with", "meaning": "〜と何の関係もない"}],
+    "idioms": [{"phrase": "proud of", "base": "be proud of", "meaning": "〜を誇りに思う", "point": "proud を「高慢な・うぬぼれた」と悪い意味に取りやすい。be proud of 〜 は「〜を誇りに思う」でよい意味。"}, {"phrase": "have nothing to do with", "base": "have nothing to do with", "meaning": "〜と何の関係もない", "point": "nothing と to do で「何もすることがない」と取りやすい。have nothing to do with 〜 は「〜と何の関係もない」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The Age of Innocence", "workJa": "エイジ・オブ・イノセンス", "year": 1920
   },
   {
@@ -5402,7 +5402,7 @@
     "parts": [["one after another", "M"], ["the sparks", "S"], ["died out.", "V"]],
     "point": "die out は「消える」で、out を目的語や補語と見誤りやすい。また one after another（次々と）を主語と見る誤りもある。out は副詞で動詞の一部。the sparks died out で第1文型。",
     "explanation": "died out「消えてなくなった」は自動詞。one after another は修飾語。SV。",
-    "idioms": [{"phrase": "no wonder", "base": "no wonder", "meaning": "無理もない・当然だ"}, {"phrase": "one after another", "base": "one after another", "meaning": "次々と"}, {"phrase": "died out", "base": "die out", "meaning": "消えてなくなる"}],
+    "idioms": [{"phrase": "no wonder", "base": "no wonder", "meaning": "無理もない・当然だ", "point": "wonder を「不思議・驚き」と読んで「驚きがない」と取りやすい。no wonder は「不思議ではない」、つまり「無理もない・当然だ」の意味。"}, {"phrase": "one after another", "base": "one after another", "meaning": "次々と", "point": "one と another を「一つともう一つ」と読んで「二つずつ」と取りやすい。one after another は「一つの後にまた一つ」で「次々と」の意味。"}, {"phrase": "died out", "base": "die out", "meaning": "消えてなくなる", "point": "die を「死ぬ」と読んで「外で死ぬ」と取りやすい。die out は「（習慣・種族などが）消えてなくなる・絶える」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -5414,7 +5414,7 @@
     "parts": [["I", "S"], ["should have to give up", "V"], ["my place", "O"], ["in time,", "M"], ["for fear of doing my muscles an injury.", "M"]],
     "point": "for fear of の中の doing my muscles an injury（do O₁ O₂）が第4文型の形なので、そちらを判定しやすい。それは前置詞句の中。主節は I should have to give up my place で、目的語1つの第3文型。",
     "explanation": "give up「〜を辞める」の目的語が my place（勤め口）。in time と for fear of 以下は修飾語。SVO。",
-    "idioms": [{"phrase": "give up", "base": "give up", "meaning": "〜をやめる・手放す"}, {"phrase": "in time", "base": "in time", "meaning": "やがて・そのうち"}, {"phrase": "for fear of", "base": "for fear of", "meaning": "〜を恐れて・〜しないように"}],
+    "idioms": [{"phrase": "give up", "base": "give up", "meaning": "〜をやめる・手放す", "point": "give（与える）＋up（上へ）で「差し出す・上げる」と読みやすい。give up は「（続けていたこと・持っていたものを）やめる・手放す」の意味。"}, {"phrase": "in time", "base": "in time", "meaning": "やがて・そのうち", "point": "in time を「間に合って」の意味だけで覚えていると取り違えやすい。ここは「やがて・そのうち」の意味。文脈で見分ける。"}, {"phrase": "for fear of", "base": "for fear of", "meaning": "〜を恐れて・〜しないように", "point": "fear を「恐怖」と読んで「〜の恐怖のために」と取りやすい。for fear of 〜 は「〜を恐れて・〜しないように」の意味。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -5426,7 +5426,7 @@
     "parts": [["And", "M"], ["Nancy", "S"], ["was", "V"], ["capable", "C"], ["of keeping her word to herself under very trying conditions.", "M"]],
     "point": "be capable of 〜ing（〜する能力がある）は「〜をすることができる」と訳せるので、of の後ろを目的語と見て第3文型を選びやすい。capable は形容詞で補語。Nancy＝capable の第2文型。",
     "explanation": "Nancy＝capable の関係なので SVC。of 以下は形容詞 capable を補う前置詞句。",
-    "idioms": [{"phrase": "capable of", "base": "be capable of", "meaning": "〜する能力がある"}, {"phrase": "keeping her word", "base": "keep one’s word", "meaning": "約束を守る"}],
+    "idioms": [{"phrase": "capable of", "base": "be capable of", "meaning": "〜する能力がある", "point": "capable を「有能な」と読んで、人の性質だけを言う語と取りやすい。be capable of 〜 は「〜する能力がある」で、悪いことにも「〜しかねない」と使う。"}, {"phrase": "keeping her word", "base": "keep one’s word", "meaning": "約束を守る", "point": "keep を「保つ」、word を「単語」と読んで「言葉を保存する」と取りやすい。keep one's word は「約束を守る」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Silas Marner", "workJa": "サイラス・マーナー", "year": 1861
   },
   {
@@ -5438,7 +5438,7 @@
     "parts": [["Fanny,", "S"], ["feeling all this to be wrong,", "M"], ["could not help", "V"], ["making an effort to prevent it.", "O"]],
     "point": "挿入された分詞構文 feeling all this to be wrong（feel O to be C）が第5文型の形なので、そちらを判定しやすい。これは主語を説明する修飾語。could not help の目的語は動名詞 making an effort。第3文型。",
     "explanation": "could not help の目的語が動名詞句 making an effort to prevent it。SVO。",
-    "idioms": [{"phrase": "could not help making", "base": "cannot help ~ing", "meaning": "〜せずにはいられない"}, {"phrase": "making an effort", "base": "make an effort", "meaning": "努力する"}],
+    "idioms": [{"phrase": "could not help making", "base": "cannot help ~ing", "meaning": "〜せずにはいられない", "point": "help を「助ける」と読んで「〜するのを助けられない」と取りやすい。cannot help ~ing は「〜せずにはいられない」で、help は「避ける」の意味。"}, {"phrase": "making an effort", "base": "make an effort", "meaning": "努力する", "point": "make を「作る」と読んで「努力を作る」と取りやすい。make an effort は「努力する」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Mansfield Park", "workJa": "マンスフィールド・パーク", "year": 1814
   },
   {
@@ -5450,7 +5450,7 @@
     "parts": [["To judge from appearances,", "M"], ["Toby", "S"], ["was", "V"], ["by no means", "M"], ["in a hurry", "C"], ["to open the conversation.", "M"]],
     "point": "in a hurry は前置詞句なので修飾語と見て、第1文型を選びやすい。しかしこれは「急いでいる状態」を表す補語（Toby＝in a hurry）。by no means は否定の修飾語。第2文型。",
     "explanation": "Toby＝in a hurry（急いでいる）の関係が否定されている。be＋状態の前置詞句で SVC。",
-    "idioms": [{"phrase": "To judge from", "base": "to judge from", "meaning": "〜から判断すると"}, {"phrase": "by no means", "base": "by no means", "meaning": "決して〜ない"}, {"phrase": "in a hurry", "base": "in a hurry", "meaning": "急いで"}],
+    "idioms": [{"phrase": "To judge from", "base": "to judge from", "meaning": "〜から判断すると", "point": "judge を「裁判官」と読んだり、to を目的（〜するために）と取ったりしやすい。to judge from 〜 は「〜から判断すると」という独立不定詞。"}, {"phrase": "by no means", "base": "by no means", "meaning": "決して〜ない", "point": "means を「意味する」の動詞と読んで「意味によらず」と取りやすい。means は名詞「手段」で、by no means は「どんな手段でも〜ない」＝「決して〜ない」。"}, {"phrase": "in a hurry", "base": "in a hurry", "meaning": "急いで", "point": "hurry を動詞「急ぐ」と読みやすい。ここは名詞で、in a hurry は「急いで・あわてて」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Oliver Twist", "workJa": "オリヴァー・ツイスト", "year": 1838
   },
   {
@@ -5462,7 +5462,7 @@
     "parts": [["You", "S"], ["had better neglect", "V"], ["your relations", "O"], ["than run the risk of offending your patroness.", "M"]],
     "point": "had better A than B（B するくらいなら A したほうがよい）の than 以下にも動詞があるので、どちらを判定するか迷いやすい。主になるのは had better neglect your relations で、目的語1つの第3文型。",
     "explanation": "neglect「〜をおろそかにする」の目的語が your relations。than 以下は比較の修飾語。SVO。",
-    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい"}, {"phrase": "run the risk of", "base": "run the risk of", "meaning": "〜の危険を冒す"}],
+    "idioms": [{"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい", "point": "better を「よりよい」の比較と読んで「〜したほうがもっとよい」と軽く取りやすい。had better do は「〜すべきだ（しないと困る）」という強めの忠告。"}, {"phrase": "run the risk of", "base": "run the risk of", "meaning": "〜の危険を冒す", "point": "run を「走る」と読んで「危険を走る」と取りやすい。run the risk of 〜 は「〜の危険を冒す」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
   },
   {
@@ -5474,7 +5474,7 @@
     "parts": [["after all", "M"], ["that", "S"], ["makes", "V"], ["no difference", "O"]],
     "point": "make は第4文型・第5文型でよく出るので迷いやすく、また after all that を「あれのあとで」と読むと that を目的語と見誤る。after all（結局）は修飾語で、that が主語。make no difference の difference が目的語。第3文型。",
     "explanation": "makes の目的語が no difference。after all は修飾語。SVO。",
-    "idioms": [{"phrase": "Of course", "base": "of course", "meaning": "もちろん"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり"}, {"phrase": "makes no difference", "base": "make no difference", "meaning": "違いがない・どうでもよい"}],
+    "idioms": [{"phrase": "Of course", "base": "of course", "meaning": "もちろん", "point": "course を「コース・進路」と読んで「進路の」と取りやすい。of course は「もちろん」の意味。"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり", "point": "after を「〜の後で」、all を「すべて」と読んで「すべての後で」と取りやすい。after all は「（予想に反して）結局・やはり」の意味。"}, {"phrase": "makes no difference", "base": "make no difference", "meaning": "違いがない・どうでもよい", "point": "make を「作る」と読んで「違いを作らない」と取りやすい。make no difference は「違いを生まない」、つまり「どうでもよい」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The House of Mirth", "workJa": "歓楽の家", "year": 1905
   },
   {
@@ -5487,7 +5487,7 @@
     "point": "前半の symbolized what 〜（SVO）につられて第3文型を選びやすい。また stand for 〜 は「〜を表す」と訳すので、for の後ろを目的語と見やすい。stand は自動詞で、for は前置詞。第1文型。",
     "explanation": "stood は自動詞で、for what she was giving up は前置詞句の修飾語。骨格は they stood＝SV。",
     "note": "stand for をひとまとまりの他動詞（群動詞）とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "stood for", "base": "stand for", "meaning": "〜を表す・象徴する"}, {"phrase": "giving up", "base": "give up", "meaning": "〜をやめる・手放す"}],
+    "idioms": [{"phrase": "stood for", "base": "stand for", "meaning": "〜を表す・象徴する", "point": "stand を「立つ」と読んで「〜のために立つ」と取りやすい。stand for 〜 は「〜を表す・象徴する」の意味。"}, {"phrase": "giving up", "base": "give up", "meaning": "〜をやめる・手放す", "point": "give（与える）＋up（上へ）で「差し出す・上げる」と読みやすい。give up は「（続けていたこと・持っていたものを）やめる・手放す」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The House of Mirth", "workJa": "歓楽の家", "year": 1905
   },
   {
@@ -5500,7 +5500,7 @@
     "point": "on the point of 〜 は前置詞句なので修飾語と見て、第1文型を選びやすい。しかしこれは「まさに〜しようとしている状態」を表す補語（girls＝on the point of marriage）。第2文型。",
     "explanation": "be＋状態の前置詞句で「〜の状態にある」。girls＝on the point of marriage の関係なので SVC。",
     "note": "be＋前置詞句は、場所を表せば SV、状態を表せば SVC とするのが学校文法の一般的な扱い。",
-    "idioms": [{"phrase": "on the point of", "base": "on the point of", "meaning": "まさに〜しようとして"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり"}],
+    "idioms": [{"phrase": "on the point of", "base": "on the point of", "meaning": "まさに〜しようとして", "point": "point を「点・要点」と読んで「〜の要点で」と取りやすい。on the point of ~ing は「まさに〜しようとして」の意味。"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり", "point": "after を「〜の後で」、all を「すべて」と読んで「すべての後で」と取りやすい。after all は「（予想に反して）結局・やはり」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
   },
   {
@@ -5512,7 +5512,7 @@
     "parts": [["I", "S"], ["pointed out", "V"], ["to him", "M"], ["that the circumstances were after all suspicious", "O"]],
     "point": "point out to him that ~ で「人」と「that 節」が並ぶので、第4文型を選びやすい。to him は前置詞句の修飾語で、that 節が後ろに回っているだけ。目的語は that 節の1つ。第3文型。",
     "explanation": "pointed out「〜を指摘した」の目的語は that 節。to him は前置詞句の修飾語なので SVOO ではなく SVO。",
-    "idioms": [{"phrase": "pointed out", "base": "point out", "meaning": "〜を指摘する"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり"}],
+    "idioms": [{"phrase": "pointed out", "base": "point out", "meaning": "〜を指摘する", "point": "point を「点」、out を「外へ」と読んで「外を指さす」と取りやすい。point out は「〜を指摘する」の意味。"}, {"phrase": "after all", "base": "after all", "meaning": "結局・やはり", "point": "after を「〜の後で」、all を「すべて」と読んで「すべての後で」と取りやすい。after all は「（予想に反して）結局・やはり」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -5524,7 +5524,7 @@
     "parts": [["Well,", "M"], ["we", "S"], ["must make", "V"], ["the best", "O"], ["of it,", "M"], ["I suppose.", "M"]],
     "point": "best は形容詞・副詞の最上級として覚えていることが多いので、補語や修飾語と見て第2文型などを選びやすい。make the best of 〜 の best は「最善」という名詞で目的語。第3文型。",
     "explanation": "make の目的語が the best（最善）、of it は best を修飾する。挿入の I suppose は修飾語。SVO。",
-    "idioms": [{"phrase": "make the best of", "base": "make the best of", "meaning": "（不利な状況を）何とか切り抜ける"}],
+    "idioms": [{"phrase": "make the best of", "base": "make the best of", "meaning": "（不利な状況を）何とか切り抜ける", "point": "best を「最良の」と読んで「〜を最高のものにする」と取りやすい。make the best of 〜 は「（不利な状況を）何とか切り抜ける」で、悪い状況に使う。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Tess of the d'Urbervilles", "workJa": "ダーバヴィル家のテス", "year": 1891
   },
   {
@@ -5536,7 +5536,7 @@
     "parts": [["often", "M"], ["I", "S"], ["would rather have pleased than teased", "V"], ["him", "O"]],
     "point": "would rather A than B の A・B に過去分詞が並び、目的語 him が最後に来るので、than の後ろだけの目的語に見えやすい。pleased と teased が him を共有している。第3文型。",
     "explanation": "pleased と teased はどちらも him を目的語に取る他動詞。SVO。",
-    "idioms": [{"phrase": "after all", "base": "after all", "meaning": "結局・やはり"}, {"phrase": "would rather", "base": "would rather A than B", "meaning": "B するよりむしろ A したい"}],
+    "idioms": [{"phrase": "after all", "base": "after all", "meaning": "結局・やはり", "point": "after を「〜の後で」、all を「すべて」と読んで「すべての後で」と取りやすい。after all は「（予想に反して）結局・やはり」の意味。"}, {"phrase": "would rather", "base": "would rather A than B", "meaning": "B するよりむしろ A したい", "point": "rather を「かなり」と読みやすい。would rather A than B は「B するよりむしろ A したい」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -5548,7 +5548,7 @@
     "parts": [["By that time", "M"], ["she", "S"], ["was", "V"], ["tired", "C"], ["of walking", "M"]],
     "point": "tired of walking は「歩くのに飽きた」と訳すので、walking を目的語と見て第3文型を選びやすい。tired は形容詞で補語、of walking は tired を補う前置詞句。she＝tired の第2文型。",
     "explanation": "she＝tired の関係なので SVC。後半の sat by the fire は SV。",
-    "idioms": [{"phrase": "tired of", "base": "be tired of", "meaning": "〜に飽きている・うんざりしている"}, {"phrase": "as usual", "base": "as usual", "meaning": "いつものように"}],
+    "idioms": [{"phrase": "tired of", "base": "be tired of", "meaning": "〜に飽きている・うんざりしている", "point": "tired を「疲れた」と読んで「〜で疲れている」と取りやすい。be tired of 〜 は「〜に飽きている・うんざりしている」の意味。「〜で疲れる」は tired from 〜。"}, {"phrase": "as usual", "base": "as usual", "meaning": "いつものように", "point": "usual を「ふつうの」と読んで「ふつうとして」と取りやすい。as usual は「いつものように」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -5560,7 +5560,7 @@
     "parts": [["she", "S"], ["fell", "V"], ["asleep", "C"], ["looking forward to the morning", "M"]],
     "point": "fall は「落ちる」の自動詞なので、asleep を修飾語と見て第1文型を選びやすい。fall asleep の asleep は形容詞で補語（she＝asleep）。looking forward 以下は分詞構文の修飾語。第2文型。",
     "explanation": "fall＋形容詞で「〜の状態になる」。she＝asleep の関係なので SVC。looking forward 以下は分詞構文。",
-    "idioms": [{"phrase": "come back", "base": "come back", "meaning": "戻ってくる"}, {"phrase": "fell asleep", "base": "fall asleep", "meaning": "眠りに落ちる"}, {"phrase": "looking forward to", "base": "look forward to", "meaning": "〜を楽しみに待つ"}],
+    "idioms": [{"phrase": "come back", "base": "come back", "meaning": "戻ってくる", "point": "come を「来る」と読むと、back を「背中」と取って混乱しやすい。come back は「戻ってくる」の意味。"}, {"phrase": "fell asleep", "base": "fall asleep", "meaning": "眠りに落ちる", "point": "fall を「落ちる」と読んで「眠ったまま落ちる」と取りやすい。fall＋形容詞は「〜になる」で、fall asleep は「眠りに落ちる＝寝入る」。"}, {"phrase": "looking forward to", "base": "look forward to", "meaning": "〜を楽しみに待つ", "point": "forward を「前へ」と読んで「〜の方を前に見る」と取りやすい。look forward to 〜 は「〜を楽しみに待つ」で、to は前置詞なので後ろは名詞か動名詞。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -5572,7 +5572,7 @@
     "parts": [["there", "M"], ["is", "V"], ["no knowing how anything may turn out", "S"]],
     "point": "there を主語と見て、no knowing ~ を補語と考え第2文型を選びやすい。There is 構文の主語は is のあとの no knowing ~（〜は分からない）。there は主語ではない。第1文型。",
     "explanation": "There is S「S がある」で SV。主語は no knowing 〜（〜を知ることはない）。",
-    "idioms": [{"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち"}, {"phrase": "there is no knowing", "base": "there is no ~ing", "meaning": "〜することはできない"}, {"phrase": "turn out", "base": "turn out", "meaning": "結局〜になる・〜と判明する"}],
+    "idioms": [{"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち", "point": "once を「一度・かつて」と読んで「一度に」や「かつて」と取りやすい。at once は「すぐに・たちまち」。ただし「同時に」の意味もあるので文脈で見分ける。"}, {"phrase": "there is no knowing", "base": "there is no ~ing", "meaning": "〜することはできない", "point": "there is no ~ing を「〜することがない」と字面どおりに取りやすい。これは「〜することはできない」の意味（there is no knowing＝知りようがない）。"}, {"phrase": "turn out", "base": "turn out", "meaning": "結局〜になる・〜と判明する", "point": "turn（回る）＋out（外へ）で「外へ向く」と読みやすい。turn out は「結局〜になる・〜と判明する」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -5584,7 +5584,7 @@
     "parts": [["his being married at present", "S"], ["is", "V"], ["out of the question", "C"]],
     "point": "主語が動名詞句 his being married で、being を動詞と見ると骨格を見失いやすい。また out of the question を前置詞句の修飾語と見ると第1文型に見える。これは「問題外の状態」を表す補語。第2文型。",
     "explanation": "be＋状態の前置詞句で SVC。主語＝out of the question（論外）の関係。",
-    "idioms": [{"phrase": "made my way", "base": "make one’s way", "meaning": "出世する・身を立てる"}, {"phrase": "at present", "base": "at present", "meaning": "現在"}, {"phrase": "out of the question", "base": "out of the question", "meaning": "論外で・不可能で"}],
+    "idioms": [{"phrase": "made my way", "base": "make one’s way", "meaning": "出世する・身を立てる", "point": "make を「作る」、way を「道」と読んで「道を作る」と取りやすい。ここの make one's way は「出世する・身を立てる」の意味。"}, {"phrase": "at present", "base": "at present", "meaning": "現在", "point": "present を「贈り物」と読んで「贈り物として」と取りやすい。at present は「現在・今のところ」の意味。"}, {"phrase": "out of the question", "base": "out of the question", "meaning": "論外で・不可能で", "point": "question を「質問」と読んで「質問の外で」と取りやすい。out of the question は「問題にならない」、つまり「論外で・不可能で」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Bleak House", "workJa": "荒涼館", "year": 1853
   },
   {
@@ -5597,7 +5597,7 @@
     "point": "do は他動詞として使うことが多いので、目的語を探して第3文型を選びやすい。do without 〜（〜なしで済ませる）の without は前置詞で、後ろは文の目的語ではない。would rather は助動詞のまとまり。第1文型。",
     "explanation": "do は「済ませる」という自動詞で、without 以下は前置詞句の修飾語。to make 以下は目的の不定詞。SV。",
     "note": "do without をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "would rather", "base": "would rather A than B", "meaning": "B するよりむしろ A したい"}, {"phrase": "do without", "base": "do without", "meaning": "〜なしで済ませる"}, {"phrase": "make some amends", "base": "make amends", "meaning": "償いをする・埋め合わせをする"}],
+    "idioms": [{"phrase": "would rather", "base": "would rather A than B", "meaning": "B するよりむしろ A したい", "point": "rather を「かなり」と読みやすい。would rather A than B は「B するよりむしろ A したい」の意味。"}, {"phrase": "do without", "base": "do without", "meaning": "〜なしで済ませる", "point": "without を「〜なしで」と読んで「〜なしでする」はわかっても、do を「行う」と取って意味が通りにくい。do without 〜 は「〜なしで済ませる」の意味。"}, {"phrase": "make some amends", "base": "make amends", "meaning": "償いをする・埋め合わせをする", "point": "amends を見慣れず、amend（修正する）と混同して「修正する」と取りやすい。make amends は「償いをする・埋め合わせをする」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -5609,7 +5609,7 @@
     "parts": [["Several young ladies,", "S"], ["who had taken no notice of her before,", "M"], ["were", "V"], ["very affectionate", "C"], ["all of a sudden.", "M"]],
     "point": "主語と動詞のあいだに関係詞節がはさまっているので、関係詞節の動詞を主節の動詞と見誤りやすい。主節は Several young ladies were very affectionate で、ladies＝affectionate の第2文型。",
     "explanation": "ladies＝affectionate（愛想がよい）の関係なので SVC。who 〜 before は主語を説明する修飾語。",
-    "idioms": [{"phrase": "taken no notice of", "base": "take notice of", "meaning": "〜に注意を払う"}, {"phrase": "all of a sudden", "base": "all of a sudden", "meaning": "突然"}],
+    "idioms": [{"phrase": "taken no notice of", "base": "take notice of", "meaning": "〜に注意を払う", "point": "notice を「お知らせ・掲示」と読んで「お知らせを取る」と取りやすい。take notice of 〜 は「〜に注意を払う」の意味。"}, {"phrase": "all of a sudden", "base": "all of a sudden", "meaning": "突然", "point": "sudden を「突然の」と読めても、all of a を「すべての1つの」と取って混乱しやすい。all of a sudden は全体で「突然」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -5621,7 +5621,7 @@
     "parts": [["I", "S"], ["have made", "V"], ["my way", "O"], ["to you", "M"], ["on purpose", "M"], ["to entreat your help", "M"]],
     "point": "make one's way（進む）は「道を作る」ではないので、目的語がないように見え第1文型を選びやすい。way は名詞で目的語。to you や on purpose to entreat ~ は修飾語。第3文型。",
     "explanation": "made の目的語が my way。to you は行き先、on purpose と to entreat 以下も修飾語。SVO。",
-    "idioms": [{"phrase": "beg your pardon", "base": "I beg your pardon", "meaning": "ごめんなさい・失礼ですが"}, {"phrase": "made my way", "base": "make one’s way", "meaning": "進む・向かう"}, {"phrase": "on purpose", "base": "on purpose", "meaning": "わざと・わざわざ"}],
+    "idioms": [{"phrase": "beg your pardon", "base": "I beg your pardon", "meaning": "ごめんなさい・失礼ですが", "point": "beg を「物乞いする」、pardon を「許し」と読んで「許しを乞う」とだけ取りやすい。I beg your pardon は「ごめんなさい」のほか、聞き返しの「失礼ですが（何と？）」にも使う。"}, {"phrase": "made my way", "base": "make one’s way", "meaning": "進む・向かう", "point": "make を「作る」、way を「道」と読んで「道を作る」と取りやすい。ここの make one's way は「（ある方向へ）進む・向かう」の意味。"}, {"phrase": "on purpose", "base": "on purpose", "meaning": "わざと・わざわざ", "point": "purpose を「目的」と読んで「目的の上に」と取りやすい。on purpose は「わざと・わざわざ」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Mansfield Park", "workJa": "マンスフィールド・パーク", "year": 1814
   },
   {
@@ -5633,7 +5633,7 @@
     "parts": [["Besides,", "M"], ["I", "S"], ["meant", "V"], ["to be extra good in other ways to make up for it.", "O"]],
     "point": "mean は「意味する」の印象が強く、to be extra good を補語と見て第2文型を選びやすい。mean to do（〜するつもりだ）の不定詞は目的語。to make up ~ は目的を表す修飾語。第3文型。",
     "explanation": "meant の目的語が to be extra good 以下の不定詞句。to make up for it は不定詞句の中の目的の修飾語。SVO。",
-    "idioms": [{"phrase": "make up for", "base": "make up for", "meaning": "（〜の）埋め合わせをする"}],
+    "idioms": [{"phrase": "make up for", "base": "make up for", "meaning": "（〜の）埋め合わせをする", "point": "make up を「化粧する・作り上げる」と読みやすい。make up for 〜 は「〜の埋め合わせをする」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -5646,7 +5646,7 @@
     "point": "If 節の would rather die（むしろ死にたい）が目的語のない形なので、第1文型を選びやすい。それは従属節。主節は they had better do it で、目的語 it の第3文型。",
     "explanation": "do「する」の目的語が it（死ぬこと）なので SVO。",
     "note": "Project Gutenberg 版のこの箇所は直線引用符で、閉じ引用符は次の文のあとにある。",
-    "idioms": [{"phrase": "would rather", "base": "would rather A than B", "meaning": "B するよりむしろ A したい"}, {"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい"}],
+    "idioms": [{"phrase": "would rather", "base": "would rather A than B", "meaning": "B するよりむしろ A したい", "point": "rather を「かなり」と読みやすい。would rather A than B は「B するよりむしろ A したい」の意味。"}, {"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい", "point": "better を「よりよい」の比較と読んで「〜したほうがもっとよい」と軽く取りやすい。had better do は「〜すべきだ（しないと困る）」という強めの忠告。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "A Christmas Carol", "workJa": "クリスマス・キャロル", "year": 1843
   },
   {
@@ -5659,7 +5659,7 @@
     "point": "insist on 〜（〜を強く主張する）は「〜を」と訳すので、on の後ろを目的語と見て第3文型を選びやすい。insist は自動詞で、on は前置詞。their は動名詞の意味上の主語。第1文型。",
     "explanation": "insisted は自動詞で、on their doing this は前置詞句の修飾語。SV。",
     "note": "insist on をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "insisted on", "base": "insist on", "meaning": "〜を強く主張する・言い張る"}, {"phrase": "make-believe", "base": "make-believe", "meaning": "ごっこ遊び・見せかけ"}],
+    "idioms": [{"phrase": "insisted on", "base": "insist on", "meaning": "〜を強く主張する・言い張る", "point": "insist を「主張する」と読めても、on の後ろを場所と取りやすい。insist on 〜 は「〜を強く主張する・言い張る」の意味。"}, {"phrase": "make-believe", "base": "make-believe", "meaning": "ごっこ遊び・見せかけ", "point": "make（作る）＋believe（信じる）で「信じさせる」と動詞に取りやすい。make-believe とハイフンでつながると名詞「ごっこ遊び・見せかけ」になる。"}],
     "author": "J. M. Barrie", "authorJa": "J・M・バリー", "work": "Peter Pan", "workJa": "ピーター・パン", "year": 1911
   },
   {
@@ -5671,7 +5671,7 @@
     "parts": [["Anne", "S"], ["had not brought up", "V"], ["three pairs of twins", "O"], ["for nothing", "M"]],
     "point": "not 〜 for nothing（だてに〜したのではない）の否定にとまどい、for nothing を目的語と見誤りやすい。bring up は「〜を育てる」の他動詞で、目的語は three pairs of twins。for nothing は修飾語。第3文型。",
     "explanation": "brought up「〜を育てた」の目的語が three pairs of twins。SVO。",
-    "idioms": [{"phrase": "take kindly to", "base": "take kindly to", "meaning": "〜を快く受け入れる"}, {"phrase": "brought up", "base": "bring up", "meaning": "〜を育てる・しつける"}, {"phrase": "for nothing", "base": "for nothing", "meaning": "むだに・ただで"}],
+    "idioms": [{"phrase": "take kindly to", "base": "take kindly to", "meaning": "〜を快く受け入れる", "point": "kindly を「親切に」と読んで「〜に親切に取る」と取りやすい。take kindly to 〜 は「〜を快く受け入れる」の意味（否定文で多い）。"}, {"phrase": "brought up", "base": "bring up", "meaning": "〜を育てる・しつける", "point": "bring（持ってくる）＋up（上へ）で「持ち上げる」や「（話題を）持ち出す」と読みやすい。人が目的語なら「子どもを上へ引き上げる」、つまり「育てる・しつける」の意味。"}, {"phrase": "for nothing", "base": "for nothing", "meaning": "むだに・ただで", "point": "nothing を「何もない」と読んで「何のためでもなく」と取りやすい。for nothing は「むだに」または「ただで」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -5683,7 +5683,7 @@
     "parts": [["under its influence", "M"], ["I", "S"], ["continued", "V"], ["at heart", "M"], ["to hate my trade and to be ashamed of home", "O"]],
     "point": "at heart（心の底で）が動詞と目的語のあいだに割り込んでいるので、continued を自動詞と見て第1文型を選びやすい。continue to do の不定詞は目的語。under its influence も修飾語。第3文型。",
     "explanation": "continued の目的語は to hate 〜 and to be ashamed of home の不定詞句。SVO。",
-    "idioms": [{"phrase": "at heart", "base": "at heart", "meaning": "心の底では"}, {"phrase": "ashamed of", "base": "be ashamed of", "meaning": "〜を恥じている"}],
+    "idioms": [{"phrase": "at heart", "base": "at heart", "meaning": "心の底では", "point": "heart を「心臓」と読んで「心臓に」と取りやすい。at heart は「心の底では・本当は」の意味。"}, {"phrase": "ashamed of", "base": "be ashamed of", "meaning": "〜を恥じている", "point": "ashamed を「恥ずかしい（照れくさい）」と軽く取りやすい。be ashamed of 〜 は「（悪いことをして）〜を恥じている」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -5695,7 +5695,7 @@
     "parts": [["But", "M"], ["they", "S"], ["were", "V"], ["kindly people,", "C"], ["in spite of the frivolous life they led", "M"]],
     "point": "kindly は -ly で終わるので副詞と見て、補語がないように読みやすい。ここの kindly は「親切な」という形容詞で、people を修飾。in spite of 以下も修飾語。they＝kindly people の第2文型。",
     "explanation": "they＝kindly people の関係なので SVC。",
-    "idioms": [{"phrase": "in spite of", "base": "in spite of", "meaning": "〜にもかかわらず"}, {"phrase": "put their guest at her ease", "base": "put ~ at (one’s) ease", "meaning": "〜を安心させる・くつろがせる"}],
+    "idioms": [{"phrase": "in spite of", "base": "in spite of", "meaning": "〜にもかかわらず", "point": "spite を見慣れず、「意地悪」の意味から「〜に意地悪して」と取りやすい。in spite of 〜 は「〜にもかかわらず」の意味。"}, {"phrase": "put their guest at her ease", "base": "put ~ at (one’s) ease", "meaning": "〜を安心させる・くつろがせる", "point": "put を「置く」、ease を「容易さ」と読んで「容易に置く」と取りやすい。put 〜 at (one's) ease は「〜を安心させる・くつろがせる」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -5707,7 +5707,7 @@
     "parts": [["now and then", "M"], ["a stroke of luck", "S"], ["came", "V"], ["to the unluckiest", "M"]],
     "point": "came の後ろの to the unluckiest を目的語や補語と見誤りやすい。the＋最上級 the unluckiest は「いちばん不運な人」という名詞で、前置詞 to の目的語。now and then も修飾語。第1文型。",
     "explanation": "came は自動詞で、to the unluckiest は行き先の修飾語。SV。",
-    "idioms": [{"phrase": "after all", "base": "after all", "meaning": "結局・やはり"}, {"phrase": "now and then", "base": "now and then", "meaning": "ときどき"}, {"phrase": "a stroke of luck", "base": "a stroke of luck", "meaning": "思いがけない幸運"}],
+    "idioms": [{"phrase": "after all", "base": "after all", "meaning": "結局・やはり", "point": "after を「〜の後で」、all を「すべて」と読んで「すべての後で」と取りやすい。after all は「（予想に反して）結局・やはり」の意味。"}, {"phrase": "now and then", "base": "now and then", "meaning": "ときどき", "point": "now と then を「今」と「そのとき」と読んで「今とそのときに」と取りやすい。now and then は「ときどき」の意味。"}, {"phrase": "a stroke of luck", "base": "a stroke of luck", "meaning": "思いがけない幸運", "point": "stroke を「打つこと・脳卒中」と読んで「運の一撃」と悪い意味に取りやすい。a stroke of luck は「思いがけない幸運」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The House of Mirth", "workJa": "歓楽の家", "year": 1905
   },
   {
@@ -5719,7 +5719,7 @@
     "parts": [["there", "M"], ["is", "V"], ["no getting rid of it", "S"]],
     "point": "there を主語、no getting rid of it を補語と見て、第2文型を選びやすい。There is no 〜ing（〜することはできない）の主語は is のあと。また get rid of it が第3文型の形で紛らわしい。第1文型。",
     "explanation": "There is 構文で、主語は no getting rid of it。SV。",
-    "idioms": [{"phrase": "over and over", "base": "over and over", "meaning": "何度も"}, {"phrase": "there is no getting", "base": "there is no ~ing", "meaning": "〜することはできない"}, {"phrase": "getting rid of", "base": "get rid of", "meaning": "〜を取り除く・追い払う"}],
+    "idioms": [{"phrase": "over and over", "base": "over and over", "meaning": "何度も", "point": "over を「〜の上に」と読んで「上に上に」と取りやすい。over and over は「何度も・くり返し」の意味。"}, {"phrase": "there is no getting", "base": "there is no ~ing", "meaning": "〜することはできない", "point": "there is no ~ing を「〜することがない」と字面どおりに取りやすい。これは「〜することはできない」の意味（there is no knowing＝知りようがない）。"}, {"phrase": "getting rid of", "base": "get rid of", "meaning": "〜を取り除く・追い払う", "point": "rid を見慣れず、get を「得る」と読んで「〜を得る」と取りやすい。get rid of 〜 は「〜を取り除く・追い払う」で、意味はむしろ逆。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Sense and Sensibility", "workJa": "分別と多感", "year": 1811
   },
   {
@@ -5731,7 +5731,7 @@
     "parts": [["As he spoke", "M"], ["several of the beasts", "S"], ["caught", "V"], ["sight", "O"], ["of him", "M"]],
     "point": "catch sight of 〜（〜を見つける）は「〜を見つける」と訳すので、of の後ろの him を目的語と見やすい。目的語は caught のすぐ後ろの sight で、of 以下は前置詞句。第3文型。",
     "explanation": "caught の目的語が sight、of him は sight を修飾する。SVO。",
-    "idioms": [{"phrase": "caught sight of", "base": "catch sight of", "meaning": "〜を見つける"}, {"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち"}, {"phrase": "as if", "base": "as if", "meaning": "まるで〜のように"}],
+    "idioms": [{"phrase": "caught sight of", "base": "catch sight of", "meaning": "〜を見つける", "point": "catch を「捕まえる」、sight を「景色」と読んで「景色を捕まえる」と取りやすい。catch sight of 〜 は「〜を（ちらりと）見つける」の意味。"}, {"phrase": "at once", "base": "at once", "meaning": "すぐに・たちまち", "point": "once を「一度・かつて」と読んで「一度に」や「かつて」と取りやすい。at once は「すぐに・たちまち」。ただし「同時に」の意味もあるので文脈で見分ける。"}, {"phrase": "as if", "base": "as if", "meaning": "まるで〜のように", "point": "as を「〜として」、if を「もし」と読んで「もし〜として」と取りやすい。as if は「まるで〜のように」の意味。"}],
     "author": "L. Frank Baum", "authorJa": "L・フランク・ボーム", "work": "The Wonderful Wizard of Oz", "workJa": "オズの魔法使い", "year": 1900
   },
   {
@@ -5743,7 +5743,7 @@
     "parts": [["we", "S"], ["’ll set out", "V"], ["to-morrow", "M"]],
     "point": "set は「〜を置く」の他動詞の印象が強く、to-morrow を目的語と見て第3文型を選びやすい。set out（出発する）は目的語を取らず、to-morrow は時を表す副詞（tomorrow の古い綴り）。第1文型。",
     "explanation": "set out は自動詞として働き、to-morrow は副詞で修飾語。SV。",
-    "idioms": [{"phrase": "turning it over", "base": "turn over", "meaning": "〜をよく考える"}, {"phrase": "over and over", "base": "over and over", "meaning": "何度も"}, {"phrase": "set out", "base": "set out", "meaning": "出発する"}],
+    "idioms": [{"phrase": "turning it over", "base": "turn over", "meaning": "〜をよく考える", "point": "turn over を「ひっくり返す・裏返す」と読みやすい。ここは「（心の中で）〜をあれこれ考える・よく考える」の意味。"}, {"phrase": "over and over", "base": "over and over", "meaning": "何度も", "point": "over を「〜の上に」と読んで「上に上に」と取りやすい。over and over は「何度も・くり返し」の意味。"}, {"phrase": "set out", "base": "set out", "meaning": "出発する", "point": "set を「置く・定める」と読んで「外に置く」と取りやすい。set out は「出発する」の意味（set out to do なら「〜し始める」）。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Silas Marner", "workJa": "サイラス・マーナー", "year": 1861
   },
   {
@@ -5755,7 +5755,7 @@
     "parts": [["The cases", "S"], ["which come to light in the papers", "M"], ["are,", "V"], ["as a rule,", "M"], ["bald enough, and vulgar enough.", "C"]],
     "point": "主語と are のあいだに関係詞節があるので、関係詞節の動詞を主節の動詞と見誤りやすい。主節は The cases are bald enough, and vulgar enough で、補語は形容詞2つ。第2文型。",
     "explanation": "cases＝bald（飾り気がない）・vulgar（俗っぽい）の関係なので SVC。",
-    "idioms": [{"phrase": "come to light", "base": "come to light", "meaning": "明るみに出る"}, {"phrase": "as a rule", "base": "as a rule", "meaning": "概して・たいてい"}],
+    "idioms": [{"phrase": "come to light", "base": "come to light", "meaning": "明るみに出る", "point": "light を「軽い」と読んだり、「光の方へ来る」と字面どおりに取ったりしやすい。come to light は「（隠れていたことが）明るみに出る」。"}, {"phrase": "as a rule", "base": "as a rule", "meaning": "概して・たいてい", "point": "rule を「規則」と読んで「規則として」と取りやすい。as a rule は「概して・たいてい」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -5767,7 +5767,7 @@
     "parts": [["every now and then", "M"], ["it", "S"], ["breaks out", "V"], ["in a new spot", "M"]],
     "point": "break out は「〜を破る」と読みやすく、目的語を探して第3文型を選びやすい。break out（急に出てくる）は自動詞で、in a new spot は場所を表す修飾語。第1文型。",
     "explanation": "breaks out は目的語を取らず、in a new spot は場所の修飾語。SV。",
-    "idioms": [{"phrase": "got over", "base": "get over", "meaning": "〜を乗り越える・克服する"}, {"phrase": "every now and then", "base": "every now and then", "meaning": "ときどき"}, {"phrase": "breaks out", "base": "break out", "meaning": "急に起こる・発生する"}],
+    "idioms": [{"phrase": "got over", "base": "get over", "meaning": "〜を乗り越える・克服する", "point": "get over を「〜を越える」と物理的に読みやすい。ここは「（困難・病気などを）乗り越える・克服する」の意味。"}, {"phrase": "every now and then", "base": "every now and then", "meaning": "ときどき", "point": "every を「すべての」と読んで「すべての今とそのとき」と取りやすい。every now and then は「ときどき」の意味。"}, {"phrase": "breaks out", "base": "break out", "meaning": "急に起こる・発生する", "point": "break（壊す）＋out（外へ）で「壊して外に出る（脱獄する）」と読みやすい。ここの break out は「（戦争・火事などが）急に起こる・発生する」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -5779,7 +5779,7 @@
     "parts": [["But", "M"], ["all at once", "M"], ["the scheme", "S"], ["broke down", "V"]],
     "point": "break は「〜を壊す」の他動詞の印象が強く、目的語を探しやすい。また後ろの独立分詞構文に引っぱられる。break down（だめになる）は自動詞。all at once も修飾語。第1文型。",
     "explanation": "broke down は目的語を取らない。SV。it suddenly occurring 以下は理由を表す分詞構文。",
-    "idioms": [{"phrase": "all at once", "base": "all at once", "meaning": "一度に・突然"}, {"phrase": "broke down", "base": "break down", "meaning": "失敗する・壊れる"}, {"phrase": "occurring to him", "base": "occur to", "meaning": "（考えが）〜の心に浮かぶ"}, {"phrase": "to begin with", "base": "to begin with", "meaning": "そもそも・まず第一に"}],
+    "idioms": [{"phrase": "all at once", "base": "all at once", "meaning": "一度に・突然", "point": "all（すべて）＋at once（すぐに）で「全部すぐに」と読みやすい。all at once は「一度に・同時に」または「突然」の意味。"}, {"phrase": "broke down", "base": "break down", "meaning": "失敗する・壊れる", "point": "break（壊す）＋down（下へ）で「下に壊す」と字面どおりに読みやすい。break down は「（機械が）壊れる」のほか「（計画が）失敗する・（人が）泣き崩れる」にも使う。"}, {"phrase": "occurring to him", "base": "occur to", "meaning": "（考えが）〜の心に浮かぶ", "point": "occur を「起こる」と読んで「〜に起こる」と取りやすい。occur to 〜 は「（考えが）〜の心に浮かぶ」の意味。"}, {"phrase": "to begin with", "base": "to begin with", "meaning": "そもそも・まず第一に", "point": "begin を「始める」と読んで「始めるために」と目的に取りやすい。to begin with は「そもそも・まず第一に」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Far from the Madding Crowd", "workJa": "遥か群衆を離れて", "year": 1874
   },
   {
@@ -5791,7 +5791,7 @@
     "parts": [["A woman", "S"], ["must learn", "V"], ["to put up with little things.", "O"]],
     "point": "put up with（〜を我慢する）は「〜を」と訳すので、その目的語を文の目的語と見やすい。put up with は不定詞の中で、learn の目的語は to put up with ~ の不定詞全体。第3文型。",
     "explanation": "learn「〜を身につける」の目的語が to put up with little things。SVO。",
-    "idioms": [{"phrase": "put up with", "base": "put up with", "meaning": "〜に我慢する"}],
+    "idioms": [{"phrase": "put up with", "base": "put up with", "meaning": "〜に我慢する", "point": "put up を「（家に）泊める・掲げる」と読みやすい。put up with 〜 は「〜に我慢する」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -5804,7 +5804,7 @@
     "point": "look up to 〜（〜を尊敬する）は「〜を」と訳すので、him を目的語と見て第3文型を選びやすい。look は自動詞、up は副詞、to は前置詞で、him は前置詞の目的語。第1文型。",
     "explanation": "looked up は自動詞＋副詞で、to him は前置詞句の修飾語。SV。",
     "note": "look up to をひとまとまりの他動詞とみて SVO とする説明もある。原文ではこの文の前に引用符 ‘ がある。",
-    "idioms": [{"phrase": "looked up to", "base": "look up to", "meaning": "〜を尊敬する"}],
+    "idioms": [{"phrase": "looked up to", "base": "look up to", "meaning": "〜を尊敬する", "point": "look up を「見上げる・調べる」と読みやすい。look up to 〜 は「〜を（見上げるように）尊敬する」の意味。"}],
     "author": "Joseph Conrad", "authorJa": "ジョゼフ・コンラッド", "work": "Heart of Darkness", "workJa": "闇の奥", "year": 1899
   },
   {
@@ -5816,7 +5816,7 @@
     "parts": [["he", "S"], ["would have bankrupted", "V"], ["every boy in the village", "O"]],
     "point": "If 節の run out of ~（仮定法過去完了）に気を取られやすい。また bankrupt は形容詞（破産した）の印象が強く、補語と見て第5文型を選ぶ誤りもある。ここは「〜を破産させる」の他動詞。第3文型。",
     "explanation": "bankrupt「〜を破産させる」の目的語が every boy。SVO。",
-    "idioms": [{"phrase": "run out of", "base": "run out of", "meaning": "〜を使い果たす"}],
+    "idioms": [{"phrase": "run out of", "base": "run out of", "meaning": "〜を使い果たす", "point": "run out を「走って出る」と読みやすい。run out of 〜 は「〜を使い果たす・切らす」の意味。"}],
     "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "The Adventures of Tom Sawyer", "workJa": "トム・ソーヤーの冒険", "year": 1876
   },
   {
@@ -5828,7 +5828,7 @@
     "parts": [["I", "S"], ["’m", "V"], ["awfully sorry", "C"], ["I made fun of your hair that time.", "M"]],
     "point": "sorry のあとの節を that 節の目的語と見て、第3文型を選びやすい。sorry のあとの節は「〜して」と理由を表す修飾語で、補語は awfully sorry。I＝sorry の第2文型。",
     "explanation": "I＝sorry の関係なので SVC。I made fun of 〜 は sorry を補う節。",
-    "idioms": [{"phrase": "made fun of", "base": "make fun of", "meaning": "〜をからかう"}],
+    "idioms": [{"phrase": "made fun of", "base": "make fun of", "meaning": "〜をからかう", "point": "fun を「楽しみ」と読んで「〜を楽しむ」と取りやすい。make fun of 〜 は「〜をからかう・ばかにする」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -5840,7 +5840,7 @@
     "parts": [["It", "S(仮)"], ["’s", "V"], ["so romantic", "C"], ["to take part in a concert,", "S(真)"], ["isn’t it?", "M"]],
     "point": "take part in を「〜に参加する」と読むと、不定詞を主語と見抜けず構造を見失いやすい。It は仮主語で、本当の主語は to take part in a concert。It＝so romantic の第2文型。",
     "explanation": "to take part in a concert＝so romantic の関係なので SVC。isn’t it? は付加疑問。",
-    "idioms": [{"phrase": "take part in", "base": "take part in", "meaning": "〜に参加する"}],
+    "idioms": [{"phrase": "take part in", "base": "take part in", "meaning": "〜に参加する", "point": "part を「部分」と読んで「〜の部分を取る」と取りやすい。take part in 〜 は「〜に参加する」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -5852,7 +5852,7 @@
     "parts": [["We", "S"], ["have", "V"], ["no right", "O"], ["to take anything for granted", "M"]],
     "point": "to take anything for granted の中に take O for granted（第5文型に近い形）があるので、そちらを判定しやすい。to take 〜 は right を修飾する不定詞（形容詞用法）。We have no right で第3文型。",
     "explanation": "have の目的語が no right（権利）。to take anything for granted は「〜する権利」と right を説明する。SVO。",
-    "idioms": [{"phrase": "take anything for granted", "base": "take ~ for granted", "meaning": "〜を当然のことと思う"}],
+    "idioms": [{"phrase": "take anything for granted", "base": "take ~ for granted", "meaning": "〜を当然のことと思う", "point": "granted を「与えられた・許された」と読んで意味が取りにくい。take 〜 for granted は「〜を当然のことと思う」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Sign of the Four", "workJa": "四つの署名", "year": 1890
   },
   {
@@ -5865,7 +5865,7 @@
     "point": "take after 〜（〜に似ている）は「〜に似る」と訳すので補語に見えたり、your poor mother を目的語と見て第3文型を選びやすい。after は前置詞で、後ろは前置詞の目的語。第1文型。",
     "explanation": "take は自動詞で、after your poor mother は前置詞句の修飾語。SV。前半の You’re a shilly-shally fellow は SVC。",
     "note": "take after をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "take after", "base": "take after", "meaning": "〜に似ている"}],
+    "idioms": [{"phrase": "take after", "base": "take after", "meaning": "〜に似ている", "point": "after を「〜の後で」と読んで「〜の後を取る」と取りやすい。take after 〜 は「（親など）に似ている」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Silas Marner", "workJa": "サイラス・マーナー", "year": 1861
   },
   {
@@ -5877,7 +5877,7 @@
     "parts": [["Mary", "S"], ["had not had", "V"], ["time", "O"], ["to pay much attention to her changing face.", "M"]],
     "point": "to pay attention to ~ の中に pay attention（目的語）があるので、そちらを判定しやすい。to pay 〜 は time を修飾する不定詞。主節は Mary had not had time で、目的語 time の第3文型。",
     "explanation": "had の目的語が time（暇）。to pay 以下は「〜する時間」と time を説明する修飾語。SVO。",
-    "idioms": [{"phrase": "pay much attention to", "base": "pay attention to", "meaning": "〜に注意を払う"}],
+    "idioms": [{"phrase": "pay much attention to", "base": "pay attention to", "meaning": "〜に注意を払う", "point": "pay を「払う」と読んで「お金を払う」と取りやすい。pay attention to 〜 は「〜に注意を払う」の意味。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -5889,7 +5889,7 @@
     "parts": [["All the time,", "M"], ["however,", "M"], ["I", "S"], ["never", "M"], ["lost", "V"], ["sight", "O"], ["of my purpose.", "M"]],
     "point": "lose sight of 〜（〜を見失う）は「〜を」と訳すので、of の後ろを目的語と見やすい。目的語は lost のすぐ後ろの sight で、of 以下は前置詞句。第3文型。",
     "explanation": "lost の目的語が sight、of my purpose は sight を修飾する。SVO。",
-    "idioms": [{"phrase": "All the time", "base": "all the time", "meaning": "その間ずっと"}, {"phrase": "lost sight of", "base": "lose sight of", "meaning": "〜を見失う"}],
+    "idioms": [{"phrase": "All the time", "base": "all the time", "meaning": "その間ずっと", "point": "all the time を「いつも・常に」と覚えていると取り違えやすい。ここは「（その間）ずっと」の意味。"}, {"phrase": "lost sight of", "base": "lose sight of", "meaning": "〜を見失う", "point": "lose を「負ける・なくす」、sight を「視力」と読んで「視力を失う」と取りやすい。lose sight of 〜 は「〜を見失う」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Sign of the Four", "workJa": "四つの署名", "year": 1890
   },
   {
@@ -5902,7 +5902,7 @@
     "point": "keep は「〜を保つ」の他動詞の印象が強く、keep up with 〜（〜についていく）の後ろを目的語と見て第3文型を選びやすい。up は副詞、with は前置詞。第1文型。",
     "explanation": "keep up は自動詞＋副詞で、with 以下は前置詞句の修飾語。SV。",
     "note": "keep up with をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "keep up with", "base": "keep up with", "meaning": "〜に遅れずについていく"}],
+    "idioms": [{"phrase": "keep up with", "base": "keep up with", "meaning": "〜に遅れずについていく", "point": "keep up を「（ある状態を）保つ」と読みやすい。keep up with 〜 は「〜に遅れずについていく」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -5914,7 +5914,7 @@
     "parts": [["I", "S"], ["do bear", "V"], ["in mind", "M"], ["that you came to marry me before you knew o’ my state.", "O"]],
     "point": "bear は「耐える」の印象が強く、また bear 〜 in mind（心に留める）の in mind を補語と見て第5文型を選びやすい。in mind は修飾語で、目的語の that 節が in mind のあとに回っている。第3文型。",
     "explanation": "bear「抱く」の目的語が that 節、in mind は修飾語。do は強調の助動詞。SVO。",
-    "idioms": [{"phrase": "bear in mind", "base": "bear ~ in mind", "meaning": "〜を心に留める"}],
+    "idioms": [{"phrase": "bear in mind", "base": "bear ~ in mind", "meaning": "〜を心に留める", "point": "bear を「クマ」や「生む」と読みやすい。ここは「心に持つ」で、bear 〜 in mind は「〜を心に留める・覚えておく」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Tess of the d'Urbervilles", "workJa": "ダーバヴィル家のテス", "year": 1891
   },
   {
@@ -5926,7 +5926,7 @@
     "parts": [["Obviously", "M"], ["something", "S"], ["had occurred", "V"], ["during the morning,", "M"], ["then,", "M"], ["to cause her to change her mind.", "M"]],
     "point": "不定詞の中の cause her to change 〜（cause O to do）が第5文型の形なので、そちらを判定しやすい。主節は something had occurred（起こった）で、目的語のない第1文型。",
     "explanation": "occurred「起こった」は自動詞。to cause 以下は結果・目的を表す修飾語。SV。",
-    "idioms": [{"phrase": "change her mind", "base": "change one’s mind", "meaning": "考えを変える"}],
+    "idioms": [{"phrase": "change her mind", "base": "change one’s mind", "meaning": "考えを変える", "point": "change を「変える」と読めても、mind を「気にする」の動詞と取って混乱しやすい。change one's mind は「考えを変える」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -5938,7 +5938,7 @@
     "parts": [["Julia,", "S"], ["joining them at the moment,", "M"], ["carried on", "V"], ["the joke.", "O"]],
     "point": "carry on は「続ける」で自動詞にもなるので、目的語がないと見て第1文型を選びやすい。ここは他動詞として働く句動詞で、the joke が目的語。第3文型。",
     "explanation": "carried on の目的語が the joke。joining 以下は挿入の分詞構文。SVO。",
-    "idioms": [{"phrase": "at the moment", "base": "at the moment", "meaning": "ちょうどそのとき・今のところ"}, {"phrase": "carried on", "base": "carry on", "meaning": "〜を続ける"}],
+    "idioms": [{"phrase": "at the moment", "base": "at the moment", "meaning": "ちょうどそのとき・今のところ", "point": "moment を「瞬間」と読んで「その瞬間に」とだけ取りやすい。at the moment は「ちょうどそのとき」のほか「今のところ」の意味もある。"}, {"phrase": "carried on", "base": "carry on", "meaning": "〜を続ける", "point": "carry（運ぶ）＋on（上に）で「上に乗せて運ぶ」と読みやすい。carry on は「〜を続ける」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Mansfield Park", "workJa": "マンスフィールド・パーク", "year": 1814
   },
   {
@@ -5950,7 +5950,7 @@
     "parts": [["The sight of his uplifted face", "S"], ["brought about", "V"], ["a sudden change in her own.", "O"]],
     "point": "主語が無生物（The sight of his uplifted face）なので、「顔が…をもたらした」と読めず骨格を見失いやすい。bring about（〜をもたらす）は他動詞の句動詞で、a sudden change が目的語。第3文型。",
     "explanation": "brought about「〜を引き起こした」の目的語が a sudden change。SVO。her own は her own face のこと。",
-    "idioms": [{"phrase": "brought about", "base": "bring about", "meaning": "〜を引き起こす"}],
+    "idioms": [{"phrase": "brought about", "base": "bring about", "meaning": "〜を引き起こす", "point": "bring（持ってくる）＋about（周りに）で「周りに持ってくる」と読みやすい。bring about は「〜を引き起こす・もたらす」の意味。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -5962,7 +5962,7 @@
     "parts": [["And then", "M"], ["suddenly", "M"], ["the whole business", "S"], ["came", "V"], ["to an end.", "M"]],
     "point": "come to an end（終わる）の an end を補語や目的語と見て、第2文型や第3文型を選びやすい。to an end は前置詞句の修飾語で、come は自動詞。第1文型。",
     "explanation": "came は自動詞で、to an end は修飾語。SV。",
-    "idioms": [{"phrase": "came to an end", "base": "come to an end", "meaning": "終わる"}],
+    "idioms": [{"phrase": "came to an end", "base": "come to an end", "meaning": "終わる", "point": "come to を「〜に来る」と読んで「端に来る」と取りやすい。come to an end は「終わりに至る」、つまり「終わる」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -5974,7 +5974,7 @@
     "parts": [["Herbert", "S"], ["himself", "M"], ["had come of age", "V"], ["eight months before me.", "M"]],
     "point": "come of age（成人する）の age を補語や目的語と見て、第2文型や第3文型を選びやすい。come of age は全体で自動詞1語に相当する熟語。第1文型。",
     "explanation": "himself は主語を強める再帰代名詞。come of age は目的語を取らない。SV。",
-    "idioms": [{"phrase": "come of age", "base": "come of age", "meaning": "成人する"}],
+    "idioms": [{"phrase": "come of age", "base": "come of age", "meaning": "成人する", "point": "age を「年齢・時代」と読んで「年齢から来る」と取りやすい。come of age は「成年に達する＝成人する」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -5986,7 +5986,7 @@
     "parts": [["I", "S"], ["did not lose", "V"], ["my temper", "O"]],
     "point": "前半の I was somewhat surprised（SVC）につられて第2文型を選びやすい。判定するのは I did not lose my temper（かっとならなかった）で、目的語 my temper の第3文型。",
     "explanation": "lose「失う」の目的語が my temper（平静さ）。SVO。",
-    "idioms": [{"phrase": "lose my temper", "base": "lose one’s temper", "meaning": "かっとなる"}],
+    "idioms": [{"phrase": "lose my temper", "base": "lose one’s temper", "meaning": "かっとなる", "point": "temper を「気質」と読んで「気質を失う＝落ち着く」と取りやすい。lose one's temper は「（落ち着きを失って）かっとなる」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -5998,7 +5998,7 @@
     "parts": [["I", "S"], ["thought", "V"], ["I had taken a wrong direction and lost my way.", "O"]],
     "point": "thought のあとの接続詞 that が省略されているので、I had taken ~ を別の文と見て、thought を目的語のない動詞と考えやすい。省略された that 節が目的語。第3文型。",
     "explanation": "thought の目的語が名詞節 I had taken 〜 my way。SVO。",
-    "idioms": [{"phrase": "lost my way", "base": "lose one’s way", "meaning": "道に迷う"}],
+    "idioms": [{"phrase": "lost my way", "base": "lose one’s way", "meaning": "道に迷う", "point": "lose を「なくす」、way を「方法」と読んで「方法を失う」と取りやすい。lose one's way は「道に迷う」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -6010,7 +6010,7 @@
     "parts": [["that", "S"], ["itself", "M"], ["will show", "V"], ["you", "O1"], ["if I speak at random", "O2"]],
     "point": "if 節を「もし〜なら」の修飾語と見て、目的語が you だけの第3文型を選びやすい。この if 節は「〜かどうか」という名詞節で、2つ目の目的語。show you if ~ で第4文型。",
     "explanation": "show you（あなたに）if 〜（〜かどうかを）で目的語が2つ。SVOO。",
-    "idioms": [{"phrase": "I’m off", "base": "be off", "meaning": "立ち去る・出発する"}, {"phrase": "at random", "base": "at random", "meaning": "でたらめに・無作為に"}],
+    "idioms": [{"phrase": "I’m off", "base": "be off", "meaning": "立ち去る・出発する", "point": "off を「スイッチが切れて」と読んで「休んでいる」と取りやすい。I'm off は「（もう）出かけます・失礼します」で、be off は「立ち去る・出発する」の意味。"}, {"phrase": "at random", "base": "at random", "meaning": "でたらめに・無作為に", "point": "random を「ランダム」と読めても、at を場所と取って意味が通りにくい。at random は「でたらめに・無作為に」の意味。"}],
     "author": "Robert Louis Stevenson", "authorJa": "ロバート・ルイス・スティーヴンソン", "work": "Treasure Island", "workJa": "宝島", "year": 1883
   },
   {
@@ -6022,7 +6022,7 @@
     "parts": [["I", "S"], ["guess", "V"], ["my folks all know your name by heart.", "O"]],
     "point": "guess のあとの that が省略されているので、my folks all know ~ を別の文と見やすい。また know your name by heart（SVO）を判定する誤りもある。省略された that 節が guess の目的語。第3文型。",
     "explanation": "guess の目的語が名詞節 my folks all know your name by heart。SVO。",
-    "idioms": [{"phrase": "by heart", "base": "by heart", "meaning": "暗記して・そらで"}],
+    "idioms": [{"phrase": "by heart", "base": "by heart", "meaning": "暗記して・そらで", "point": "heart を「心臓・心」と読んで「心から」と取りやすい。by heart は「暗記して・そらで」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The House of Mirth", "workJa": "歓楽の家", "year": 1905
   },
   {
@@ -6034,7 +6034,7 @@
     "parts": [["It was", "M"], ["only by chance", "M"], ["that", "M"], ["I", "S"], ["found", "V"], ["you", "O"], ["here.", "M"]],
     "point": "It was 〜 that の強調構文なので、表面の It was を見て第2文型を選びやすい。強調を外すと I found you で、目的語 you の第3文型。",
     "explanation": "It was と that を外すと I found you here only by chance.。found の目的語が you で、here は場所の副詞。SVO。",
-    "idioms": [{"phrase": "by chance", "base": "by chance", "meaning": "偶然に"}],
+    "idioms": [{"phrase": "by chance", "base": "by chance", "meaning": "偶然に", "point": "chance を「機会・チャンス」と読んで「機会によって」と取りやすい。by chance は「偶然に」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Tess of the d'Urbervilles", "workJa": "ダーバヴィル家のテス", "year": 1891
   },
   {
@@ -6046,7 +6046,7 @@
     "parts": [["We", "S"], ["must get on", "V"], ["by degrees", "M"]],
     "point": "get は「〜を得る」の他動詞や「〜になる」の第2文型にもなるので迷いやすい。get on（やっていく、進む）は自動詞として働き、by degrees（少しずつ）は修飾語。第1文型。",
     "explanation": "get on は目的語を取らず、by degrees は修飾語。SV。",
-    "idioms": [{"phrase": "get on", "base": "get on", "meaning": "進む・やっていく"}, {"phrase": "by degrees", "base": "by degrees", "meaning": "徐々に"}],
+    "idioms": [{"phrase": "get on", "base": "get on", "meaning": "進む・やっていく", "point": "get on を「（乗り物に）乗る」と読みやすい。ここは「（物事が）進む・（人が）やっていく」の意味。"}, {"phrase": "by degrees", "base": "by degrees", "meaning": "徐々に", "point": "degrees を「温度・角度・学位」と読みやすい。by degrees は「（段階を追って）徐々に」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -6058,7 +6058,7 @@
     "parts": [["The lads", "S"], ["searched and researched", "V"], ["this place,", "O"], ["but in vain.", "M"]],
     "point": "2つの動詞 searched と researched が並んでいて、それぞれに目的語を探すと数を見誤りやすい。2つの動詞が目的語 this place を共有している。第3文型。",
     "explanation": "searched と researched の目的語が this place。SVO。",
-    "idioms": [{"phrase": "in vain", "base": "in vain", "meaning": "無駄に"}],
+    "idioms": [{"phrase": "in vain", "base": "in vain", "meaning": "無駄に", "point": "vain を「うぬぼれた」と読んで「うぬぼれて」と取りやすい。in vain は「無駄に・むなしく」の意味。"}],
     "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "The Adventures of Tom Sawyer", "workJa": "トム・ソーヤーの冒険", "year": 1876
   },
   {
@@ -6070,7 +6070,7 @@
     "parts": [["Well,", "M"], ["Watson,", "M"], ["we", "S"], ["shall see", "V"], ["who will win in the long run.", "O"]],
     "point": "who 以下の節の中に will win という動詞があるので、who を関係代名詞と見て構造を見失いやすい。who 以下は疑問詞で始まる名詞節（間接疑問）で、see の目的語。in the long run も節の中。第3文型。",
     "explanation": "see の目的語が who will win 〜。SVO。",
-    "idioms": [{"phrase": "in the long run", "base": "in the long run", "meaning": "長い目で見れば・結局"}],
+    "idioms": [{"phrase": "in the long run", "base": "in the long run", "meaning": "長い目で見れば・結局", "point": "run を「走る」と読んで「長い走りの中で」と取りやすい。in the long run は「長い目で見れば・結局」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -6082,7 +6082,7 @@
     "parts": [["He", "S"], ["had been", "V"], ["one of the officers", "C"], ["in charge of the convict-guard there.", "M"]],
     "point": "in charge of 以下を補語の一部と見たり、of の後ろを目的語と見たりしやすい。in charge of 以下は officers を修飾する前置詞句。He＝one of the officers の第2文型。",
     "explanation": "He＝one of the officers の関係なので SVC。",
-    "idioms": [{"phrase": "in charge of", "base": "in charge of", "meaning": "〜を担当して・任されて"}],
+    "idioms": [{"phrase": "in charge of", "base": "in charge of", "meaning": "〜を担当して・任されて", "point": "charge を「料金・充電」と読んで「〜の料金で」と取りやすい。in charge of 〜 は「〜を担当して・任されて」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Sign of the Four", "workJa": "四つの署名", "year": 1890
   },
   {
@@ -6094,7 +6094,7 @@
     "parts": [["I", "S"], ["meant", "V"], ["nothing in particular", "O"], ["by this remark", "M"]],
     "point": "mean A by B の by this remark を2つ目の要素と見て、第4文型や第5文型を選びやすい。by this remark は「この言葉で」という手段の修飾語。目的語は nothing in particular の1つの第3文型。",
     "explanation": "meant の目的語が nothing in particular（特に何も）。SVO。",
-    "idioms": [{"phrase": "in particular", "base": "in particular", "meaning": "特に"}],
+    "idioms": [{"phrase": "in particular", "base": "in particular", "meaning": "特に", "point": "particular を「好みがうるさい」と読みやすい。in particular は「特に」の意味。"}],
     "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
   },
   {
@@ -6106,7 +6106,7 @@
     "parts": [["on the whole", "M"], ["he", "S"], ["’s", "V"], ["a good worker", "C"]],
     "point": "he's を he has と読むと a good worker を目的語と見て第3文型を選びやすい。he's は he is の短縮。on the whole（全体として）も修飾語。he＝a good worker の第2文型。",
     "explanation": "he＝a good worker の関係なので SVC。",
-    "idioms": [{"phrase": "on the whole", "base": "on the whole", "meaning": "全体として・概して"}],
+    "idioms": [{"phrase": "on the whole", "base": "on the whole", "meaning": "全体として・概して", "point": "whole を「全体の」と読めても、on を場所と取って「全体の上に」と取りやすい。on the whole は「全体として・概して」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -6118,7 +6118,7 @@
     "parts": [["on the contrary,", "M"], ["I", "S"], ["felt", "V"], ["better pleased", "C"], ["than ever", "M"]],
     "point": "feel は「〜を感じる」の他動詞の印象が強く、また pleased を受動態の分詞と見て第1文型や第3文型を選びやすい。feel＋形容詞（分詞）は「〜と感じる」で、better pleased が補語。第2文型。",
     "explanation": "I＝pleased の関係なので SVC。better は pleased を強める。",
-    "idioms": [{"phrase": "on the contrary", "base": "on the contrary", "meaning": "それどころか"}],
+    "idioms": [{"phrase": "on the contrary", "base": "on the contrary", "meaning": "それどころか", "point": "contrary を「反対」と読んで「反対の上に」と取りやすい。on the contrary は「（相手の言ったことを打ち消して）それどころか」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -6130,7 +6130,7 @@
     "parts": [["she", "S"], ["was", "V"], ["rather", "M"], ["out of breath", "C"], ["when she reached her room", "M"]],
     "point": "out of breath は前置詞句なので修飾語と見て、第1文型を選びやすい。しかしこれは「息切れした状態」を表す補語（she＝out of breath）。when 節も修飾語。第2文型。",
     "explanation": "she＝out of breath（息切れした状態）の関係なので SVC。",
-    "idioms": [{"phrase": "so fast that", "base": "so … that 〜", "meaning": "とても…なので〜"}, {"phrase": "out of breath", "base": "out of breath", "meaning": "息を切らして"}],
+    "idioms": [{"phrase": "so fast that", "base": "so … that 〜", "meaning": "とても…なので〜", "point": "so を「だから」と読んで、that 以下を別の文と取りやすい。so … that 〜 は「とても…なので〜」で、so が程度、that 以下が結果を表す。"}, {"phrase": "out of breath", "base": "out of breath", "meaning": "息を切らして", "point": "breath を「息」と読めても、out of を「〜から外へ」と取って「息を吐き出して」と取りやすい。out of breath は「息を切らして」の意味。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -6142,7 +6142,7 @@
     "parts": [["Like other men,", "M"], ["they", "S"], ["passed", "V"], ["out of Buck’s life", "M"], ["for good.", "M"]],
     "point": "for good の good を「よい」という形容詞と読むと、補語と見て第2文型を選びやすい。for good は「永久に」という修飾語。pass は自動詞で、目的語も補語もない第1文型。",
     "explanation": "passed は自動詞「過ぎ去る」。あとはすべて修飾語。SV。",
-    "idioms": [{"phrase": "for good", "base": "for good", "meaning": "永久に"}],
+    "idioms": [{"phrase": "for good", "base": "for good", "meaning": "永久に", "point": "good を「よい」と読んで「よいことのために」と取りやすい。for good は「永久に・これを最後に」の意味。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "The Call of the Wild", "workJa": "野性の呼び声", "year": 1903
   },
   {
@@ -6154,7 +6154,7 @@
     "parts": [["But", "M"], ["I", "S"], ["am", "V"], ["much obliged", "C"], ["for the compliment,", "M"], ["all the same.", "M"]],
     "point": "obliged を受動態の過去分詞と見て、第1文型や第3文型を選びやすい。be obliged for 〜（〜に感謝している）の obliged は形容詞的な補語。I＝much obliged の第2文型。",
     "explanation": "I＝obliged の関係なので SVC。for the compliment は obliged を補う。",
-    "idioms": [{"phrase": "obliged for", "base": "be obliged for", "meaning": "〜に感謝している"}, {"phrase": "all the same", "base": "all the same", "meaning": "それでもやはり"}],
+    "idioms": [{"phrase": "obliged for", "base": "be obliged for", "meaning": "〜に感謝している", "point": "obliged を「義務がある・〜せざるをえない」と読みやすい。be obliged for 〜 は「〜に感謝している」の意味。"}, {"phrase": "all the same", "base": "all the same", "meaning": "それでもやはり", "point": "same を「同じ」と読んで「すべて同じ」と取りやすい。all the same は「それでもやはり」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -6166,7 +6166,7 @@
     "parts": [["Nor,", "M"], ["as a matter of fact,", "M"], ["did", "V"], ["anyone else", "S"], ["hear", "V"], ["more", "O"], ["of it.", "M"]],
     "point": "否定語 Nor が文頭に出て did anyone else hear と疑問文の語順になっているので、文の形を見失いやすい。倒置を戻すと anyone else heard more で、more（それ以上のこと）が目的語。第3文型。",
     "explanation": "普通の語順に戻すと Anyone else did not hear more of it.。more（それ以上のこと）が hear の目的語。SVO。",
-    "idioms": [{"phrase": "as a matter of fact", "base": "as a matter of fact", "meaning": "実のところ・実際は"}],
+    "idioms": [{"phrase": "as a matter of fact", "base": "as a matter of fact", "meaning": "実のところ・実際は", "point": "matter を「物質・問題」と読んで「事実の問題として」と取りやすい。as a matter of fact は「実のところ・実際は」の意味。"}],
     "author": "H. G. Wells", "authorJa": "H・G・ウェルズ", "work": "The War of the Worlds", "workJa": "宇宙戦争", "year": 1898
   },
   {
@@ -6179,7 +6179,7 @@
     "point": "in the habit of 〜ing は前置詞句なので修飾語と見て第1文型を選びやすい。また brooking disappointment を目的語と見る誤りもある。これは「〜する習慣がある状態」を表す補語。第2文型。",
     "explanation": "be＋状態の前置詞句で SVC。I＝in the habit（習慣がある状態）の関係。",
     "note": "be＋前置詞句は、場所を表せば SV、状態を表せば SVC とするのが学校文法の一般的な扱い。",
-    "idioms": [{"phrase": "in the habit of", "base": "be in the habit of ~ing", "meaning": "〜する習慣がある"}],
+    "idioms": [{"phrase": "in the habit of", "base": "be in the habit of ~ing", "meaning": "〜する習慣がある", "point": "habit を「癖」と読めても、in を場所と取って「習慣の中に」と取りやすい。be in the habit of ~ing は「〜する習慣がある」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
   },
   {
@@ -6191,7 +6191,7 @@
     "parts": [["I", "S"], ["don’t think", "V"], ["much", "O"], ["of this inn", "M"]],
     "point": "much は「とても」の副詞の印象が強く、think much of 〜 の of の後ろを目的語と見やすい。ここの much は「たいしたもの」という名詞的な目的語で、of 以下は前置詞句。第3文型。",
     "explanation": "think の目的語が much、of this inn は「〜について」の修飾語。SVO。",
-    "idioms": [{"phrase": "I say", "base": "I say", "meaning": "おい・ねえ"}, {"phrase": "think much of", "base": "think much of", "meaning": "〜を高く評価する（否定文で多い）"}],
+    "idioms": [{"phrase": "I say", "base": "I say", "meaning": "おい・ねえ", "point": "I say を「私は言う」と字面どおりに取りやすい。会話の I say は呼びかけの「おい・ねえ」の意味。"}, {"phrase": "think much of", "base": "think much of", "meaning": "〜を高く評価する（否定文で多い）", "point": "think much of を「〜についてたくさん考える」と取りやすい。これは「〜を高く評価する」で、否定文の not think much of（〜をたいしたことないと思う）でよく使う。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -6203,7 +6203,7 @@
     "parts": [["Apparently", "M"], ["the Martians", "S"], ["were setting", "V"], ["fire", "O"], ["to everything within range of their Heat-Ray.", "M"]],
     "point": "set fire to 〜（〜に火をつける）は「〜に」と訳すので、to の後ろを「人」と見て第4文型を選びやすい。目的語は fire の1つで、to 以下は前置詞句。第3文型。",
     "explanation": "setting の目的語が fire、to everything 以下は修飾語。SVO。",
-    "idioms": [{"phrase": "setting fire to", "base": "set fire to", "meaning": "〜に火をつける"}, {"phrase": "within range of", "base": "within range of", "meaning": "〜の届く範囲に"}],
+    "idioms": [{"phrase": "setting fire to", "base": "set fire to", "meaning": "〜に火をつける", "point": "set を「置く」と読んで「〜に火を置く」と取りやすい。set fire to 〜 は「〜に火をつける」の意味。"}, {"phrase": "within range of", "base": "within range of", "meaning": "〜の届く範囲に", "point": "range を「範囲・ガスレンジ」と読めても、within を「〜の内側で」と取って意味が通りにくい。within range of 〜 は「〜の届く範囲に」の意味。"}],
     "author": "H. G. Wells", "authorJa": "H・G・ウェルズ", "work": "The War of the Worlds", "workJa": "宇宙戦争", "year": 1898
   },
   {
@@ -6216,7 +6216,7 @@
     "point": "depend on 〜（〜しだいである）は「〜に依存する」と訳せるので、on の後ろを目的語と見て第3文型を選びやすい。depend は自動詞で、on は前置詞。第1文型。",
     "explanation": "depends は自動詞で、on 以下は前置詞句の修飾語。SV。",
     "note": "depend on をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "depends on", "base": "depend on", "meaning": "〜しだいである・〜に頼る"}],
+    "idioms": [{"phrase": "depends on", "base": "depend on", "meaning": "〜しだいである・〜に頼る", "point": "depend on を「〜に頼る」とだけ覚えていると取り違えやすい。主語が物事なら「〜しだいである」の意味になる。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -6228,7 +6228,7 @@
     "parts": [["How", "M"], ["can", "V"], ["you,", "S"], ["who long for the love and sympathy of man,", "M"], ["persevere", "V"], ["in this exile?", "M"]],
     "point": "疑問文で主語 you と動詞 persevere のあいだに関係詞節が入っているので、関係詞節の動詞を主節の動詞と見誤りやすい。persevere（やり抜く）は自動詞。第1文型。",
     "explanation": "persevere「耐え抜く」は自動詞で、in this exile は修飾語。long for は関係詞節の中。SV。",
-    "idioms": [{"phrase": "long for", "base": "long for", "meaning": "〜を切望する"}],
+    "idioms": [{"phrase": "long for", "base": "long for", "meaning": "〜を切望する", "point": "long を「長い」と読んで「〜のために長い」と取りやすい。ここの long は動詞で、long for 〜 は「〜を切望する」の意味。"}],
     "author": "Mary Shelley", "authorJa": "メアリー・シェリー", "work": "Frankenstein", "workJa": "フランケンシュタイン", "year": 1818
   },
   {
@@ -6241,7 +6241,7 @@
     "point": "deal with 〜（〜と取引する）は「〜を扱う」とも訳すので、with の後ろを目的語と見て第3文型を選びやすい。deal は自動詞で、with は前置詞。第1文型。",
     "explanation": "deal は自動詞で、with 以下は前置詞句の修飾語。SV。",
     "note": "deal with をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "deal with", "base": "deal with", "meaning": "〜と取引する・〜を扱う"}],
+    "idioms": [{"phrase": "deal with", "base": "deal with", "meaning": "〜と取引する・〜を扱う", "point": "deal を「取引」と読めても、with を「〜と一緒に」と取って「取引を一緒に」と取りやすい。deal with 〜 は「〜と取引する・〜を扱う」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -6253,7 +6253,7 @@
     "parts": [["Then", "M"], ["you", "S"], ["ought to leave", "V"], ["it", "O"], ["alone", "C"]],
     "point": "alone を「一人で」という副詞と見ると、leave it だけで第3文型を選びやすい。leave O alone（O をそっとしておく）の alone は it の状態を表す補語（it＝alone）。第5文型。",
     "explanation": "it＝alone（ひとりのまま）の関係が成り立つので SVOC。",
-    "idioms": [{"phrase": "leave it alone", "base": "leave ~ alone", "meaning": "〜をそっとしておく"}],
+    "idioms": [{"phrase": "leave it alone", "base": "leave ~ alone", "meaning": "〜をそっとしておく", "point": "leave を「去る」、alone を「一人で」と読んで「一人で去る」と取りやすい。leave 〜 alone は「〜をそっとしておく」の意味。"}],
     "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
   },
   {
@@ -6265,7 +6265,7 @@
     "parts": [["She", "S"], ["had", "V"], ["no confidante,", "O"], ["so to speak,", "M"], ["ever since she had anything to confide.", "M"]],
     "point": "挿入の独立不定詞 so to speak（いわば）を目的語や補語の一部と見誤りやすい。これは文全体にかかる修飾語。She had no confidante で、目的語1つの第3文型。",
     "explanation": "had の目的語が no confidante（打ち明け相手）。SVO。",
-    "idioms": [{"phrase": "so to speak", "base": "so to speak", "meaning": "いわば"}, {"phrase": "ever since", "base": "ever since", "meaning": "〜以来ずっと"}],
+    "idioms": [{"phrase": "so to speak", "base": "so to speak", "meaning": "いわば", "point": "so と to speak を「話すために」と目的に取りやすい。so to speak は「いわば」の意味。"}, {"phrase": "ever since", "base": "ever since", "meaning": "〜以来ずっと", "point": "ever を「かつて」と読んで「かつてから」と取りやすい。ever since は「〜以来ずっと」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -6277,7 +6277,7 @@
     "parts": [["And", "M"], ["what big generous hands", "C"], ["they", "S"], ["are,", "V"], ["to be sure.", "M"]],
     "point": "What 〜 S V! の感嘆文で補語が文頭に出ているので、hands を目的語と見て第3文型を選びやすい。語順を戻すと they are what big generous hands で、they＝hands。第2文型。",
     "explanation": "普通の語順なら They are very big generous hands.。they＝hands の関係なので SVC。",
-    "idioms": [{"phrase": "to be sure", "base": "to be sure", "meaning": "確かに・まったく"}],
+    "idioms": [{"phrase": "to be sure", "base": "to be sure", "meaning": "確かに・まったく", "point": "to be sure を「確かであるために」と目的に取りやすい。これは「確かに・まったく」の意味。"}],
     "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
   },
   {
@@ -6289,7 +6289,7 @@
     "parts": [["Everything else", "S"], ["has gone", "V"], ["from me,", "M"], ["little by little", "M"]],
     "point": "後半の I have kept this（SVO）につられて第3文型を選びやすい。判定するのは Everything else has gone で、from me と little by little は修飾語。go は自動詞。第1文型。",
     "explanation": "gone は自動詞で、from me と little by little は修飾語。SV。",
-    "idioms": [{"phrase": "little by little", "base": "little by little", "meaning": "少しずつ・徐々に"}],
+    "idioms": [{"phrase": "little by little", "base": "little by little", "meaning": "少しずつ・徐々に", "point": "little を「小さい」と読んで「小さく小さく」と取りやすい。little by little は「少しずつ・徐々に」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -6301,7 +6301,7 @@
     "parts": [["They", "S"], ["stood", "V"], ["side by side,", "M"], ["watching and listening and smelling.", "M"]],
     "point": "watching 以下に目的語があるので、それを stood の目的語と見て第3文型を選びやすい。watching 以下は付帯状況の分詞構文で修飾語。stand は自動詞。第1文型。",
     "explanation": "stood は自動詞で、side by side も分詞構文も修飾語。SV。",
-    "idioms": [{"phrase": "side by side", "base": "side by side", "meaning": "並んで"}],
+    "idioms": [{"phrase": "side by side", "base": "side by side", "meaning": "並んで", "point": "side を「側・脇腹」と読んで「側によって」と取りやすい。side by side は「並んで」の意味。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "White Fang", "workJa": "白い牙", "year": 1906
   },
   {
@@ -6313,7 +6313,7 @@
     "parts": [["I", "S"], ["have been making", "V"], ["a fool", "O"], ["of myself", "M"]],
     "point": "make a fool of oneself を「自分をばかにする」と読むと、myself を目的語、a fool を補語と見て第5文型を選びやすい。make＋a fool（目的語）＋of oneself で、of 以下は前置詞句。第3文型。",
     "explanation": "making の目的語が a fool、of myself は修飾語。SVO。",
-    "idioms": [{"phrase": "making a fool of myself", "base": "make a fool of oneself", "meaning": "ばかなまねをする"}],
+    "idioms": [{"phrase": "making a fool of myself", "base": "make a fool of oneself", "meaning": "ばかなまねをする", "point": "make a fool を「ばかを作る」と読み、of oneself を「自分の」と取りやすい。make a fool of oneself は「ばかなまねをする（物笑いになる）」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -6326,7 +6326,7 @@
     "point": "are come を受動態と見たり、come を補語と見たりしやすい。are come は古い完了形（＝have come）で、come down は「倒れる」の自動詞。The old walnut trees are all come down で第1文型。",
     "explanation": "come down は自動詞「倒れる」。to make room for it は目的の不定詞で修飾語。SV。",
     "note": "移動・変化を表す自動詞は、昔は be＋過去分詞で完了を表した。",
-    "idioms": [{"phrase": "make room for", "base": "make room for", "meaning": "〜のために場所を空ける"}],
+    "idioms": [{"phrase": "make room for", "base": "make room for", "meaning": "〜のために場所を空ける", "point": "room を「部屋」と読んで「〜のために部屋を作る」と取りやすい。room は「余地・場所」で、make room for 〜 は「〜のために場所を空ける」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Sense and Sensibility", "workJa": "分別と多感", "year": 1811
   },
   {
@@ -6338,7 +6338,7 @@
     "parts": [["Certainly", "M"], ["he", "S"], ["took", "V"], ["no pains", "O"], ["to hide his thoughts", "M"]],
     "point": "take pains to do（〜しようと骨を折る）の to hide を補語と見て、第5文型を選びやすい。目的語は pains で、to hide 以下は修飾語。Certainly も修飾語。第3文型。",
     "explanation": "took の目的語が no pains、to hide his thoughts は修飾語。SVO。",
-    "idioms": [{"phrase": "took no pains", "base": "take pains", "meaning": "骨を折る・苦労する"}],
+    "idioms": [{"phrase": "took no pains", "base": "take pains", "meaning": "骨を折る・苦労する", "point": "pains を「痛み」と読んで「痛みを取る（和らげる）」と取りやすい。pains は「苦労」で、take pains は「骨を折る・苦労する」の意味。"}],
     "author": "Robert Louis Stevenson", "authorJa": "ロバート・ルイス・スティーヴンソン", "work": "Treasure Island", "workJa": "宝島", "year": 1883
   },
   {
@@ -6350,7 +6350,7 @@
     "parts": [["From there", "M"], ["they", "S"], ["could keep", "V"], ["an eye", "O"], ["on Eben Wright’s house, where the master boarded.", "M"]],
     "point": "keep は keep O C（第5文型）でもよく出るので、on 以下を補語と見て第5文型を選びやすい。keep an eye on 〜（〜を見張る）は keep＋an eye（目的語）で、on 以下は前置詞句。第3文型。",
     "explanation": "keep の目的語が an eye、on 以下は修飾語。SVO。",
-    "idioms": [{"phrase": "keep an eye on", "base": "keep an eye on", "meaning": "〜を見張る"}],
+    "idioms": [{"phrase": "keep an eye on", "base": "keep an eye on", "meaning": "〜を見張る", "point": "keep を「保つ」、eye を「目」と読んで「目を〜の上に保つ」と字面どおりに取りやすい。keep an eye on 〜 は「〜を見張る」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -6362,7 +6362,7 @@
     "parts": [["But", "M"], ["she", "S"], ["could hold", "V"], ["her tongue", "O"]],
     "point": "hold one's tongue（黙っている）は「黙る」と訳すので目的語がないように見え、第1文型を選びやすい。tongue は名詞で目的語。第3文型。",
     "explanation": "hold の目的語が her tongue。SVO。",
-    "idioms": [{"phrase": "hold her tongue", "base": "hold one’s tongue", "meaning": "黙っている"}],
+    "idioms": [{"phrase": "hold her tongue", "base": "hold one’s tongue", "meaning": "黙っている", "point": "hold を「持つ」、tongue を「舌」と読んで「舌を持つ」と取りやすい。hold one's tongue は「黙っている」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The House of Mirth", "workJa": "歓楽の家", "year": 1905
   },
   {
@@ -6374,7 +6374,7 @@
     "parts": [["I", "S"], ["don’t want", "V"], ["to be at the mercy of my emotions.", "O"]],
     "point": "不定詞の中の be at the mercy of ~（〜のなすがままである）が第2文型の形なので、そちらを判定しやすい。want to do の不定詞全体が目的語。第3文型。",
     "explanation": "want の目的語が to be at the mercy of my emotions。SVO。",
-    "idioms": [{"phrase": "at the mercy of", "base": "at the mercy of", "meaning": "〜のなすがままに"}],
+    "idioms": [{"phrase": "at the mercy of", "base": "at the mercy of", "meaning": "〜のなすがままに", "point": "mercy を「慈悲」と読んで「〜の慈悲で（救われて）」とよい意味に取りやすい。at the mercy of 〜 は「〜のなすがままに」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -6386,7 +6386,7 @@
     "parts": [["dead men", "S"], ["never", "M"], ["bring", "V"], ["awkward stories", "O"], ["to light", "M"]],
     "point": "bring O to light（O を明るみに出す）の to light を補語と見て、第5文型を選びやすい。to light は方向を表す前置詞句の修飾語。目的語は awkward stories の1つの第3文型。",
     "explanation": "bring の目的語が awkward stories。前半の Dead men never repent は SV。",
-    "idioms": [{"phrase": "bring awkward stories to light", "base": "bring ~ to light", "meaning": "〜を明るみに出す"}],
+    "idioms": [{"phrase": "bring awkward stories to light", "base": "bring ~ to light", "meaning": "〜を明るみに出す", "point": "bring を「持ってくる」、light を「軽い」と読みやすい。bring 〜 to light は「〜を光の当たる所へ出す」で、「〜を明るみに出す」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Oliver Twist", "workJa": "オリヴァー・ツイスト", "year": 1838
   },
   {
@@ -6398,7 +6398,7 @@
     "parts": [["He", "S"], ["was", "V"], ["the most extraordinary lad I ever came across.", "C"]],
     "point": "関係詞節 I ever came across の came across（〜に出会う）を判定したり、関係代名詞が省略されているので別の文と見たりしやすい。それは lad を修飾する部分。He＝lad の第2文型。",
     "explanation": "He＝lad の関係なので SVC。",
-    "idioms": [{"phrase": "came across", "base": "come across", "meaning": "〜に偶然出会う"}],
+    "idioms": [{"phrase": "came across", "base": "come across", "meaning": "〜に偶然出会う", "point": "come across を「〜を横切ってくる」と字面どおりに読みやすい。come across は「〜に偶然出会う・見つける」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -6411,7 +6411,7 @@
     "point": "look after 〜（〜の世話をする）は「〜を」と訳すので、after の後ろを目的語と見て第3文型を選びやすい。look は自動詞で、after は前置詞。第1文型。",
     "explanation": "looked は自動詞で、after the Hall は前置詞句の修飾語。SV。",
     "note": "look after をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "looked after", "base": "look after", "meaning": "〜の世話をする"}],
+    "idioms": [{"phrase": "looked after", "base": "look after", "meaning": "〜の世話をする", "point": "look after を「〜の後ろを見る」と字面どおりに読みやすい。look after は「〜の世話をする」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Hound of the Baskervilles", "workJa": "バスカヴィル家の犬", "year": 1902
   },
   {
@@ -6424,7 +6424,7 @@
     "point": "look forward to 〜（〜を楽しみにする）は「〜を」と訳すので、seeing ~ を目的語と見て第3文型を選びやすい。to は前置詞で、後ろの動名詞 seeing は前置詞の目的語。第1文型。",
     "explanation": "look forward は自動詞＋副詞で、to 以下は前置詞句の修飾語。SV。",
     "note": "look forward to をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "look forward to", "base": "look forward to", "meaning": "〜を楽しみに待つ"}],
+    "idioms": [{"phrase": "look forward to", "base": "look forward to", "meaning": "〜を楽しみに待つ", "point": "forward を「前へ」と読んで「〜の方を前に見る」と取りやすい。look forward to 〜 は「〜を楽しみに待つ」で、to は前置詞なので後ろは名詞か動名詞。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -6436,7 +6436,7 @@
     "parts": [["I", "S"], ["began", "V"], ["to think I would put it off till tomorrow.", "O"]],
     "point": "不定詞の中の think I would put it off ~（SVO）に引っぱられやすい。begin to do の不定詞全体が began の目的語。第3文型。",
     "explanation": "began の目的語が to think 以下。put it off は不定詞の中。SVO。",
-    "idioms": [{"phrase": "put it off", "base": "put off", "meaning": "〜を延期する"}],
+    "idioms": [{"phrase": "put it off", "base": "put off", "meaning": "〜を延期する", "point": "put off を「（服を）脱ぐ」と読みやすい。put off は「〜を延期する」の意味（「脱ぐ」は take off）。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -6448,7 +6448,7 @@
     "parts": [["A note from Mr. Bulstrode", "S"], ["requested", "V"], ["Lydgate", "O"], ["to call on him at the Bank.", "C"]],
     "point": "主語が人ではなく A note（手紙）なので、「手紙が頼んだ」と読めず構造を見失いやすい。request O to do（O に〜するよう頼む）で、Lydgate が call on する関係。第5文型。",
     "explanation": "Lydgate が call on する（訪ねる）関係なので SVOC。",
-    "idioms": [{"phrase": "call on", "base": "call on", "meaning": "（人）を訪問する"}],
+    "idioms": [{"phrase": "call on", "base": "call on", "meaning": "（人）を訪問する", "point": "call を「電話する・呼ぶ」と読んで「〜に電話する」と取りやすい。call on 〜（人）は「〜を訪問する」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -6460,7 +6460,7 @@
     "parts": [["Besides,", "M"], ["he", "S"], ["was learning", "V"], ["how to get along with Grey Beaver.", "O"]],
     "point": "how を関係副詞と見ると、how 以下を修飾語と考えて目的語がないように見え、第1文型を選びやすい。how to do（〜の仕方）は名詞句で learn の目的語。第3文型。",
     "explanation": "learning の目的語が how to get along with Grey Beaver。SVO。",
-    "idioms": [{"phrase": "get along with", "base": "get along with", "meaning": "〜とうまくやっていく"}],
+    "idioms": [{"phrase": "get along with", "base": "get along with", "meaning": "〜とうまくやっていく", "point": "get along を「先に進む」と読みやすい。get along with 〜 は「〜とうまくやっていく」の意味。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "White Fang", "workJa": "白い牙", "year": 1906
   },
   {
@@ -6472,7 +6472,7 @@
     "parts": [["I", "S"], ["mean", "V"], ["to make the most of every chance that comes", "O"]],
     "point": "mean は「意味する」の印象が強く、また不定詞の中の make the most of ~ や関係詞節 that comes に気を取られやすい。mean to do（〜するつもりだ）の不定詞は目的語。第3文型。",
     "explanation": "mean の目的語が to make the most of 〜。SVO。",
-    "idioms": [{"phrase": "make the most of", "base": "make the most of", "meaning": "〜を最大限に活用する"}],
+    "idioms": [{"phrase": "make the most of", "base": "make the most of", "meaning": "〜を最大限に活用する", "point": "most を「ほとんど」と読んで「〜のほとんどを作る」と取りやすい。make the most of 〜 は「〜を最大限に活用する」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -6484,7 +6484,7 @@
     "parts": [["the gay tones", "S"], ["set", "V"], ["my heart", "O"], ["at ease", "C"]],
     "point": "at ease は前置詞句なので修飾語と見て、第3文型を選びやすい。set O at ease（O を安心させる）の at ease は O の状態を表す補語（my heart＝at ease）。第5文型。",
     "explanation": "my heart＝at ease（安らいだ状態）の関係なので SVOC。",
-    "idioms": [{"phrase": "set my heart at ease", "base": "set ~ at ease", "meaning": "〜を安心させる・くつろがせる"}],
+    "idioms": [{"phrase": "set my heart at ease", "base": "set ~ at ease", "meaning": "〜を安心させる・くつろがせる", "point": "set を「置く」、ease を「容易さ」と読んで「容易に置く」と取りやすい。set 〜 at ease は「〜を安心させる・くつろがせる」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -6497,7 +6497,7 @@
     "point": "in favour of 〜 は前置詞句なので修飾語と見て、第1文型を選びやすい。しかしこれは「〜に賛成している状態」を表す補語（I＝in favour of ~）。第2文型。",
     "explanation": "be＋状態の前置詞句で SVC。To speak frankly は独立不定詞。",
     "note": "favour はイギリス綴り（アメリカ綴りは favor）。",
-    "idioms": [{"phrase": "To speak frankly", "base": "to speak frankly", "meaning": "率直に言えば"}, {"phrase": "in favour of", "base": "in favour of", "meaning": "〜に賛成して"}],
+    "idioms": [{"phrase": "To speak frankly", "base": "to speak frankly", "meaning": "率直に言えば", "point": "frankly を「率直に」と読めても、to speak を「話すために」と目的に取りやすい。to speak frankly は「率直に言えば」という独立不定詞。"}, {"phrase": "in favour of", "base": "in favour of", "meaning": "〜に賛成して", "point": "favour を「親切・好意」と読んで「〜の好意で」と取りやすい。in favour of 〜 は「〜に賛成して」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Importance of Being Earnest", "workJa": "まじめが肝心", "year": 1895
   },
   {
@@ -6509,7 +6509,7 @@
     "parts": [["Old Mr. Turveydrop", "S"], ["adored", "V"], ["the Prince Regent", "O"], ["on account of his deportment.", "M"]],
     "point": "on account of 〜（〜のために）の後ろに名詞があるので、2つ目の目的語と見て第4文型を選びやすい。on account of 〜 は理由を表す修飾語。adored the Prince Regent で第3文型。",
     "explanation": "adored の目的語が the Prince Regent。SVO。",
-    "idioms": [{"phrase": "on account of", "base": "on account of", "meaning": "〜が理由で・〜のために"}],
+    "idioms": [{"phrase": "on account of", "base": "on account of", "meaning": "〜が理由で・〜のために", "point": "account を「口座・説明」と読んで「〜の口座で」と取りやすい。on account of 〜 は「〜が理由で・〜のために」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Bleak House", "workJa": "荒涼館", "year": 1853
   },
   {
@@ -6521,7 +6521,7 @@
     "parts": [["for the most part", "M"], ["they", "S"], ["slept", "V"]],
     "point": "for the most part の part を目的語と見たり、前半の the cubs whimpered and cried と混ぜたりしやすい。for the most part（たいていは）は修飾語で、sleep は自動詞。第1文型。",
     "explanation": "slept は自動詞。for the most part は修飾語。SV。",
-    "idioms": [{"phrase": "At first", "base": "at first", "meaning": "はじめは"}, {"phrase": "for the most part", "base": "for the most part", "meaning": "大部分は・たいてい"}],
+    "idioms": [{"phrase": "At first", "base": "at first", "meaning": "はじめは", "point": "first を「1番目の」と読んで「最初に（＝順番の1番に）」と取りやすい。at first は「はじめのうちは（あとで変わった）」で、後の変化を前提にした言い方。"}, {"phrase": "for the most part", "base": "for the most part", "meaning": "大部分は・たいてい", "point": "most を「最も」と読んで「最も大きい部分のために」と取りやすい。for the most part は「大部分は・たいてい」の意味。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "White Fang", "workJa": "白い牙", "year": 1906
   },
   {
@@ -6533,7 +6533,7 @@
     "parts": [["He", "S"], ["is not", "V"], ["aware", "C"], ["of what I suffer", "M"]],
     "point": "be aware of 〜（〜に気づいている）は「〜を知っている」と訳せるので、what I suffer を目的語と見て第3文型を選びやすい。aware は形容詞で補語、of 以下は前置詞句。第2文型。",
     "explanation": "He＝aware の関係が否定されている。of 以下は aware を補う前置詞句。SVC。",
-    "idioms": [{"phrase": "aware of", "base": "be aware of", "meaning": "〜に気づいている"}],
+    "idioms": [{"phrase": "aware of", "base": "be aware of", "meaning": "〜に気づいている", "point": "aware を見慣れず、away（離れて）と見間違えやすい。be aware of 〜 は「〜に気づいている」の意味。"}],
     "author": "Emily Brontë", "authorJa": "エミリー・ブロンテ", "work": "Wuthering Heights", "workJa": "嵐が丘", "year": 1847
   },
   {
@@ -6545,7 +6545,7 @@
     "parts": [["You", "S"], ["should see", "V"], ["the contempt with which they look down on poor me!", "O"]],
     "point": "with which 以下の they look down on ~ が目立ち、そちらを判定しやすい。with which 以下は contempt を修飾する関係詞節。You should see the contempt で、目的語1つの第3文型。",
     "explanation": "see の目的語が the contempt 以下。SVO。",
-    "idioms": [{"phrase": "look down on", "base": "look down on", "meaning": "〜を見下す・軽蔑する"}],
+    "idioms": [{"phrase": "look down on", "base": "look down on", "meaning": "〜を見下す・軽蔑する", "point": "look down を「下を見る」と読んで「〜を見下ろす」と物理的に取りやすい。look down on 〜 は「〜を見下す・軽蔑する」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -6557,7 +6557,7 @@
     "parts": [["Only", "M"], ["he", "S"], ["says", "V"], ["we must first make sure that it is a worthy purpose.", "O"]],
     "point": "文頭の Only を「〜だけ」の副詞と見ると、骨格を見失いやすい。また says の後ろの that 節の中の make sure that ~ を判定しやすい。Only は「ただし」の接続詞的な用法。he says（that）~ で第3文型。",
     "explanation": "says の目的語が we must 以下の名詞節（that の省略）。SVO。",
-    "idioms": [{"phrase": "make sure", "base": "make sure", "meaning": "確かめる・確実にする"}],
+    "idioms": [{"phrase": "make sure", "base": "make sure", "meaning": "確かめる・確実にする", "point": "sure を「確かな」と読んで「確かなものを作る」と取りやすい。make sure は「確かめる・確実にする」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -6570,7 +6570,7 @@
     "point": "send は send 人 物（第4文型）にもなるうえ、send for 〜 は「〜を呼ぶ」と訳すので、me を目的語と見やすい。for は前置詞で、me は前置詞の目的語。第1文型。",
     "explanation": "sent は自動詞で、for me は前置詞句の修飾語。SV。",
     "note": "send for をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "sent for", "base": "send for", "meaning": "〜を呼びにやる・呼び寄せる"}, {"phrase": "take a fancy to", "base": "take a fancy to", "meaning": "（急に）〜を気に入る"}],
+    "idioms": [{"phrase": "sent for", "base": "send for", "meaning": "〜を呼びにやる・呼び寄せる", "point": "send を「送る」と読んで「〜のために送る」と取りやすい。send for 〜 は「〜を呼びにやる・呼び寄せる」の意味。"}, {"phrase": "take a fancy to", "base": "take a fancy to", "meaning": "（急に）〜を気に入る", "point": "fancy を「装飾的な・空想」と読んで「〜に空想を持つ」と取りやすい。take a fancy to 〜 は「（急に）〜を気に入る」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -6582,7 +6582,7 @@
     "parts": [["I", "S"], ["must take", "V"], ["all this", "O"], ["into account", "M"]],
     "point": "take O into account（O を考慮に入れる）の into account を補語と見て、第5文型を選びやすい。into account は前置詞句の修飾語。目的語は all this の1つの第3文型。",
     "explanation": "take の目的語が all this。SVO。",
-    "idioms": [{"phrase": "take all this into account", "base": "take ~ into account", "meaning": "〜を考慮に入れる"}],
+    "idioms": [{"phrase": "take all this into account", "base": "take ~ into account", "meaning": "〜を考慮に入れる", "point": "account を「口座・説明」と読んで「口座の中に取る」と取りやすい。take 〜 into account は「〜を考慮に入れる」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Bleak House", "workJa": "荒涼館", "year": 1853
   },
   {
@@ -6594,7 +6594,7 @@
     "parts": [["He", "S"], ["broke", "V"], ["into a run,", "M"], ["the team following his lead.", "M"]],
     "point": "後ろの the team following ~ を目的語と見て、第3文型を選びやすい。これは意味上の主語つきの分詞構文（独立分詞構文）で修飾語。break（〜し出す、急に出る）はここでは自動詞。第1文型。",
     "explanation": "broke は自動詞で、into a run は前置詞句の修飾語。SV。",
-    "idioms": [{"phrase": "broke into", "base": "break into", "meaning": "急に〜し始める"}],
+    "idioms": [{"phrase": "broke into", "base": "break into", "meaning": "急に〜し始める", "point": "break into を「〜に押し入る」と読みやすい。後ろに歌・笑い・駆け足などが来ると「急に〜し始める」の意味になる。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "The Call of the Wild", "workJa": "野性の呼び声", "year": 1903
   },
   {
@@ -6606,7 +6606,7 @@
     "parts": [["George", "S"], ["burst out laughing", "V"], ["at the idea of this aquatic meeting.", "M"]],
     "point": "laughing を burst out の目的語や補語と見て、第3文型・第2文型を選びやすい。burst out ~ing（急に〜し出す）はまとめて動詞として扱う。目的語のない第1文型。",
     "explanation": "burst out laughing の後ろに目的語はなく、at 以下は修飾語。SV。",
-    "idioms": [{"phrase": "burst out laughing", "base": "burst out laughing", "meaning": "どっと笑い出す"}],
+    "idioms": [{"phrase": "burst out laughing", "base": "burst out laughing", "meaning": "どっと笑い出す", "point": "burst を「破裂する」と読んで「笑って破裂する」と字面どおりに取りやすい。burst out laughing は「どっと笑い出す」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -6618,7 +6618,7 @@
     "parts": [["that", "S"], ["goes", "V"], ["without saying", "M"]],
     "point": "go without saying（言うまでもない）の saying を目的語と見て、第3文型を選びやすい。without saying は前置詞句の修飾語。go は自動詞。第1文型。",
     "explanation": "goes は自動詞。SV。前半の He did not want to work は SVO。",
-    "idioms": [{"phrase": "goes without saying", "base": "it goes without saying", "meaning": "言うまでもない"}],
+    "idioms": [{"phrase": "goes without saying", "base": "it goes without saying", "meaning": "言うまでもない", "point": "goes を「行く」と読み、without saying を「言うことなしに」と取って「言わずに行く」と取りやすい。it goes without saying は「言うまでもない」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -6630,7 +6630,7 @@
     "parts": [["I", "S"], ["’ll go", "V"], ["without my coffee", "M"]],
     "point": "go without 〜（〜なしで済ませる）は「〜を我慢する」と訳せるので、my coffee を目的語と見やすい。without は前置詞で、後ろは前置詞の目的語。第1文型。",
     "explanation": "go は自動詞で、without my coffee は修飾語。SV。",
-    "idioms": [{"phrase": "go without", "base": "go without", "meaning": "〜なしで済ませる"}],
+    "idioms": [{"phrase": "go without", "base": "go without", "meaning": "〜なしで済ませる", "point": "go を「行く」と読んで「〜なしで行く」と取りやすい。go without 〜 は「〜なしで済ませる」の意味。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "White Fang", "workJa": "白い牙", "year": 1906
   },
   {
@@ -6643,7 +6643,7 @@
     "point": "go through 〜（〜を一つずつたどる・経験する）は「〜を」と訳すので、through の後ろを目的語と見て第3文型を選びやすい。through は前置詞。第1文型。",
     "explanation": "went は自動詞で、through 以下は前置詞句の修飾語。SV。",
     "note": "go through をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "went through", "base": "go through", "meaning": "〜を（一つずつ）たどる・経験する"}],
+    "idioms": [{"phrase": "went through", "base": "go through", "meaning": "〜を（一つずつ）たどる・経験する", "point": "go through を「〜を通り抜ける」と物理的に読みやすい。ここは「〜を（一つずつ）たどる・経験する」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Persuasion", "workJa": "説得", "year": 1817
   },
   {
@@ -6655,7 +6655,7 @@
     "parts": [["“This is a very deep business,”", "O"], ["he", "S"], ["said", "V"], ["at last.", "M"]],
     "point": "引用符の中の This is a very deep business（SVC）が目立つので、第2文型を選びやすい。引用部分は said の目的語で、全体は he said “…” の形。第3文型。",
     "explanation": "said の目的語が引用文で、at last は修飾語。SVO。",
-    "idioms": [{"phrase": "at last", "base": "at last", "meaning": "ついに・やっと・最後には"}],
+    "idioms": [{"phrase": "at last", "base": "at last", "meaning": "ついに・やっと・最後には", "point": "last を「最後の」と読んで「最後に」とだけ取りやすい。at last は「（待ちに待って）ついに・やっと」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -6667,7 +6667,7 @@
     "parts": [["They", "S"], ["would have", "V"], ["two chances", "O"], ["at least", "M"], ["in their favour.", "M"]],
     "point": "in their favour を補語と見て第5文型を、two chances と at least を目的語2つと見て第4文型を選びやすい。at least も in their favour も修飾語。目的語は two chances の1つの第3文型。",
     "explanation": "have の目的語が two chances。SVO。",
-    "idioms": [{"phrase": "at least", "base": "at least", "meaning": "少なくとも"}, {"phrase": "in their favour", "base": "in one’s favour", "meaning": "〜に有利に"}],
+    "idioms": [{"phrase": "at least", "base": "at least", "meaning": "少なくとも", "point": "least を「最も少ない」と読んで「最も少なくて」と取りやすい。at least は「少なくとも」の意味。"}, {"phrase": "in their favour", "base": "in one’s favour", "meaning": "〜に有利に", "point": "favour を「親切・好意」と読んで「〜の好意で」と取りやすい。in one's favour は「〜に有利に」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Mansfield Park", "workJa": "マンスフィールド・パーク", "year": 1814
   },
   {
@@ -6679,7 +6679,7 @@
     "parts": [["He", "S"], ["might,", "V"], ["at all events,", "M"], ["have left", "V"], ["me", "O1"], ["the pole.", "O2"]],
     "point": "挿入句が助動詞 might と動詞 have left を分けているので、動詞を見失いやすい。また leave を「去る」と読むと me だけを目的語と見て第3文型になる。left me the pole（私に竿を残した）で第4文型。",
     "explanation": "leave A B「A に B を残す」で me と the pole の二つの目的語。SVOO。",
-    "idioms": [{"phrase": "at all events", "base": "at all events", "meaning": "とにかく・いずれにせよ"}],
+    "idioms": [{"phrase": "at all events", "base": "at all events", "meaning": "とにかく・いずれにせよ", "point": "events を「出来事・行事」と読んで「すべての行事で」と取りやすい。at all events は「とにかく・いずれにせよ」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -6691,7 +6691,7 @@
     "parts": [["Frank Churchill", "S"], ["had been", "V"], ["at Weymouth", "M"], ["at the same time.", "M"]],
     "point": "be 動詞を見ると補語を探して、場所を表す語を補語と見て第2文型を選びやすい。be＋場所は「いる・ある」の意味で、場所は修飾語。第1文型。",
     "explanation": "at Weymouth は場所を表す修飾語。SV。",
-    "idioms": [{"phrase": "at the same time", "base": "at the same time", "meaning": "同時に・一度に"}],
+    "idioms": [{"phrase": "at the same time", "base": "at the same time", "meaning": "同時に・一度に", "point": "same time を「同じ時間」と読めても、「同時に」の意味だけでなく「一度に」の意味もあることを見落としやすい。at the same time は「同時に・一度に」。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Emma", "workJa": "エマ", "year": 1815
   },
   {
@@ -6703,7 +6703,7 @@
     "parts": [["Oh,", "M"], ["I", "S"], ["will go", "V"], ["by all means", "M"]],
     "point": "by all means（ぜひとも）の means を目的語と見て、第3文型を選びやすい。by all means は修飾語で、go は自動詞。第1文型。",
     "explanation": "go は自動詞。SV。",
-    "idioms": [{"phrase": "by all means", "base": "by all means", "meaning": "ぜひとも・必ず"}],
+    "idioms": [{"phrase": "by all means", "base": "by all means", "meaning": "ぜひとも・必ず", "point": "means を「意味する」の動詞と読んで「すべてを意味して」と取りやすい。means は名詞「手段」で、by all means は「ぜひとも・必ず」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -6715,7 +6715,7 @@
     "parts": [["Oh no, Joe,", "M"], ["you", "S"], ["’ll feel", "V"], ["better", "C"], ["by and by", "M"]],
     "point": "better を副詞（もっとよく）と見ると、feel を自動詞と考えて第1文型を選びやすい。feel＋形容詞（比較級）は「〜と感じる」で、better は補語。by and by（やがて）は修飾語。第2文型。",
     "explanation": "you＝better（気分がよい状態）の関係。by and by は修飾語。SVC。",
-    "idioms": [{"phrase": "by and by", "base": "by and by", "meaning": "やがて・そのうち"}],
+    "idioms": [{"phrase": "by and by", "base": "by and by", "meaning": "やがて・そのうち", "point": "by を「〜のそばに」と読んで「そばのそば」と取りやすい。by and by は「やがて・そのうち」の意味。"}],
     "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "The Adventures of Tom Sawyer", "workJa": "トム・ソーヤーの冒険", "year": 1876
   },
   {
@@ -6727,7 +6727,7 @@
     "parts": [["Where", "M"], ["is", "V"], ["that place", "S"], ["in the country,", "M"], ["by the way?", "M"]],
     "point": "Where を補語と見て、第2文型を選びやすい。疑問詞 Where は場所を表す修飾語。be＋場所は「ある」の意味で、主語は that place。第1文型。",
     "explanation": "that place が主語で、is は「ある」の意味。SV。",
-    "idioms": [{"phrase": "by the way", "base": "by the way", "meaning": "ところで"}],
+    "idioms": [{"phrase": "by the way", "base": "by the way", "meaning": "ところで", "point": "way を「道」と読んで「道のそばで」と取りやすい。by the way は話題を変える「ところで」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Importance of Being Earnest", "workJa": "まじめが肝心", "year": 1895
   },
   {
@@ -6739,7 +6739,7 @@
     "parts": [["His errand at Barton,", "S"], ["in fact,", "M"], ["was", "V"], ["a simple one.", "C"]],
     "point": "挿入された in fact（実は）で文の流れが切れ、主語と動詞の関係を見失いやすい。in fact は修飾語。His errand at Barton was a simple one で、errand＝one の第2文型。",
     "explanation": "errand＝a simple one の関係なので SVC。",
-    "idioms": [{"phrase": "in fact", "base": "in fact", "meaning": "実のところ・実際は"}],
+    "idioms": [{"phrase": "in fact", "base": "in fact", "meaning": "実のところ・実際は", "point": "fact を「事実」と読めても、in を「〜の中に」と取って「事実の中で」と取りやすい。in fact は「実のところ・実際は」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Sense and Sensibility", "workJa": "分別と多感", "year": 1811
   },
   {
@@ -6751,7 +6751,7 @@
     "parts": [["I", "S"], ["am not", "V"], ["in the least", "M"], ["ashamed", "C"], ["of my meaning.", "M"]],
     "point": "in the least を補語と見て、ashamed を修飾語と考えやすい。not 〜 in the least は「少しも〜ない」で、in the least は否定を強める修飾語。I＝ashamed の第2文型。",
     "explanation": "I＝ashamed の関係が否定されている。SVC。",
-    "idioms": [{"phrase": "in the least", "base": "not ~ in the least", "meaning": "決して〜ない・少しも〜ない"}, {"phrase": "ashamed of", "base": "be ashamed of", "meaning": "〜を恥じている"}],
+    "idioms": [{"phrase": "in the least", "base": "not ~ in the least", "meaning": "決して〜ない・少しも〜ない", "point": "least を「最も少ない」と読んで「最も少ない中で」と取りやすい。not 〜 in the least は「少しも〜ない・決して〜ない」の意味。"}, {"phrase": "ashamed of", "base": "be ashamed of", "meaning": "〜を恥じている", "point": "ashamed を「恥ずかしい（照れくさい）」と軽く取りやすい。be ashamed of 〜 は「（悪いことをして）〜を恥じている」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Emma", "workJa": "エマ", "year": 1815
   },
   {
@@ -6763,7 +6763,7 @@
     "parts": [["each,", "S"], ["in turn,", "M"], ["sat", "V"], ["for a pencil outline.", "M"]],
     "point": "sit for 〜（〜のモデルになる）の for の後ろを目的語と見て、第3文型を選びやすい。for は前置詞。in turn（順番に）も挿入の修飾語。sit は自動詞。第1文型。",
     "explanation": "sat は自動詞で、for 以下は修飾語。SV。前半は SVO。",
-    "idioms": [{"phrase": "in turn", "base": "in turn", "meaning": "順番に・次々と"}, {"phrase": "sat for", "base": "sit for", "meaning": "（肖像画など）のモデルになる"}],
+    "idioms": [{"phrase": "in turn", "base": "in turn", "meaning": "順番に・次々と", "point": "turn を「回る・曲がる」と読んで「回って」と取りやすい。in turn は「順番に・次々と」の意味。"}, {"phrase": "sat for", "base": "sit for", "meaning": "（肖像画など）のモデルになる", "point": "sit を「座る」と読んで「〜のために座る」と取りやすい。sit for 〜（肖像画・写真）は「〜のモデルになる」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -6775,7 +6775,7 @@
     "parts": [["He", "S"], ["handed", "V"], ["it", "O"], ["to his principal", "M"], ["instead of to me.", "M"]],
     "point": "hand は hand 人 物（第4文型）にもなる動詞なので、第4文型を選びやすい。ここは hand O to 〜 の形で、to があるので「人」は前置詞句。目的語は it の1つ。第3文型。",
     "explanation": "handed の目的語が it。to 以下と instead of 以下は修飾語。SVO。",
-    "idioms": [{"phrase": "instead of", "base": "instead of", "meaning": "〜の代わりに・〜ではなく"}],
+    "idioms": [{"phrase": "instead of", "base": "instead of", "meaning": "〜の代わりに・〜ではなく", "point": "instead を「代わりに」と読めても、of の後ろを選んだ方と取り違えやすい。instead of 〜 は「〜の代わりに・〜ではなく」で、of の後ろは選ばれなかった方。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -6787,7 +6787,7 @@
     "parts": [["On this occasion,", "M"], ["however,", "M"], ["Miss Bart", "S"], ["was", "V"], ["on her own ground.", "C"]],
     "point": "on her own ground を場所と見て修飾語と考え、第1文型を選びやすい。ここは場所そのものではなく「自分の得意分野にいる」という状態を表す補語。第2文型。",
     "explanation": "Miss Bart＝on her own ground（得意な立場にある）の関係。SVC。",
-    "idioms": [{"phrase": "on her own ground", "base": "on one’s own ground", "meaning": "自分の得意な分野で"}],
+    "idioms": [{"phrase": "on her own ground", "base": "on one’s own ground", "meaning": "自分の得意な分野で", "point": "ground を「地面」と読んで「自分の土地の上で」と字面どおりに取りやすい。on one's own ground は「自分の得意な分野で」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The House of Mirth", "workJa": "歓楽の家", "year": 1905
   },
   {
@@ -6799,7 +6799,7 @@
     "parts": [["on second thoughts,", "M"], ["he", "S"], ["followed", "V"], ["her", "O"]],
     "point": "on second thoughts（考え直して）の thoughts を目的語と見たりしやすい。これは文頭の修飾語。he followed her で、目的語 her の第3文型。",
     "explanation": "followed の目的語が her。SVO。",
-    "idioms": [{"phrase": "on second thoughts", "base": "on second thoughts", "meaning": "よく考えた末に"}],
+    "idioms": [{"phrase": "on second thoughts", "base": "on second thoughts", "meaning": "よく考えた末に", "point": "second を「2番目の・秒」と読んで「2番目の考えで」と取りやすい。on second thoughts は「よく考えた末に・考え直して」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Far from the Madding Crowd", "workJa": "遥か群衆を離れて", "year": 1874
   },
   {
@@ -6812,7 +6812,7 @@
     "point": "It was 〜 that … の強調構文で、表面の It was を見て主語を It と取り違えやすい。元の文は My liver was out of order。out of order も前置詞句だが状態を表す補語。第2文型。",
     "explanation": "liver＝out of order（不調）の関係なので SVC。",
     "note": "強調構文は、強調を外した元の文の文型で判定する。",
-    "idioms": [{"phrase": "out of order", "base": "out of order", "meaning": "調子が悪い・故障して"}],
+    "idioms": [{"phrase": "out of order", "base": "out of order", "meaning": "調子が悪い・故障して", "point": "order を「注文・命令」と読んで「注文の外で」と取りやすい。order は「正常な状態」で、out of order は「調子が悪い・故障して」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -6824,7 +6824,7 @@
     "parts": [["but", "M"], ["I", "S"], ["drew", "V"], ["out of sight.", "M"]],
     "point": "draw は「〜を引く・描く」の他動詞の印象が強く、out of sight を目的語と見やすい。ここの draw は自動詞「動く・身を引く」で、out of sight は修飾語。第1文型。",
     "explanation": "drew の後ろに目的語はなく、out of sight は修飾語。SV。",
-    "idioms": [{"phrase": "out of sight", "base": "out of sight", "meaning": "見えないところに"}],
+    "idioms": [{"phrase": "out of sight", "base": "out of sight", "meaning": "見えないところに", "point": "sight を「景色・視力」と読んで「景色の外で」と取りやすい。out of sight は「見えないところに」の意味。"}],
     "author": "Emily Brontë", "authorJa": "エミリー・ブロンテ", "work": "Wuthering Heights", "workJa": "嵐が丘", "year": 1847
   },
   {
@@ -6836,7 +6836,7 @@
     "parts": [["His bright dark eyes", "S"], ["glanced", "V"], ["at me", "M"], ["for the first time.", "M"]],
     "point": "glance at 〜（〜をちらりと見る）は「〜を見る」と訳すので、at の後ろを目的語と見て第3文型を選びやすい。at は前置詞。主語も His bright dark eyes と無生物。第1文型。",
     "explanation": "glanced は自動詞。at me も for the first time も修飾語。SV。",
-    "idioms": [{"phrase": "for the first time", "base": "for the first time", "meaning": "はじめて"}],
+    "idioms": [{"phrase": "for the first time", "base": "for the first time", "meaning": "はじめて", "point": "first time を「最初の時間」と読んで「最初の時間のために」と取りやすい。for the first time は「はじめて」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Bleak House", "workJa": "荒涼館", "year": 1853
   },
   {
@@ -6848,7 +6848,7 @@
     "parts": [["Then", "M"], ["she", "S"], ["returned", "V"], ["to the house,", "M"], ["not a little consoled for the time being by this romantic parting.", "M"]],
     "point": "not a little consoled を補語と見て第2文型を選びやすい。これは付帯状況を表す分詞構文で修飾語。return（戻る）は自動詞。第1文型。",
     "explanation": "returned は自動詞。to the house も分詞構文も修飾語。SV。",
-    "idioms": [{"phrase": "not a little", "base": "not a little", "meaning": "少なからず"}, {"phrase": "for the time being", "base": "for the time being", "meaning": "さしあたり・当分の間"}],
+    "idioms": [{"phrase": "not a little", "base": "not a little", "meaning": "少なからず", "point": "not a little を「少しも〜ない」と否定の意味に取りやすい。これは「少なからず＝かなり」の意味で、否定を重ねた強い肯定。"}, {"phrase": "for the time being", "base": "for the time being", "meaning": "さしあたり・当分の間", "point": "being を「存在」と読んで「存在する時のために」と取りやすい。for the time being は「さしあたり・当分の間」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -6860,7 +6860,7 @@
     "parts": [["Well,", "M"], ["I", "S"], ["shall take up", "V"], ["my abode", "O"], ["here", "M"], ["for a while.", "M"]],
     "point": "take up は「取り上げる」の印象が強く、また abode を見慣れないので目的語と気づきにくい。take up one's abode（住居を定める）の abode は目的語。第3文型。",
     "explanation": "take up の目的語が my abode。SVO。",
-    "idioms": [{"phrase": "take up my abode", "base": "take up one’s abode", "meaning": "住居を定める・住みつく"}, {"phrase": "for a while", "base": "for a while", "meaning": "しばらくの間・当分の間"}],
+    "idioms": [{"phrase": "take up my abode", "base": "take up one’s abode", "meaning": "住居を定める・住みつく", "point": "take up を「取り上げる」、abode を見慣れない語として意味が取りにくい。abode は「住まい」で、take up one's abode は「住居を定める・住みつく」の意味。"}, {"phrase": "for a while", "base": "for a while", "meaning": "しばらくの間・当分の間", "point": "while を「〜する間に」の接続詞と読みやすい。ここは名詞「しばらくの時間」で、for a while は「しばらくの間」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Far from the Madding Crowd", "workJa": "遥か群衆を離れて", "year": 1874
   },
   {
@@ -6872,7 +6872,7 @@
     "parts": [["Yours", "S"], ["is", "V"], ["as good as new", "C"]],
     "point": "as good as 〜（〜も同然）の as を前置詞や接続詞と見て、構造を見失いやすい。as good as new 全体が補語（Yours＝as good as new）。第2文型。",
     "explanation": "Yours＝as good as new の関係なので SVC。",
-    "idioms": [{"phrase": "as good as", "base": "as good as", "meaning": "〜も同然・ほとんど"}],
+    "idioms": [{"phrase": "as good as", "base": "as good as", "meaning": "〜も同然・ほとんど", "point": "as good as を「〜と同じくらいよい」と比較に取りやすい。これは「〜も同然・ほとんど」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -6884,7 +6884,7 @@
     "parts": [["There", "M"], ["was", "V"], ["no mark", "S"], ["on any of them,", "M"], ["as far as I know.", "M"]],
     "point": "There を主語、no mark を補語と見て第2文型を選びやすい。There is 構文は be の後ろの名詞が主語。第1文型。",
     "explanation": "no mark が主語で was は「ある」。SV。",
-    "idioms": [{"phrase": "as far as", "base": "as far as", "meaning": "〜の限りでは（範囲）"}],
+    "idioms": [{"phrase": "as far as", "base": "as far as", "meaning": "〜の限りでは（範囲）", "point": "far を「遠い」と読んで「〜と同じくらい遠く」と距離に取りやすい。as far as は「〜の限りでは」と範囲を表す。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Hound of the Baskervilles", "workJa": "バスカヴィル家の犬", "year": 1902
   },
   {
@@ -6896,7 +6896,7 @@
     "parts": [["He", "S"], ["would be nicknamed", "V"], ["“Turpin”", "C"], ["as long as he lived.", "M"]],
     "point": "受動態なので目的語がないと見て、第1文型を選びやすい。nickname O C（O を C とあだ名する）の受動態で、O が主語になり C の “Turpin” が残る。He＝Turpin の第2文型。",
     "explanation": "SVOC の O が主語になった受動態なので、残った “Turpin” が補語。SVC。",
-    "idioms": [{"phrase": "as long as", "base": "as long as", "meaning": "〜する間は（期間）・〜しさえすれば"}],
+    "idioms": [{"phrase": "as long as", "base": "as long as", "meaning": "〜する間は（期間）・〜しさえすれば", "point": "long を「長い」と読んで「〜と同じくらい長く」と取りやすい。as long as は「〜する間は」または「〜しさえすれば」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Far from the Madding Crowd", "workJa": "遥か群衆を離れて", "year": 1874
   },
   {
@@ -6908,7 +6908,7 @@
     "parts": [["He", "S"], ["began", "V"], ["to speak", "O"], ["as soon as he saw me.", "M"]],
     "point": "begin to do の to speak を補語と見たり、「話し始めた」と訳して目的語がないと見たりしやすい。begin to do の不定詞は目的語。第3文型。",
     "explanation": "began の目的語が to speak、as soon as 以下は修飾語。SVO。",
-    "idioms": [{"phrase": "as soon as", "base": "as soon as", "meaning": "〜するとすぐに"}],
+    "idioms": [{"phrase": "as soon as", "base": "as soon as", "meaning": "〜するとすぐに", "point": "soon を「すぐに」と読めても、as 〜 as を比較と取って「〜と同じくらいすぐ」と取りやすい。as soon as は「〜するとすぐに」の意味。"}],
     "author": "Joseph Conrad", "authorJa": "ジョゼフ・コンラッド", "work": "Heart of Darkness", "workJa": "闇の奥", "year": 1899
   },
   {
@@ -6920,7 +6920,7 @@
     "parts": [["When this was told,", "M"], ["his name", "S"], ["distressed", "V"], ["her", "O"], ["no longer.", "M"]],
     "point": "no longer（もはや〜ない）を目的語や補語の一部と見誤りやすい。no longer は修飾語。distress は「〜を苦しめる」の他動詞で、her が目的語。第3文型。",
     "explanation": "distressed の目的語が her。SVO。",
-    "idioms": [{"phrase": "no longer", "base": "no longer", "meaning": "もはや〜ない"}],
+    "idioms": [{"phrase": "no longer", "base": "no longer", "meaning": "もはや〜ない", "point": "longer を「より長い」と読んで「もはや長くない」と取りやすい。no longer は「もはや〜ない」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Persuasion", "workJa": "説得", "year": 1817
   },
   {
@@ -6932,7 +6932,7 @@
     "parts": [["I myself", "S"], ["used to receive", "V"], ["many bouquets", "O"], ["at one time.", "M"]],
     "point": "used to を「〜に慣れている」の be used to と取り違えると、補語を探して第2文型を選びやすい。used to do（以前はよく〜した）はまとめて動詞。I myself は主語の強調。目的語は many bouquets の第3文型。",
     "explanation": "receive の目的語が many bouquets。SVO。",
-    "idioms": [{"phrase": "used to", "base": "used to do", "meaning": "以前はよく〜した"}],
+    "idioms": [{"phrase": "used to", "base": "used to do", "meaning": "以前はよく〜した", "point": "used を「使った」と読んで「〜するのに使った」と取りやすい。used to do は「以前はよく〜した（今はしない）」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -6944,7 +6944,7 @@
     "parts": [["But", "M"], ["the bravest man amongst us", "S"], ["is", "V"], ["afraid", "C"], ["of himself.", "M"]],
     "point": "be afraid of 〜 は「〜を怖がる」と訳すので、of の後ろを目的語と見て第3文型を選びやすい。afraid は形容詞で補語。主語 the bravest man amongst us も長い。第2文型。",
     "explanation": "man＝afraid の関係なので SVC。of himself は afraid を補う修飾語。",
-    "idioms": [{"phrase": "afraid of", "base": "be afraid of", "meaning": "〜を恐れている"}],
+    "idioms": [{"phrase": "afraid of", "base": "be afraid of", "meaning": "〜を恐れている", "point": "afraid を「申し訳ない（I'm afraid）」の意味で読みやすい。be afraid of 〜 は「〜を恐れている」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -6956,7 +6956,7 @@
     "parts": [["nobody", "S"], ["can be", "V"], ["sure", "C"], ["of the future", "M"]],
     "point": "be sure of 〜（〜を確信している）は「〜を」と訳すので、the future を目的語と見て第3文型を選びやすい。sure は形容詞で補語、of 以下は前置詞句。第2文型。",
     "explanation": "nobody＝sure の関係。SVC。",
-    "idioms": [{"phrase": "sure of", "base": "be sure of", "meaning": "〜を確信している"}],
+    "idioms": [{"phrase": "sure of", "base": "be sure of", "meaning": "〜を確信している", "point": "sure を「もちろん」の返事の意味で読みやすい。be sure of 〜 は「〜を確信している」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -6968,7 +6968,7 @@
     "parts": [["And", "M"], ["taken with the context,", "M"], ["this", "S"], ["is", "V"], ["full", "C"], ["of meaning.", "M"]],
     "point": "taken with the context を補語と見て、第5文型などを選びやすい。これは条件を表す分詞構文（文脈と合わせて考えれば）で修飾語。this is full で、this＝full の第2文型。",
     "explanation": "this＝full の関係なので SVC。",
-    "idioms": [{"phrase": "full of", "base": "be full of", "meaning": "〜でいっぱいだ・〜に満ちている"}],
+    "idioms": [{"phrase": "full of", "base": "be full of", "meaning": "〜でいっぱいだ・〜に満ちている", "point": "full を「満腹の」と読んで「〜で満腹」と取りやすい。be full of 〜 は「〜でいっぱいだ・〜に満ちている」の意味。"}],
     "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
   },
   {
@@ -6980,7 +6980,7 @@
     "parts": [["Don’t be", "V"], ["anxious", "C"], ["about me", "M"]],
     "point": "命令文で主語がないので、文型を判定しにくく第1文型を選びやすい。主語 you が省略されているだけで、be anxious の anxious は補語。about me は修飾語。第2文型。",
     "explanation": "（you＝）anxious の関係。SVC。",
-    "idioms": [{"phrase": "anxious about", "base": "be anxious about", "meaning": "〜を心配している"}],
+    "idioms": [{"phrase": "anxious about", "base": "be anxious about", "meaning": "〜を心配している", "point": "anxious を「〜したがっている（anxious to do）」の意味で読みやすい。be anxious about 〜 は「〜を心配している」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -6992,7 +6992,7 @@
     "parts": [["But", "M"], ["I", "S"], ["was", "V"], ["eager", "C"], ["to get back to my charge.", "M"]],
     "point": "be eager to do の不定詞を目的語と見て、第3文型を選びやすい。eager は形容詞で補語、不定詞はそれを補う修飾語。I＝eager の第2文型。",
     "explanation": "I＝eager の関係なので SVC。",
-    "idioms": [{"phrase": "eager to", "base": "be eager to do", "meaning": "しきりに〜したがる"}],
+    "idioms": [{"phrase": "eager to", "base": "be eager to do", "meaning": "しきりに〜したがる", "point": "eager を見慣れず、「怒って（angry）」と見間違えやすい。be eager to do は「しきりに〜したがる」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Hound of the Baskervilles", "workJa": "バスカヴィル家の犬", "year": 1902
   },
   {
@@ -7004,7 +7004,7 @@
     "parts": [["Why", "M"], ["should", "V"], ["you", "S"], ["raise up", "V"], ["hopes which you are bound to disappoint?", "O"]],
     "point": "疑問文で助動詞 should が主語の前に出ているので、文の形が見えにくい。また which you are bound to disappoint の関係詞節も長い。you raise up hopes で、目的語 hopes の第3文型。",
     "explanation": "raise up の目的語が hopes 以下。SVO。",
-    "idioms": [{"phrase": "bound to", "base": "be bound to do", "meaning": "きっと〜する・〜するに決まっている"}],
+    "idioms": [{"phrase": "bound to", "base": "be bound to do", "meaning": "きっと〜する・〜するに決まっている", "point": "bound を「縛られた」と読んで「〜するよう縛られた」と取りやすい。be bound to do は「きっと〜する・〜するに決まっている」の意味（文脈で「〜する義務がある」にもなる）。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -7016,7 +7016,7 @@
     "parts": [["We", "S"], ["are about to leave", "V"], ["Rome", "O"]],
     "point": "be about to do の be を見て補語を探し、第2文型を選びやすい。be about to do（まさに〜しようとしている）はまとめて動詞として扱う。目的語は Rome の第3文型。",
     "explanation": "leave の目的語が Rome。SVO。",
-    "idioms": [{"phrase": "about to", "base": "be about to do", "meaning": "まさに〜しようとして"}],
+    "idioms": [{"phrase": "about to", "base": "be about to do", "meaning": "まさに〜しようとして", "point": "about を「〜について」と読んで「〜することについて」と取りやすい。be about to do は「まさに〜しようとして」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -7029,7 +7029,7 @@
     "point": "be likely to do の be を見て、likely を補語と考え第2文型を選びやすい。be likely to do はまとめて動詞として扱う。leave の目的語は Kent の第3文型。",
     "explanation": "leave の目的語が Kent。SVO。",
     "note": "am を V、likely を C とみて SVC と説明することもある。",
-    "idioms": [{"phrase": "likely to", "base": "be likely to do", "meaning": "〜しそうである"}],
+    "idioms": [{"phrase": "likely to", "base": "be likely to do", "meaning": "〜しそうである", "point": "likely を「〜が好きな（like）」と読みやすい。be likely to do は「〜しそうである」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
   },
   {
@@ -7041,7 +7041,7 @@
     "parts": [["We", "S"], ["heard", "V"], ["you were engaged to a girl out West.", "O"]],
     "point": "heard の後ろに that が省略されているので、you were engaged ~ を別の文と見たり、heard you を目的語＋補語の第5文型と見たりしやすい。省略された that 節が目的語。第3文型。",
     "explanation": "heard の目的語が you were 以下。SVO。",
-    "idioms": [{"phrase": "engaged to", "base": "be engaged to", "meaning": "〜と婚約している"}],
+    "idioms": [{"phrase": "engaged to", "base": "be engaged to", "meaning": "〜と婚約している", "point": "engaged を「忙しい・（電話が）話し中」と読みやすい。be engaged to 〜（人）は「〜と婚約している」の意味。"}],
     "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
   },
   {
@@ -7053,7 +7053,7 @@
     "parts": [["I", "S"], ["am", "V"], ["inclined", "C"], ["to think that I never was engaged.", "M"]],
     "point": "be inclined to do の inclined を受動態の過去分詞と見たり、不定詞を目的語と見たりしやすい。inclined は形容詞として補語（I＝inclined）。第2文型。",
     "explanation": "I＝inclined の関係なので SVC。",
-    "idioms": [{"phrase": "inclined to", "base": "be inclined to do", "meaning": "〜したい気がする・〜する傾向がある"}],
+    "idioms": [{"phrase": "inclined to", "base": "be inclined to do", "meaning": "〜したい気がする・〜する傾向がある", "point": "inclined を「傾いた」と読んで「〜する方へ傾いた」と字面どおりに取りやすい。be inclined to do は「〜したい気がする・〜する傾向がある」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -7065,7 +7065,7 @@
     "parts": [["I", "S"], ["am", "V"], ["content", "C"], ["with her success", "M"]],
     "point": "content を「中身」という名詞と読むと、構造が崩れる。また be content with 〜 は「〜に満足する」と訳すので her success を目的語と見やすい。content は形容詞で補語、with 以下は前置詞句。第2文型。",
     "explanation": "I＝content の関係なので SVC。",
-    "idioms": [{"phrase": "content with", "base": "be content with", "meaning": "〜に満足している"}],
+    "idioms": [{"phrase": "content with", "base": "be content with", "meaning": "〜に満足している", "point": "content を「中身・内容」の名詞と読みやすい。ここは形容詞「満足して」で、be content with 〜 は「〜に満足している」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -7077,7 +7077,7 @@
     "parts": [["It", "S(仮)"], ["is", "V"], ["better", "C"], ["not to be different from one’s fellows.", "S(真)"]],
     "point": "It を本当の主語と思うと、not to be different ~ の扱いに困って第3文型などを選びやすい。It は仮主語で、本当の主語は後ろの不定詞。It＝better の第2文型。",
     "explanation": "真主語（不定詞）＝better の関係なので SVC。",
-    "idioms": [{"phrase": "different from", "base": "be different from", "meaning": "〜と異なる"}],
+    "idioms": [{"phrase": "different from", "base": "be different from", "meaning": "〜と異なる", "point": "different を「いろいろな」と読みやすい。be different from 〜 は「〜と異なる」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -7089,7 +7089,7 @@
     "parts": [["I", "S"], ["have been", "V"], ["familiar", "C"], ["with every stone in the place.", "M"]],
     "point": "be familiar with 〜（〜をよく知っている）は「〜を知る」と訳すので、with の後ろを目的語と見て第3文型を選びやすい。familiar は形容詞で補語。第2文型。",
     "explanation": "I＝familiar の関係なので SVC。",
-    "idioms": [{"phrase": "familiar with", "base": "be familiar with", "meaning": "〜をよく知っている"}],
+    "idioms": [{"phrase": "familiar with", "base": "be familiar with", "meaning": "〜をよく知っている", "point": "familiar を「家族の（family）」と結びつけて「〜と家族のような」と取りやすい。be familiar with 〜 は「〜をよく知っている」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -7101,7 +7101,7 @@
     "parts": [["I", "S"], ["have not been", "V"], ["accustomed", "C"], ["to such language as this.", "M"]],
     "point": "accustomed を受動態の過去分詞と見て、目的語のない第1文型を選びやすい。また to の後ろを目的語と見る誤りもある。be accustomed to 〜 の accustomed は形容詞的な補語。第2文型。",
     "explanation": "I＝accustomed の関係が否定されている。SVC。",
-    "idioms": [{"phrase": "accustomed to", "base": "be accustomed to", "meaning": "〜に慣れている"}],
+    "idioms": [{"phrase": "accustomed to", "base": "be accustomed to", "meaning": "〜に慣れている", "point": "accustomed を見慣れず、custom（習慣・税関）から「税関の」などと取りやすい。be accustomed to 〜 は「〜に慣れている」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
   },
   {
@@ -7113,7 +7113,7 @@
     "parts": [["She", "S"], ["said", "V"], ["in the coach yesterday", "M"], ["that her pianist had fallen ill at Dresden.", "O"]],
     "point": "said と that 節の間に修飾語が割りこんでいるので、that 節を見失って目的語がないと見たり、that 節の中の had fallen ill（SVC）を判定したりしやすい。said の目的語は that 節。第3文型。",
     "explanation": "said の目的語が that 節。SVO。",
-    "idioms": [{"phrase": "fallen ill", "base": "fall ill", "meaning": "病気になる"}],
+    "idioms": [{"phrase": "fallen ill", "base": "fall ill", "meaning": "病気になる", "point": "fall を「落ちる」と読んで「病気で倒れる」と取りやすい。fall＋形容詞は「〜になる」で、fall ill は「病気になる」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -7125,7 +7125,7 @@
     "parts": [["I", "S"], ["shall go", "V"], ["mad", "C"], ["if it continues.", "M"]],
     "point": "go は「行く」の自動詞なので、mad を修飾語と見て第1文型を選びやすい。go＋形容詞は「〜になる」で、mad は補語（I＝mad）。if 節は修飾語。第2文型。",
     "explanation": "I＝mad の関係になるので SVC。",
-    "idioms": [{"phrase": "go mad", "base": "go mad", "meaning": "気が狂う"}, {"phrase": "no longer", "base": "no longer", "meaning": "もはや〜ない"}],
+    "idioms": [{"phrase": "go mad", "base": "go mad", "meaning": "気が狂う", "point": "go を「行く」と読んで「狂って行く」と取りやすい。go＋形容詞は「〜になる」で、go mad は「気が狂う」の意味。"}, {"phrase": "no longer", "base": "no longer", "meaning": "もはや〜ない", "point": "longer を「より長い」と読んで「もはや長くない」と取りやすい。no longer は「もはや〜ない」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -7137,7 +7137,7 @@
     "parts": [["I", "S"], ["kept", "V"], ["quiet,", "C"], ["with my ears cocked,", "M"], ["about fifteen minutes,", "M"], ["I reckon.", "M"]],
     "point": "keep は「〜を保つ」の他動詞の印象が強く、quiet を目的語と見たり、第5文型を選んだりしやすい。keep＋形容詞は「〜のままでいる」で、quiet は補語（I＝quiet）。第2文型。",
     "explanation": "I＝quiet の関係なので SVC。",
-    "idioms": [{"phrase": "kept quiet", "base": "keep quiet", "meaning": "静かにしている・黙っている"}],
+    "idioms": [{"phrase": "kept quiet", "base": "keep quiet", "meaning": "静かにしている・黙っている", "point": "keep を「保つ」と読んで「静かさを保存する」と取りやすい。keep＋形容詞は「〜のままでいる」で、keep quiet は「静かにしている・黙っている」の意味。"}],
     "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "Adventures of Huckleberry Finn", "workJa": "ハックルベリー・フィンの冒険", "year": 1884
   },
   {
@@ -7150,7 +7150,7 @@
     "point": "walking を keep の目的語や補語と見て、第3文型・第2文型を選びやすい。keep on ~ing（〜し続ける）はまとめて動詞として扱う。however も修飾語。第1文型。",
     "explanation": "walking の後ろに目的語はない。SV。",
     "note": "kept on を V、walking を O とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "kept on walking", "base": "keep on ~ing", "meaning": "〜し続ける・〜を続ける"}],
+    "idioms": [{"phrase": "kept on walking", "base": "keep on ~ing", "meaning": "〜し続ける・〜を続ける", "point": "keep を「保つ」、on を「上に」と読んで「上に保つ」と取りやすい。keep on ~ing は「〜し続ける」の意味。"}],
     "author": "L. Frank Baum", "authorJa": "L・フランク・ボーム", "work": "The Wonderful Wizard of Oz", "workJa": "オズの魔法使い", "year": 1900
   },
   {
@@ -7163,7 +7163,7 @@
     "point": "stand by 〜（〜の味方をする）は「〜を支える」と訳せるので、you を目的語と見て第3文型を選びやすい。by は前置詞。Jo は呼びかけ、all the days 以下は修飾語。第1文型。",
     "explanation": "stand は自動詞で、by you は修飾語。SV。",
     "note": "stand by をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "stand by", "base": "stand by", "meaning": "〜の味方をする・〜を支える"}],
+    "idioms": [{"phrase": "stand by", "base": "stand by", "meaning": "〜の味方をする・〜を支える", "point": "stand by を「そばに立つ」と字面どおりに読みやすい。stand by 〜（人）は「〜の味方をする・〜を支える」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -7175,7 +7175,7 @@
     "parts": [["that", "S"], ["’s been done away with", "V"], ["for over a year", "M"]],
     "point": "do away with 〜（〜を廃止する）は他動詞の働きなので、第3文型を選びやすい。しかしこの文は受動態で、with が後ろに残り、目的語はない。for over a year も修飾語。第1文型。",
     "explanation": "群動詞（SVO）の受動態なので SV。",
-    "idioms": [{"phrase": "done away with", "base": "do away with", "meaning": "〜を廃止する"}],
+    "idioms": [{"phrase": "done away with", "base": "do away with", "meaning": "〜を廃止する", "point": "do away を「離れてする」と字面どおりに読んで意味が取りにくい。do away with 〜 は「〜を廃止する・取り除く」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -7187,7 +7187,7 @@
     "parts": [["I", "S"], ["had", "V"], ["something", "O"], ["to do with dogs", "M"], ["when I was out West", "M"]],
     "point": "have something to do with 〜（〜と関係がある）の to do を補語と見たり、with の後ろを目的語と見たりしやすい。目的語は something の1つで、to do with ~ はそれを説明する不定詞。第3文型。",
     "explanation": "had の目的語が something。SVO。",
-    "idioms": [{"phrase": "had something to do with", "base": "have something to do with", "meaning": "〜と関係がある"}],
+    "idioms": [{"phrase": "had something to do with", "base": "have something to do with", "meaning": "〜と関係がある", "point": "something と to do で「何かすること」と取りやすい。have something to do with 〜 は「〜と何らかの関係がある」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Hound of the Baskervilles", "workJa": "バスカヴィル家の犬", "year": 1902
   },
   {
@@ -7199,7 +7199,7 @@
     "parts": [["You", "S"], ["don’t look", "V"], ["as if you were having a good time.", "C"]],
     "point": "look as if 〜 の as if 節を「まるで〜のように」の修飾語と見て、第1文型を選びやすい。look as if 〜（〜のように見える）の as if 節は補語の働き。第2文型。",
     "explanation": "look は「〜に見える」の意味で SVC。",
-    "idioms": [{"phrase": "having a good time", "base": "have a good time", "meaning": "楽しく過ごす"}],
+    "idioms": [{"phrase": "having a good time", "base": "have a good time", "meaning": "楽しく過ごす", "point": "have を「持つ」と読んで「よい時間を持つ」と取りやすい。have a good time は「楽しく過ごす」の意味。"}],
     "author": "Louisa May Alcott", "authorJa": "ルイーザ・メイ・オルコット", "work": "Little Women", "workJa": "若草物語", "year": 1868
   },
   {
@@ -7211,7 +7211,7 @@
     "parts": [["I", "S"], ["had", "V"], ["no idea", "O"], ["that he was in front of me.", "M"]],
     "point": "that 節を idea とは別の目的語と見て、第4文型を選びやすい。that 節は idea の中身を説明する同格の節。目的語は no idea の1つの第3文型。",
     "explanation": "had の目的語が no idea。SVO。",
-    "idioms": [{"phrase": "had no idea", "base": "have no idea", "meaning": "全くわからない・思いもよらない"}, {"phrase": "in front of", "base": "in front of", "meaning": "〜の前に"}],
+    "idioms": [{"phrase": "had no idea", "base": "have no idea", "meaning": "全くわからない・思いもよらない", "point": "idea を「アイデア・考え」と読んで「考えを持たない＝無関心」と取りやすい。have no idea は「全くわからない・思いもよらない」の意味。"}, {"phrase": "in front of", "base": "in front of", "meaning": "〜の前に", "point": "front を「正面」と読めても、in を「〜の中に」と取って「〜の正面の中で」と取りやすい。in front of 〜 は「〜の前に」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -7223,7 +7223,7 @@
     "parts": [["There now,", "M"], ["never mind", "V"], ["talking", "O"], ["till you’ve had your dinner.", "M"]],
     "point": "命令文で主語がなく、never を否定の副詞として切り離すと mind の役割が分かりにくい。never mind（気にしない）の目的語が動名詞 talking。第3文型。",
     "explanation": "mind の目的語が talking。SVO。",
-    "idioms": [{"phrase": "never mind", "base": "never mind", "meaning": "気にしない・〜しなくてよい"}],
+    "idioms": [{"phrase": "never mind", "base": "never mind", "meaning": "気にしない・〜しなくてよい", "point": "mind を「心」の名詞と読んで「心がない」と取りやすい。ここの mind は動詞「気にする」で、never mind は「気にしない・〜しなくてよい」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -7235,7 +7235,7 @@
     "parts": [["He", "S"], ["felt", "V"], ["that he, Dobbin, was more or less the cause of all that had happened.", "O"]],
     "point": "that 節の中の he, Dobbin, was more or less the cause（SVC）が目立つので、第2文型を選びやすい。また feel は「〜と感じる」で第2文型にもなる。felt の目的語は that 節。第3文型。",
     "explanation": "felt の目的語が that 節。SVO。",
-    "idioms": [{"phrase": "more or less", "base": "more or less", "meaning": "多かれ少なかれ・いくぶん"}],
+    "idioms": [{"phrase": "more or less", "base": "more or less", "meaning": "多かれ少なかれ・いくぶん", "point": "more と less を比べて「より多いかより少ないか」と取りやすい。more or less は「多かれ少なかれ・いくぶん」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -7247,7 +7247,7 @@
     "parts": [["Thus", "M"], ["suddenly", "M"], ["Hook", "S"], ["found", "V"], ["himself", "O"], ["face to face with Peter.", "C"]],
     "point": "face to face with Peter を修飾語（場所）と見ると、found himself だけで第3文型を選びやすい。find oneself 〜（気づくと〜の状態にいる）で、himself＝face to face with Peter。第5文型。",
     "explanation": "himself＝face to face（向かい合った状態）の関係なので SVOC。",
-    "idioms": [{"phrase": "face to face", "base": "face to face", "meaning": "向かい合って・面と向かって"}],
+    "idioms": [{"phrase": "face to face", "base": "face to face", "meaning": "向かい合って・面と向かって", "point": "face を「顔」と読めても、「顔から顔へ」と字面どおりに取りやすい。face to face は「向かい合って・面と向かって」の意味。"}],
     "author": "J. M. Barrie", "authorJa": "J・M・バリー", "work": "Peter Pan", "workJa": "ピーター・パン", "year": 1911
   },
   {
@@ -7259,7 +7259,7 @@
     "parts": [["They", "S"], ["rose up and wandered along,", "V"], ["hand in hand and hopeless.", "M"]],
     "point": "rose up と wandered along のように動詞＋副詞が並ぶので、up や along を目的語・補語と見誤りやすい。and で二つの自動詞がつながっているだけ。第1文型。",
     "explanation": "rose up も wandered along も目的語をとらない。SV。",
-    "idioms": [{"phrase": "hand in hand", "base": "hand in hand", "meaning": "手に手を取って"}],
+    "idioms": [{"phrase": "hand in hand", "base": "hand in hand", "meaning": "手に手を取って", "point": "hand in hand を「手の中の手」と字面どおりに取りやすい。これは「手に手を取って・協力して」の意味。"}],
     "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "The Adventures of Tom Sawyer", "workJa": "トム・ソーヤーの冒険", "year": 1876
   },
   {
@@ -7271,7 +7271,7 @@
     "parts": [["She", "S"], ["flung", "V"], ["herself", "O"], ["into her studies", "M"], ["heart and soul,", "M"], ["determined not to be outdone in any class by Gilbert Blythe.", "M"]],
     "point": "fling oneself into 〜（〜に打ちこむ）の into 以下を補語と見て、第5文型を選びやすい。herself は目的語で、into 以下は前置詞句の修飾語。第3文型。",
     "explanation": "flung の目的語が herself。SVO。",
-    "idioms": [{"phrase": "heart and soul", "base": "heart and soul", "meaning": "全身全霊で"}],
+    "idioms": [{"phrase": "heart and soul", "base": "heart and soul", "meaning": "全身全霊で", "point": "heart と soul を「心臓と魂」と字面どおりに取りやすい。heart and soul は「全身全霊で」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -7283,7 +7283,7 @@
     "parts": [["It", "S"], ["is come", "V"], ["just in the nick of time", "M"]],
     "point": "is come を受動態と見たり、come を補語と見たりしやすい。is come は古い完了形（＝has come）。just in the nick of time（ちょうどよい時に）は修飾語。第1文型。",
     "explanation": "come は自動詞。SV。",
-    "idioms": [{"phrase": "in the nick of time", "base": "in the nick of time", "meaning": "ちょうど間に合って・危ないところで"}],
+    "idioms": [{"phrase": "in the nick of time", "base": "in the nick of time", "meaning": "ちょうど間に合って・危ないところで", "point": "nick を見慣れず、「ニックという人」などと取りやすい。nick は「刻み目（ちょうどの点）」で、in the nick of time は「ちょうど間に合って・危ないところで」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -7295,7 +7295,7 @@
     "parts": [["You", "S"], ["know", "V"], ["now,", "M"], ["once for all,", "M"], ["that I require you to be here, and not there.", "O"]],
     "point": "know と that 節の間に修飾語が割りこんでいるので that 節を見失いやすい。また that 節の中の require you to be here（SVOC）に引っぱられて第5文型を選びやすい。know の目的語は that 節。第3文型。",
     "explanation": "know の目的語が that 節。SVO。",
-    "idioms": [{"phrase": "once for all", "base": "once (and) for all", "meaning": "これを最後に・きっぱりと"}],
+    "idioms": [{"phrase": "once for all", "base": "once (and) for all", "meaning": "これを最後に・きっぱりと", "point": "once を「一度」、for all を「すべてのために」と読みやすい。once (and) for all は「これを最後に・きっぱりと」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -7307,7 +7307,7 @@
     "parts": [["Yes,", "M"], ["she", "S"], ["would implore", "V"], ["him", "O"], ["by word of mouth", "M"], ["to assist her in this dilemma.", "C"]],
     "point": "implore（懇願する）は見慣れない動詞なので、him だけを目的語と見て、to assist ~ を目的を表す修飾語と読みやすい。implore O to do（O に〜するよう懇願する）で、him が assist する関係。第5文型。",
     "explanation": "him が assist する関係なので SVOC。",
-    "idioms": [{"phrase": "by word of mouth", "base": "by word of mouth", "meaning": "口頭で・じかに口で"}],
+    "idioms": [{"phrase": "by word of mouth", "base": "by word of mouth", "meaning": "口頭で・じかに口で", "point": "word を「単語」、mouth を「口」と読んで「口の単語で」と字面どおりに取りやすい。by word of mouth は「口頭で・口伝えで」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Far from the Madding Crowd", "workJa": "遥か群衆を離れて", "year": 1874
   },
   {
@@ -7319,7 +7319,7 @@
     "parts": [["I", "S"], ["’ll bear", "V"], ["the consequences of what I have done", "O"]],
     "point": "sooner than 以下にも動詞があるので、どちらを判定するか迷いやすい。また bear を「生む」と読むと混乱する。sooner than は「〜するくらいなら」の修飾語。bear the consequences（結果を引き受ける）で第3文型。",
     "explanation": "bear の目的語が the consequences 以下。SVO。",
-    "idioms": [{"phrase": "make believe", "base": "make believe", "meaning": "〜のふりをする"}],
+    "idioms": [{"phrase": "make believe", "base": "make believe", "meaning": "〜のふりをする", "point": "make を使役「〜させる」と読んで「信じさせる」と取りやすい。make believe は「〜のふりをする」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Silas Marner", "workJa": "サイラス・マーナー", "year": 1861
   },
   {
@@ -7331,7 +7331,7 @@
     "parts": [["I", "S"], ["think", "V"], ["you and Ada had better take a walk.", "O"]],
     "point": "think の後ろに that が省略されているので、you and Ada had better take a walk を別の文と見て、そちらを判定しやすい。省略された that 節が think の目的語。第3文型。",
     "explanation": "think の目的語が you and Ada 以下。SVO。",
-    "idioms": [{"phrase": "take a walk", "base": "take a walk", "meaning": "散歩する"}, {"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい"}],
+    "idioms": [{"phrase": "take a walk", "base": "take a walk", "meaning": "散歩する", "point": "take を「取る・連れて行く」と読んで「散歩を取る」と取りやすい。take a walk は「散歩する」の意味。"}, {"phrase": "had better", "base": "had better do", "meaning": "〜したほうがよい", "point": "better を「よりよい」の比較と読んで「〜したほうがもっとよい」と軽く取りやすい。had better do は「〜すべきだ（しないと困る）」という強めの忠告。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Bleak House", "workJa": "荒涼館", "year": 1853
   },
   {
@@ -7343,7 +7343,7 @@
     "parts": [["He", "S"], ["took", "V"], ["a seat", "O"], ["opposite Catherine, who kept her gaze fixed on him as if she feared he would vanish were she to remove it.", "M"]],
     "point": "who 以下の関係詞節や were she to remove it（if を省いた倒置）が入り組んでいて、そちらを判定しやすい。主節は He took a seat で、目的語1つの第3文型。",
     "explanation": "took の目的語が a seat。SVO。",
-    "idioms": [{"phrase": "took a seat", "base": "take a seat", "meaning": "席に着く・腰を下ろす"}],
+    "idioms": [{"phrase": "took a seat", "base": "take a seat", "meaning": "席に着く・腰を下ろす", "point": "take a seat を「席を取る（確保する）」と取りやすい。ここは「席に着く・腰を下ろす」の意味。"}],
     "author": "Emily Brontë", "authorJa": "エミリー・ブロンテ", "work": "Wuthering Heights", "workJa": "嵐が丘", "year": 1847
   },
   {
@@ -7355,7 +7355,7 @@
     "parts": [["I", "S"], ["then", "M"], ["took off", "V"], ["my coat", "O"]],
     "point": "off を補語と見て、第5文型を選びやすい。take off（〜を脱ぐ）は動詞＋副詞の句動詞で、my coat が目的語。then も修飾語。第3文型。",
     "explanation": "took off の目的語が my coat。SVO。",
-    "idioms": [{"phrase": "took off", "base": "take off", "meaning": "〜を脱ぐ"}],
+    "idioms": [{"phrase": "took off", "base": "take off", "meaning": "〜を脱ぐ", "point": "take off を「（飛行機が）離陸する」と読みやすい。衣服などが目的語なら「〜を脱ぐ」の意味。"}],
     "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
   },
   {
@@ -7367,7 +7367,7 @@
     "parts": [["Bounderby", "S"], ["put on", "V"], ["his hat", "O"]],
     "point": "on を補語や前置詞と見て、構造を見誤りやすい。put on（〜をかぶる・着る）は動詞＋副詞の句動詞で、his hat が目的語。第3文型。",
     "explanation": "put on の目的語が his hat。SVO。",
-    "idioms": [{"phrase": "put on", "base": "put on", "meaning": "〜を身につける・着る"}],
+    "idioms": [{"phrase": "put on", "base": "put on", "meaning": "〜を身につける・着る", "point": "put on を「〜の上に置く」と字面どおりに読みやすい。衣服などが目的語なら「〜を身につける・着る」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Hard Times", "workJa": "ハード・タイムズ", "year": 1854
   },
   {
@@ -7379,7 +7379,7 @@
     "parts": [["Anne", "S"], ["turned", "V"], ["her back", "O"], ["on the clock shelf", "M"]],
     "point": "turn は「〜になる」の第2文型にもなり、また on the clock shelf を補語と見ると第5文型に見える。turn one's back on 〜（〜に背を向ける）の back は目的語、on 以下は修飾語。第3文型。",
     "explanation": "turned の目的語が her back。SVO。",
-    "idioms": [{"phrase": "turned her back on", "base": "turn one’s back on", "meaning": "〜に背を向ける"}],
+    "idioms": [{"phrase": "turned her back on", "base": "turn one’s back on", "meaning": "〜に背を向ける", "point": "back を「戻って」の副詞と読んで「〜に戻る」と取りやすい。back は名詞「背中」で、turn one's back on 〜 は「〜に背を向ける」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -7391,7 +7391,7 @@
     "parts": [["I", "S"], ["could set about", "V"], ["economizing in our way of living.", "O"]],
     "point": "set about を「〜のまわりに置く」と読むと、構造を見失いやすい。set about ~ing（〜に取りかかる）の動名詞は目的語。第3文型。",
     "explanation": "set about の目的語が economizing 以下。SVO。",
-    "idioms": [{"phrase": "set about", "base": "set about", "meaning": "〜に取りかかる"}],
+    "idioms": [{"phrase": "set about", "base": "set about", "meaning": "〜に取りかかる", "point": "set を「置く」、about を「〜について」と読んで「〜について置く」と取りやすい。set about 〜 は「〜に取りかかる」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -7404,7 +7404,7 @@
     "point": "see to it that 〜 の it を目的語、that 節を2つ目の要素と見て、第4文型や第5文型を選びやすい。see to it that 〜（〜するよう取り計らう）はまとめて扱い、that 節が目的語。第3文型。",
     "explanation": "that 節が目的語の働き。SVO。",
     "note": "it を形式目的語、that 節を真の目的語とみる説明もある。",
-    "idioms": [{"phrase": "see to it", "base": "see to it that", "meaning": "〜するよう取り計らう・気をつける"}],
+    "idioms": [{"phrase": "see to it", "base": "see to it that", "meaning": "〜するよう取り計らう・気をつける", "point": "see を「見る」と読んで「それを見る」と取りやすい。see to it that 〜 は「〜するよう取り計らう・気をつける」の意味。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "The Call of the Wild", "workJa": "野性の呼び声", "year": 1903
   },
   {
@@ -7416,7 +7416,7 @@
     "parts": [["Nothing in the world", "S"], ["is", "V"], ["quite as adorably lovely", "C"], ["as a robin", "M"], ["when he shows off", "M"]],
     "point": "Nothing を「何もない」と否定の意味だけで読むと、主語と気づかずに構造を見失いやすい。Nothing is as 〜 as A（A ほど〜なものはない）で、Nothing が主語。Nothing＝lovely の第2文型。",
     "explanation": "Nothing＝lovely の関係なので SVC。",
-    "idioms": [{"phrase": "shows off", "base": "show off", "meaning": "見せびらかす・いいところを見せる"}],
+    "idioms": [{"phrase": "shows off", "base": "show off", "meaning": "見せびらかす・いいところを見せる", "point": "show off を「見せて終わる」と字面どおりに読みやすい。show off は「見せびらかす・いいところを見せる」の意味。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -7428,7 +7428,7 @@
     "parts": [["The widow", "S"], ["must live", "V"], ["on her slender pittance,", "M"], ["or on such aid as Jos could give her.", "M"]],
     "point": "live on 〜（〜で暮らす）は「〜を食べて生きる」と訳せるので、on の後ろを目的語と見て第3文型を選びやすい。on は前置詞。第1文型。",
     "explanation": "live は自動詞で、on 以下は修飾語。SV。",
-    "idioms": [{"phrase": "live on", "base": "live on", "meaning": "〜を頼りに暮らす・〜で生計を立てる"}],
+    "idioms": [{"phrase": "live on", "base": "live on", "meaning": "〜を頼りに暮らす・〜で生計を立てる", "point": "live on を「〜の上に住む」と字面どおりに読みやすい。live on 〜 は「〜を頼りに暮らす・〜で生計を立てる」の意味。"}],
     "author": "William Makepeace Thackeray", "authorJa": "ウィリアム・メイクピース・サッカレー", "work": "Vanity Fair", "workJa": "虚栄の市", "year": 1848
   },
   {
@@ -7440,7 +7440,7 @@
     "parts": [["She", "S"], ["died", "V"], ["of fever", "M"], ["when I was just three months old.", "M"]],
     "point": "die of 〜（〜で死ぬ）の of の後ろを目的語や補語と見誤りやすい。of は前置詞で、die は自動詞。第1文型。",
     "explanation": "died は自動詞。SV。",
-    "idioms": [{"phrase": "died of", "base": "die of", "meaning": "（病気など）で死ぬ"}],
+    "idioms": [{"phrase": "died of", "base": "die of", "meaning": "（病気など）で死ぬ", "point": "of を「〜の」と読んで「〜の死」と取りやすい。die of 〜 は「（病気など）で死ぬ」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -7453,7 +7453,7 @@
     "point": "consist of 〜（〜から成る）は「〜を含む」と訳せるので、twelve people を目的語と見て第3文型を選びやすい。consist は自動詞で、of は前置詞。第1文型。",
     "explanation": "consisted は自動詞。SV。",
     "note": "consist of をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "consisted of", "base": "consist of", "meaning": "〜から成る"}],
+    "idioms": [{"phrase": "consisted of", "base": "consist of", "meaning": "〜から成る", "point": "consist を見慣れず、consistent（一貫した）と混同しやすい。consist of 〜 は「〜から成る」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -7465,7 +7465,7 @@
     "parts": [["The opportunity that the day’s rest had given me for reflection", "S"], ["had resulted", "V"], ["in my fully determining to say nothing to him respecting Compeyson.", "M"]],
     "point": "主語が長く、that 以下の関係詞節の中の動詞を主節の動詞と見誤りやすい。また result in 〜 の in の後ろを目的語と見る誤りもある。主節は The opportunity had resulted で、result は自動詞。第1文型。",
     "explanation": "resulted は自動詞で、in 以下は修飾語。SV。",
-    "idioms": [{"phrase": "resulted in", "base": "result in", "meaning": "〜という結果になる"}],
+    "idioms": [{"phrase": "resulted in", "base": "result in", "meaning": "〜という結果になる", "point": "result を「結果」の名詞と読んで「〜の中の結果」と取りやすい。ここは動詞で、result in 〜 は「〜という結果になる」の意味（result from 〜 は「〜から生じる」で向きが逆）。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -7477,7 +7477,7 @@
     "parts": [["Now, auntie,", "M"], ["you", "S"], ["know", "V"], ["I do care for you", "O"]],
     "point": "know の後ろに that が省略されているうえ、do care の do を「する」という動詞と見ると構造を見失いやすい。do は動詞を強める助動詞。省略された that 節が know の目的語。第3文型。",
     "explanation": "know の目的語が I do care for you（that の省略）。SVO。",
-    "idioms": [{"phrase": "care for", "base": "care for", "meaning": "〜を大切に思う・気にかける"}],
+    "idioms": [{"phrase": "care for", "base": "care for", "meaning": "〜を大切に思う・気にかける", "point": "care for を「〜を世話する」と覚えていると取り違えやすい。ここは「〜を大切に思う・気にかける」の意味。"}],
     "author": "Mark Twain", "authorJa": "マーク・トウェイン", "work": "The Adventures of Tom Sawyer", "workJa": "トム・ソーヤーの冒険", "year": 1876
   },
   {
@@ -7489,7 +7489,7 @@
     "parts": [["Are", "V"], ["you", "S"], ["cherishing", "V"], ["the notion that anybody, let alone Miss Catherine Linton, would have you for a husband?", "O"]],
     "point": "that 以下を cherishing の2つ目の目的語と見て、第4文型を選びやすい。that 以下は notion の中身を説明する同格の節。目的語は the notion の1つの第3文型。",
     "explanation": "cherishing の目的語が the notion 以下。SVO。",
-    "idioms": [{"phrase": "let alone", "base": "let alone", "meaning": "まして〜は（ない）"}],
+    "idioms": [{"phrase": "let alone", "base": "let alone", "meaning": "まして〜は（ない）", "point": "let を「〜させる」、alone を「一人で」と読んで「一人にさせる」と取りやすい。let alone は否定文の後で「まして〜は（ない）」の意味。"}],
     "author": "Emily Brontë", "authorJa": "エミリー・ブロンテ", "work": "Wuthering Heights", "workJa": "嵐が丘", "year": 1847
   },
   {
@@ -7501,7 +7501,7 @@
     "parts": [["My dear,", "M"], ["I", "S"], ["will wait", "V"], ["upon him", "M"], ["with the greatest pleasure.", "M"]],
     "point": "wait upon 〜（〜のところへ伺う）は「〜を訪ねる」と訳せるので、upon の後ろを目的語と見て第3文型を選びやすい。upon は前置詞。第1文型。",
     "explanation": "wait は自動詞。SV。",
-    "idioms": [{"phrase": "wait upon", "base": "wait on", "meaning": "（人）を訪問する・〜に仕える"}],
+    "idioms": [{"phrase": "wait upon", "base": "wait on", "meaning": "（人）を訪問する・〜に仕える", "point": "wait を「待つ」と読んで「〜の上で待つ」と取りやすい。wait on (upon) 〜（人）は「〜を訪問する・〜に仕える」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Bleak House", "workJa": "荒涼館", "year": 1853
   },
   {
@@ -7513,7 +7513,7 @@
     "parts": [["I", "S"], ["don’t wish", "V"], ["to throw away my time and trouble on an offering you would deem worthless.", "O"]],
     "point": "不定詞の中の throw away my time and trouble（SVO）や on an ~ に気を取られやすい。wish to do の不定詞全体が wish の目的語。第3文型。",
     "explanation": "wish の目的語が to throw away 以下。SVO。",
-    "idioms": [{"phrase": "throw away", "base": "throw away", "meaning": "〜を無駄にする・捨てる"}],
+    "idioms": [{"phrase": "throw away", "base": "throw away", "meaning": "〜を無駄にする・捨てる", "point": "throw away を「投げ捨てる」と物理的にだけ取りやすい。時間や努力が目的語なら「〜を無駄にする」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -7525,7 +7525,7 @@
     "parts": [["I", "S"], ["am", "V"], ["a wretched being,", "C"], ["cut off from everything that makes life tolerable.", "M"]],
     "point": "cut off 以下を受動態の動詞と見たり、being を動名詞と見たりしやすい。cut off 以下は being（存在、人）を後ろから説明する過去分詞句。I＝a wretched being の第2文型。",
     "explanation": "I＝a wretched being の関係なので SVC。",
-    "idioms": [{"phrase": "cut off from", "base": "be cut off from", "meaning": "〜から切り離される"}],
+    "idioms": [{"phrase": "cut off from", "base": "be cut off from", "meaning": "〜から切り離される", "point": "cut off を「切り落とす」と物理的に読みやすい。be cut off from 〜 は「〜から切り離される（孤立する）」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -7537,7 +7537,7 @@
     "parts": [["I", "S"], ["want", "V"], ["to wait here till Daisy goes to bed.", "O"]],
     "point": "不定詞の中の till Daisy goes to bed に動詞があるので、そちらを判定しやすい。want to do の不定詞全体が want の目的語。第3文型。",
     "explanation": "want の目的語が to wait 以下。SVO。",
-    "idioms": [{"phrase": "goes to bed", "base": "go to bed", "meaning": "床につく・就寝する"}],
+    "idioms": [{"phrase": "goes to bed", "base": "go to bed", "meaning": "床につく・就寝する", "point": "go to bed を「ベッドの所へ行く」と字面どおりに取りやすい。これは「床につく・就寝する」の意味。"}],
     "author": "F. Scott Fitzgerald", "authorJa": "F・スコット・フィッツジェラルド", "work": "The Great Gatsby", "workJa": "グレート・ギャツビー", "year": 1925
   },
   {
@@ -7549,7 +7549,7 @@
     "parts": [["it", "S(仮)"], ["is", "V"], ["no use", "C"], ["looking after her", "S(真)"]],
     "point": "look after を「〜の世話をする」と覚えていると、looking after her を目的語と見て第3文型を選びやすい。it は仮主語で、本当の主語は looking after her（〜を見送ること）。it＝no use の第2文型。",
     "explanation": "形式主語 it が動名詞 looking 以下を指す。looking 以下＝no use の関係で SVC。",
-    "idioms": [{"phrase": "is no use looking", "base": "it is no use ~ing", "meaning": "〜してもしかたがない"}],
+    "idioms": [{"phrase": "is no use looking", "base": "it is no use ~ing", "meaning": "〜してもしかたがない", "point": "use を「使う」の動詞と読んで「〜するのに使えない」と取りやすい。use は名詞「役に立つこと」で、it is no use ~ing は「〜してもしかたがない」の意味。"}],
     "author": "George Eliot", "authorJa": "ジョージ・エリオット", "work": "Middlemarch", "workJa": "ミドルマーチ", "year": 1872
   },
   {
@@ -7561,7 +7561,7 @@
     "parts": [["what is more,", "M"], ["Harry,", "M"], ["I", "S"], ["feel", "V"], ["sure", "C"], ["you don’t either", "M"]],
     "point": "sure の後ろの節を feel の目的語と見て、第3文型を選びやすい。feel sure (that) 〜 の that 節は sure を補うもの。what is more（そのうえ）も挿入の修飾語。I＝sure の第2文型。",
     "explanation": "I＝sure の関係なので SVC。",
-    "idioms": [{"phrase": "what is more", "base": "what is more", "meaning": "そのうえ・さらに"}],
+    "idioms": [{"phrase": "what is more", "base": "what is more", "meaning": "そのうえ・さらに", "point": "what is more を「何がもっとあるか」と疑問文に取りやすい。これは「そのうえ・さらに」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -7573,7 +7573,7 @@
     "parts": [["That", "S"], ["is", "V"], ["satisfactory", "C"], ["so far as it goes", "M"]],
     "point": "so far as it goes の中の it goes を別の節と見て、そちらを判定しやすい。so far as it goes（それなりには）は修飾語。That is satisfactory で第2文型。",
     "explanation": "That＝satisfactory の関係なので SVC。",
-    "idioms": [{"phrase": "so far as it goes", "base": "so far as it goes", "meaning": "それなりには（不十分ながら）"}],
+    "idioms": [{"phrase": "so far as it goes", "base": "so far as it goes", "meaning": "それなりには（不十分ながら）", "point": "so far を「今までのところ」と読み、it goes を「それが行く」と取りやすい。so far as it goes は「それなりには（不十分ながら）」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Sign of the Four", "workJa": "四つの署名", "year": 1890
   },
   {
@@ -7585,7 +7585,7 @@
     "parts": [["The captain", "S"], ["was", "V"], ["too bright", "C"], ["to be in the way.", "M"]],
     "point": "too 〜 to … の to 不定詞を目的語と見て、第3文型を選びやすい。to 不定詞は too bright を修飾するもの。The captain＝too bright の第2文型。",
     "explanation": "captain＝bright の関係なので SVC。",
-    "idioms": [{"phrase": "in the way", "base": "in the way", "meaning": "邪魔になって"}, {"phrase": "too bright to", "base": "too … to do", "meaning": "あまりに…で〜できない"}],
+    "idioms": [{"phrase": "in the way", "base": "in the way", "meaning": "邪魔になって", "point": "way を「方法」と読んで「その方法で」と取りやすい。in the way は「邪魔になって」の意味（on the way なら「途中で」）。"}, {"phrase": "too bright to", "base": "too … to do", "meaning": "あまりに…で〜できない", "point": "too を「〜もまた」と読んだり、to do を目的（〜するために）と取ったりしやすい。too … to do は「あまりに…なので〜できない」で、否定の意味を含む。"}],
     "author": "Robert Louis Stevenson", "authorJa": "ロバート・ルイス・スティーヴンソン", "work": "Treasure Island", "workJa": "宝島", "year": 1883
   },
   {
@@ -7597,7 +7597,7 @@
     "parts": [["I", "S"], ["will go and see", "V"], ["her", "O"], ["on my way to Misselthwaite.", "M"]],
     "point": "go and see を別々の動詞と見ると、go の自動詞に引っぱられて第1文型を選びやすい。go and see（会いに行く）はまとめて動詞として扱い、her が目的語。第3文型。",
     "explanation": "see の目的語が her。SVO。",
-    "idioms": [{"phrase": "on my way to", "base": "on one’s way to", "meaning": "〜へ行く途中で"}],
+    "idioms": [{"phrase": "on my way to", "base": "on one’s way to", "meaning": "〜へ行く途中で", "point": "way を「方法」と読んで「〜への方法で」と取りやすい。on one's way to 〜 は「〜へ行く途中で」の意味。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -7609,7 +7609,7 @@
     "parts": [["Lanyon", "S"], ["took", "V"], ["to his bed", "M"]],
     "point": "take は他動詞なので、to his bed を目的語と見て第3文型を選びやすい。take to one's bed（病気で寝込む）の to は前置詞で、目的語はない。第1文型。",
     "explanation": "took はここでは自動詞。SV。",
-    "idioms": [{"phrase": "took to his bed", "base": "take to one’s bed", "meaning": "（病気で）寝込む"}],
+    "idioms": [{"phrase": "took to his bed", "base": "take to one’s bed", "meaning": "（病気で）寝込む", "point": "take to を「〜を好きになる」と読みやすい。take to one's bed は「（病気で）寝込む」の意味。"}],
     "author": "Robert Louis Stevenson", "authorJa": "ロバート・ルイス・スティーヴンソン", "work": "Strange Case of Dr Jekyll and Mr Hyde", "workJa": "ジキル博士とハイド氏", "year": 1886
   },
   {
@@ -7621,7 +7621,7 @@
     "parts": [["The next moment", "M"], ["each of us", "S"], ["had taken", "V"], ["to his heels", "M"], ["in a different direction.", "M"]],
     "point": "take は他動詞なので、to one's heels を目的語と見て第3文型を選びやすい。take to one's heels（一目散に逃げる）の to は前置詞で、目的語はない。第1文型。",
     "explanation": "taken はここでは自動詞。SV。",
-    "idioms": [{"phrase": "taken to his heels", "base": "take to one’s heels", "meaning": "一目散に逃げ出す・逃げる"}],
+    "idioms": [{"phrase": "taken to his heels", "base": "take to one’s heels", "meaning": "一目散に逃げ出す・逃げる", "point": "heels を「かかと・ハイヒール」と読んで「かかとを取る」と取りやすい。take to one's heels は「一目散に逃げ出す」の意味。"}],
     "author": "Robert Louis Stevenson", "authorJa": "ロバート・ルイス・スティーヴンソン", "work": "Treasure Island", "workJa": "宝島", "year": 1883
   },
   {
@@ -7633,7 +7633,7 @@
     "parts": [["Gabriel", "S"], ["called off", "V"], ["the terror-stricken crew", "O"], ["from the further hunting of the whale.", "M"]],
     "point": "call off を「〜を中止する」で覚えていると、crew（人）が目的語として不自然に見えて混乱しやすい。ここは「〜を呼び戻す」の意味で、call off は動詞＋副詞の句動詞。the crew が目的語。第3文型。",
     "explanation": "called off の目的語が the crew。SVO。",
-    "idioms": [{"phrase": "called off", "base": "call off", "meaning": "（人・犬など）を呼び戻す・中止させる"}],
+    "idioms": [{"phrase": "called off", "base": "call off", "meaning": "（人・犬など）を呼び戻す・中止させる", "point": "call off を「〜を中止する」と覚えていると取り違えやすい。人や犬が目的語なら「〜を呼び戻す・（攻撃などを）中止させる」の意味。"}],
     "author": "Herman Melville", "authorJa": "ハーマン・メルヴィル", "work": "Moby-Dick", "workJa": "白鯨", "year": 1851
   },
   {
@@ -7645,7 +7645,7 @@
     "parts": [["He", "S"], ["seemed", "V"], ["to lose heart in the business after that.", "C"]],
     "point": "seem to do の不定詞を目的語と見て、第3文型を選びやすい。また不定詞の中の lose heart（気を落とす）にも気を取られる。seem to do の不定詞は補語。第2文型。",
     "explanation": "seem は「〜のようだ」の意味で SVC。",
-    "idioms": [{"phrase": "lose heart", "base": "lose heart", "meaning": "がっかりする・気を落とす"}],
+    "idioms": [{"phrase": "lose heart", "base": "lose heart", "meaning": "がっかりする・気を落とす", "point": "heart を「心臓」と読んで「心臓を失う」と取りやすい。lose heart は「がっかりする・気を落とす」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -7657,7 +7657,7 @@
     "parts": [["mediæval emotions", "S"], ["are", "V"], ["out of date", "C"]],
     "point": "out of date は前置詞句なので修飾語と見て、第1文型を選びやすい。be＋状態の前置詞句は SVC で、out of date（時代遅れの）は補語。第2文型。",
     "explanation": "emotions＝out of date の関係なので SVC。",
-    "idioms": [{"phrase": "out of date", "base": "out of date", "meaning": "時代遅れの"}],
+    "idioms": [{"phrase": "out of date", "base": "out of date", "meaning": "時代遅れの", "point": "date を「日付・デート」と読んで「日付の外で」と取りやすい。out of date は「時代遅れの」の意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -7669,7 +7669,7 @@
     "parts": [["I", "S"], ["must tell", "V"], ["it", "O"], ["of my own accord", "M"]],
     "point": "tell は第4文型の代表的な動詞なので、of my own accord を2つ目の目的語と見やすい。of one's own accord（自分から進んで）は修飾語。目的語は it の1つの第3文型。",
     "explanation": "tell の目的語が it。SVO。",
-    "idioms": [{"phrase": "of my own accord", "base": "of one’s own accord", "meaning": "自分から進んで・自発的に"}],
+    "idioms": [{"phrase": "of my own accord", "base": "of one’s own accord", "meaning": "自分から進んで・自発的に", "point": "accord を見慣れず、「合意」の意味から「自分の合意で」と取りやすい。of one's own accord は「自分から進んで・自発的に」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -7681,7 +7681,7 @@
     "parts": [["I", "S"], ["do not advise", "V"], ["you", "O"], ["to give way to it,", "C"], ["Harriet.", "M"]],
     "point": "advise は advise 人 that ~（第4文型）にもなるので迷いやすく、また不定詞の中の give way to it に気を取られる。advise O to do（O に〜するよう勧める）で、you が give way する関係。第5文型。",
     "explanation": "you が give way する関係なので SVOC。",
-    "idioms": [{"phrase": "give way to", "base": "give way to", "meaning": "（感情など）に身をまかせる"}],
+    "idioms": [{"phrase": "give way to", "base": "give way to", "meaning": "（感情など）に身をまかせる", "point": "give way を「道を譲る」と読みやすい。give way to 〜（感情など）は「〜に身をまかせる・屈する」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Emma", "workJa": "エマ", "year": 1815
   },
   {
@@ -7694,7 +7694,7 @@
     "point": "look into 〜（〜を調べる）は「〜を」と訳すので、into の後ろを目的語と見て第3文型を選びやすい。into は前置詞。第1文型。",
     "explanation": "look は自動詞で、into the matter は修飾語。SV。",
     "note": "look into をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "look into", "base": "look into", "meaning": "〜を調べる"}],
+    "idioms": [{"phrase": "look into", "base": "look into", "meaning": "〜を調べる", "point": "look into を「〜の中をのぞく」と字面どおりに読みやすい。look into 〜 は「〜を調べる」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -7706,7 +7706,7 @@
     "parts": [["Remember", "V"], ["me", "O"], ["with affection,", "M"], ["should you never hear from me again.", "M"]],
     "point": "should you 〜 は if を省いた倒置の条件節で、そちらの動詞を判定しやすい。主節は命令文 Remember me で、主語 you が省略されている。目的語 me の第3文型。",
     "explanation": "命令文で、remember の目的語が me。SVO。",
-    "idioms": [{"phrase": "hear from", "base": "hear from", "meaning": "〜から便りがある"}],
+    "idioms": [{"phrase": "hear from", "base": "hear from", "meaning": "〜から便りがある", "point": "hear from を「〜から聞く（うわさを）」と取りやすい。hear from 〜 は「〜から便り（手紙・連絡）がある」の意味。"}],
     "author": "Mary Shelley", "authorJa": "メアリー・シェリー", "work": "Frankenstein", "workJa": "フランケンシュタイン", "year": 1818
   },
   {
@@ -7718,7 +7718,7 @@
     "parts": [["Why", "M"], ["did", "V"], ["I", "S"], ["never", "M"], ["hear", "V"], ["of this", "M"]],
     "point": "hear of 〜（〜のことを耳にする）は「〜を聞く」と訳すので、this を目的語と見て第3文型を選びやすい。of は前置詞。Why は修飾語。第1文型。",
     "explanation": "hear は自動詞で、of this は修飾語。SV。",
-    "idioms": [{"phrase": "hear of", "base": "hear of", "meaning": "〜のことを耳にする"}],
+    "idioms": [{"phrase": "hear of", "base": "hear of", "meaning": "〜のことを耳にする", "point": "hear of を「〜を聞く」と読んで、直接その声を聞くと取りやすい。hear of 〜 は「〜のこと（存在・うわさ）を耳にする」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -7730,7 +7730,7 @@
     "parts": [["Have", "V"], ["your pistol", "O"], ["ready", "C"], ["in case we should need it.", "M"]],
     "point": "have は「持つ」の他動詞の印象が強く、ready を修飾語と見て第3文型を選びやすい。have O C（O を C の状態にしておく）の命令文で、pistol＝ready。第5文型。",
     "explanation": "pistol＝ready の関係なので SVOC。",
-    "idioms": [{"phrase": "in case", "base": "in case", "meaning": "〜するといけないから・〜に備えて"}],
+    "idioms": [{"phrase": "in case", "base": "in case", "meaning": "〜するといけないから・〜に備えて", "point": "case を「箱・ケース」と読んで「箱の中に」と取りやすい。in case は「〜するといけないから・〜に備えて」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -7742,7 +7742,7 @@
     "parts": [["The girls", "S"], ["cried", "V"], ["all the way home from school.", "M"]],
     "point": "cry は「〜と叫ぶ」の他動詞にもなるので、all the way 以下を目的語と見やすい。all the way 以下は副詞句で修飾語。第1文型。",
     "explanation": "cried は自動詞。SV。",
-    "idioms": [{"phrase": "all the way", "base": "all the way", "meaning": "途中ずっと・はるばる"}],
+    "idioms": [{"phrase": "all the way", "base": "all the way", "meaning": "途中ずっと・はるばる", "point": "all the way を「すべての道」と字面どおりに取りやすい。これは「途中ずっと・はるばる」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -7754,7 +7754,7 @@
     "parts": [["I", "S"], ["saw", "V"], ["that a crisis was at hand", "O"]],
     "point": "see を「見る」と読むと、that 節が目的語に見えにくく、that 節の中の was at hand（SVC）を判定しやすい。saw は「わかった」の意味で、that 節が目的語。第3文型。",
     "explanation": "saw の目的語が that 節。SVO。",
-    "idioms": [{"phrase": "at hand", "base": "at hand", "meaning": "間近に迫って・すぐ近くに"}],
+    "idioms": [{"phrase": "at hand", "base": "at hand", "meaning": "間近に迫って・すぐ近くに", "point": "hand を「手」と読んで「手に持って」と取りやすい。at hand は「間近に迫って・すぐ近くに」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "David Copperfield", "workJa": "デイヴィッド・コパフィールド", "year": 1850
   },
   {
@@ -7767,7 +7767,7 @@
     "point": "look for を「〜を探す」と覚えていると、for の後ろを目的語と見て第3文型を選びやすい。ここは「〜を期待する・待つ」の意味で、for は前置詞。第1文型。",
     "explanation": "look は自動詞で、for you は修飾語。SV。",
     "note": "look for をひとまとまりの他動詞とみて SVO とする説明もある。",
-    "idioms": [{"phrase": "look for", "base": "look for", "meaning": "〜を待ち受ける・〜を探す"}],
+    "idioms": [{"phrase": "look for", "base": "look for", "meaning": "〜を待ち受ける・〜を探す", "point": "look for を「〜を探す」とだけ覚えていると取り違えやすい。文脈によって「〜を待ち受ける・期待する」の意味にもなる。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Importance of Being Earnest", "workJa": "まじめが肝心", "year": 1895
   },
   {
@@ -7779,7 +7779,7 @@
     "parts": [["She", "S"], ["now", "M"], ["resolved", "V"], ["to keep Harriet no longer in the dark.", "O"]],
     "point": "不定詞の中の keep Harriet in the dark（keep O C、第5文型）が目立つので、第5文型を選びやすい。resolve to do の不定詞全体が resolved の目的語。第3文型。",
     "explanation": "resolved の目的語が to keep 以下。SVO。",
-    "idioms": [{"phrase": "in the dark", "base": "in the dark", "meaning": "何も知らされずに"}],
+    "idioms": [{"phrase": "in the dark", "base": "in the dark", "meaning": "何も知らされずに", "point": "dark を「暗い」と読んで「暗闇の中で」と場所に取りやすい。in the dark は「何も知らされずに」の意味でも使う。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Emma", "workJa": "エマ", "year": 1815
   },
   {
@@ -7791,7 +7791,7 @@
     "parts": [["She", "S"], ["seemed", "V"], ["to be in the middle of some eager speech.", "C"]],
     "point": "seem to be 〜 の to be を見て、in the middle of 〜 を修飾語と考え第1文型を選びやすい。seem to be 〜 の不定詞は補語。She＝in the middle of ~ の第2文型。",
     "explanation": "seem は「〜のようだ」の意味で SVC。",
-    "idioms": [{"phrase": "in the middle of", "base": "in the middle of", "meaning": "〜の最中に・〜の真ん中に"}],
+    "idioms": [{"phrase": "in the middle of", "base": "in the middle of", "meaning": "〜の最中に・〜の真ん中に", "point": "middle を「真ん中」と読んで場所の意味だけに取りやすい。in the middle of 〜 は「〜の真ん中に」のほか「〜の最中に」と時間の意味もある。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Persuasion", "workJa": "説得", "year": 1817
   },
   {
@@ -7803,7 +7803,7 @@
     "parts": [["But", "M"], ["I", "S"], ["must tell", "V"], ["you", "O1"], ["how it went off.", "O2"]],
     "point": "how 節を「どのように」の修飾語と見て、目的語が you だけの第3文型を選びやすい。how it went off は「どうなったか」という名詞節で、tell の2つ目の目的語。第4文型。",
     "explanation": "you と how 節の二つの目的語。SVOO。",
-    "idioms": [{"phrase": "went off", "base": "go off", "meaning": "（事が）運ぶ・行われる"}],
+    "idioms": [{"phrase": "went off", "base": "go off", "meaning": "（事が）運ぶ・行われる", "point": "go off を「立ち去る」や「（爆弾が）爆発する・（目覚ましが）鳴る」と読みやすい。ここは「（事が）運ぶ・行われる」の意味。"}],
     "author": "Jane Austen", "authorJa": "ジェイン・オースティン", "work": "Pride and Prejudice", "workJa": "高慢と偏見", "year": 1813
   },
   {
@@ -7815,7 +7815,7 @@
     "parts": [["Is", "V"], ["she", "S"], ["going", "V"], ["by herself", "M"]],
     "point": "by herself（ひとりで）の herself を目的語と見て、第3文型を選びやすい。by oneself は修飾語。go は自動詞。第1文型。",
     "explanation": "going は自動詞。SV。",
-    "idioms": [{"phrase": "by herself", "base": "by oneself", "meaning": "ひとりで"}],
+    "idioms": [{"phrase": "by herself", "base": "by oneself", "meaning": "ひとりで", "point": "by oneself を「自分のそばに」と字面どおりに取りやすい。これは「ひとりで」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -7827,7 +7827,7 @@
     "parts": [["I", "S"], ["did not altogether like", "V"], ["to give in,", "O"], ["though I did not relish the plunge.", "M"]],
     "point": "不定詞の中の give in（屈する）が自動詞の形なので、目的語がないと見て第1文型を選びやすい。like to do の不定詞全体が like の目的語。第3文型。",
     "explanation": "like の目的語が to give in。SVO。",
-    "idioms": [{"phrase": "give in", "base": "give in", "meaning": "降参する・まいったと言う"}],
+    "idioms": [{"phrase": "give in", "base": "give in", "meaning": "降参する・まいったと言う", "point": "give in を「中に与える＝提出する」と読みやすい。give in は「降参する・まいったと言う」の意味。"}],
     "author": "Jerome K. Jerome", "authorJa": "ジェローム・K・ジェローム", "work": "Three Men in a Boat", "workJa": "ボートの三人男", "year": 1889
   },
   {
@@ -7839,7 +7839,7 @@
     "parts": [["she", "S"], ["will be", "V"], ["down", "M"], ["in a moment", "M"]],
     "point": "be down の down を補語と見て、第2文型を選びやすい。be down（階下に降りてくる）の down は場所を表す副詞。in a moment も修飾語。第1文型。",
     "explanation": "be＋場所を表す副詞は SV。",
-    "idioms": [{"phrase": "in a moment", "base": "in a moment", "meaning": "すぐに・あっという間に"}],
+    "idioms": [{"phrase": "in a moment", "base": "in a moment", "meaning": "すぐに・あっという間に", "point": "moment を「瞬間」と読んで「瞬間の中で」と取りやすい。in a moment は「すぐに・あっという間に」の意味。"}],
     "author": "Edith Wharton", "authorJa": "イーディス・ウォートン", "work": "The Age of Innocence", "workJa": "エイジ・オブ・イノセンス", "year": 1920
   },
   {
@@ -7851,7 +7851,7 @@
     "parts": [["but", "M"], ["to my surprise", "M"], ["I", "S"], ["found", "V"], ["it", "O"], ["true", "C"]],
     "point": "to my surprise（驚いたことに）を目的語の一部と見たり、true を修飾語と見たりしやすい。find O C（O が C だとわかる）で、it＝true。第5文型。",
     "explanation": "it＝true の関係なので SVOC。",
-    "idioms": [{"phrase": "to my surprise", "base": "to one’s surprise", "meaning": "驚いたことに"}],
+    "idioms": [{"phrase": "to my surprise", "base": "to one’s surprise", "meaning": "驚いたことに", "point": "to my surprise を「私の驚きへ」と字面どおりに取りやすい。これは「驚いたことに」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -7863,7 +7863,7 @@
     "parts": [["One man in evening dress", "S"], ["passed", "V"], ["them", "O"], ["on foot,", "M"], ["his eyes on the ground.", "M"]],
     "point": "pass は「通る」の自動詞の印象が強く、them を目的語と気づきにくい。また his eyes on the ground（being を省いた独立分詞構文）を補語と見る誤りもある。passed them（彼らとすれ違った）で第3文型。",
     "explanation": "passed の目的語が them。SVO。",
-    "idioms": [{"phrase": "on foot", "base": "on foot", "meaning": "徒歩で"}],
+    "idioms": [{"phrase": "on foot", "base": "on foot", "meaning": "徒歩で", "point": "foot を「足」と読んで「足の上に」と取りやすい。on foot は「徒歩で」の意味。"}],
     "author": "H. G. Wells", "authorJa": "H・G・ウェルズ", "work": "The War of the Worlds", "workJa": "宇宙戦争", "year": 1898
   },
   {
@@ -7875,7 +7875,7 @@
     "parts": [["I", "S"], ["followed", "V"], ["her", "O"], ["at a distance", "M"]],
     "point": "at a distance を補語と見て、第5文型を選びやすい。at a distance（離れて）は修飾語。目的語は her の1つの第3文型。",
     "explanation": "followed の目的語が her。SVO。",
-    "idioms": [{"phrase": "at a distance", "base": "at a distance", "meaning": "離れて・距離をおいて"}],
+    "idioms": [{"phrase": "at a distance", "base": "at a distance", "meaning": "離れて・距離をおいて", "point": "distance を「距離」と読めても、at を「〜で」と取って「距離で」と取りやすい。at a distance は「離れて・距離をおいて」の意味。"}],
     "author": "Charles Dickens", "authorJa": "チャールズ・ディケンズ", "work": "Great Expectations", "workJa": "大いなる遺産", "year": 1861
   },
   {
@@ -7887,7 +7887,7 @@
     "parts": [["Georgiana and she", "S"], ["had", "V"], ["nothing", "O"], ["in common", "M"]],
     "point": "have 〜 in common（〜を共有する）の in common を補語と見て、第5文型を選びやすい。in common は修飾語で、目的語は nothing の1つ。第3文型。",
     "explanation": "had の目的語が nothing。SVO。",
-    "idioms": [{"phrase": "in common", "base": "in common", "meaning": "共通して"}],
+    "idioms": [{"phrase": "in common", "base": "in common", "meaning": "共通して", "point": "common を「ふつうの・よくある」と読んで「ふつうに」と取りやすい。in common は「共通して」の意味。"}],
     "author": "Charlotte Brontë", "authorJa": "シャーロット・ブロンテ", "work": "Jane Eyre", "workJa": "ジェイン・エア", "year": 1847
   },
   {
@@ -7899,7 +7899,7 @@
     "parts": [["She", "S"], ["was", "V"], ["by far", "M"], ["the coolest of the women under her roof.", "C"]],
     "point": "by far を目的語や補語の一部と見誤りやすい。by far は最上級を強める修飾語。She＝the coolest の第2文型。",
     "explanation": "She＝the coolest の関係なので SVC。",
-    "idioms": [{"phrase": "by far", "base": "by far", "meaning": "はるかに・断然"}],
+    "idioms": [{"phrase": "by far", "base": "by far", "meaning": "はるかに・断然", "point": "by far を「遠くによって」と字面どおりに取りやすい。by far は最上級・比較級を強める「はるかに・断然」の意味。"}],
     "author": "Thomas Hardy", "authorJa": "トマス・ハーディ", "work": "Far from the Madding Crowd", "workJa": "遥か群衆を離れて", "year": 1874
   },
   {
@@ -7911,7 +7911,7 @@
     "parts": [["Everyone", "S"], ["has", "V"], ["orders", "O"], ["to keep out of the way.", "M"]],
     "point": "to keep 以下を補語と見て、第5文型を選びやすい。to keep 以下は orders の内容を説明する不定詞（形容詞用法）。Everyone has orders で第3文型。",
     "explanation": "has の目的語が orders。SVO。",
-    "idioms": [{"phrase": "out of the way", "base": "out of the way", "meaning": "邪魔にならないところに"}],
+    "idioms": [{"phrase": "out of the way", "base": "out of the way", "meaning": "邪魔にならないところに", "point": "way を「方法」と読んで「方法から外れて」と取りやすい。out of the way は「邪魔にならないところに」の意味。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -7923,7 +7923,7 @@
     "parts": [["She", "S"], ["felt", "V"], ["quite wicked", "C"], ["by the time she reached the door.", "M"]],
     "point": "feel は「〜を感じる」の他動詞の印象が強く、quite wicked を目的語と見たりしやすい。feel＋形容詞は「〜と感じる」で、wicked は補語（She＝wicked）。第2文型。",
     "explanation": "She＝wicked の関係なので SVC。",
-    "idioms": [{"phrase": "by the time", "base": "by the time", "meaning": "〜するまでには"}],
+    "idioms": [{"phrase": "by the time", "base": "by the time", "meaning": "〜するまでには", "point": "by the time を「時間によって」と取りやすい。by the time 〜 は「〜するまでには」の意味（until「〜までずっと」とは違う）。"}],
     "author": "Frances Hodgson Burnett", "authorJa": "フランシス・ホジソン・バーネット", "work": "The Secret Garden", "workJa": "秘密の花園", "year": 1911
   },
   {
@@ -7935,7 +7935,7 @@
     "parts": [["It", "S(仮)"], ["makes", "V"], ["me", "O"], ["very sad", "C"], ["at times", "M"], ["to think about her.", "S(真)"]],
     "point": "It を本当の主語と思うと、to think about her の扱いに困って構造を見失いやすい。It は仮主語で、本当の主語は不定詞 to think about her。makes me very sad で me＝sad の第5文型。",
     "explanation": "make O C「O を C にする」。me＝sad の関係なので SVOC。",
-    "idioms": [{"phrase": "at times", "base": "at times", "meaning": "ときには・ときどき"}],
+    "idioms": [{"phrase": "at times", "base": "at times", "meaning": "ときには・ときどき", "point": "times を「回・倍」と読んで「何回も」と取りやすい。at times は「ときには・ときどき」の意味。"}],
     "author": "L. M. Montgomery", "authorJa": "L・M・モンゴメリ", "work": "Anne of Green Gables", "workJa": "赤毛のアン", "year": 1908
   },
   {
@@ -7947,7 +7947,7 @@
     "parts": [["Besides,", "M"], ["what", "S"], ["on earth", "M"], ["could happen", "V"], ["to you,", "M"], ["Dorian?", "M"]],
     "point": "what を目的語と見て第3文型を選びやすい。また on earth（いったい）を場所と見る誤りもある。疑問詞 what が主語で、happen は自動詞。第1文型。",
     "explanation": "happen は自動詞。SV。",
-    "idioms": [{"phrase": "on earth", "base": "on earth", "meaning": "（疑問を強めて）いったい"}],
+    "idioms": [{"phrase": "on earth", "base": "on earth", "meaning": "（疑問を強めて）いったい", "point": "earth を「地球」と読んで「地球上で」と字面どおりに取りやすい。疑問詞の後の on earth は「いったい」と疑問を強める意味。"}],
     "author": "Oscar Wilde", "authorJa": "オスカー・ワイルド", "work": "The Picture of Dorian Gray", "workJa": "ドリアン・グレイの肖像", "year": 1891
   },
   {
@@ -7959,7 +7959,7 @@
     "parts": [["We", "S"], ["could write", "V"], ["in the meantime", "M"]],
     "point": "write は「〜を書く」の他動詞の印象が強く、目的語を探して第3文型を選びやすい。ここは目的語のない自動詞「手紙を書く」。in the meantime も修飾語。第1文型。",
     "explanation": "write の後ろに目的語はない。SV。",
-    "idioms": [{"phrase": "in the meantime", "base": "in the meantime", "meaning": "その間に・それまでは"}],
+    "idioms": [{"phrase": "in the meantime", "base": "in the meantime", "meaning": "その間に・それまでは", "point": "meantime を見慣れず、mean（意味する・意地悪な）と結びつけやすい。in the meantime は「その間に・それまでは」の意味。"}],
     "author": "Arthur Conan Doyle", "authorJa": "アーサー・コナン・ドイル", "work": "The Adventures of Sherlock Holmes", "workJa": "シャーロック・ホームズの冒険", "year": 1892
   },
   {
@@ -7971,7 +7971,7 @@
     "parts": [["I", "S"], ["was", "V"], ["no sooner", "M"], ["certain", "C"], ["of this", "M"], ["than I began to feel sick, faint, and terrified.", "M"]],
     "point": "no sooner A than B（A するとすぐに B）の構文で、どちらの節を判定するか迷いやすい。主になるのは I was certain の部分で、I＝certain の第2文型。",
     "explanation": "I＝certain の関係なので SVC。",
-    "idioms": [{"phrase": "no sooner", "base": "no sooner ~ than", "meaning": "〜するとすぐに・〜するやいなや"}],
+    "idioms": [{"phrase": "no sooner", "base": "no sooner ~ than", "meaning": "〜するとすぐに・〜するやいなや", "point": "sooner を「より早く」と比較に読み、no を否定と取って「〜より早くない」と取りやすい。no sooner 〜 than ... は「〜するとすぐに…」の意味。"}],
     "author": "Robert Louis Stevenson", "authorJa": "ロバート・ルイス・スティーヴンソン", "work": "Treasure Island", "workJa": "宝島", "year": 1883
   },
   {
@@ -7983,7 +7983,7 @@
     "parts": [["In this manner", "M"], ["it", "S(仮)"], ["came about", "V"], ["that he fought all sizes and breeds of dogs.", "S(真)"]],
     "point": "it を本当の主語と思うと、that 節を目的語と見て第3文型を選びやすい。また that 節の中の fought all sizes ~（SVO）も紛らわしい。it は仮主語で that 節が真主語、come about（起こる）は自動詞。第1文型。",
     "explanation": "came about は自動詞「起こる」。SV。",
-    "idioms": [{"phrase": "came about", "base": "come about", "meaning": "起こる・生じる"}],
+    "idioms": [{"phrase": "came about", "base": "come about", "meaning": "起こる・生じる", "point": "come about を「回ってくる」と字面どおりに読みやすい。come about は「起こる・生じる」の意味。"}],
     "author": "Jack London", "authorJa": "ジャック・ロンドン", "work": "White Fang", "workJa": "白い牙", "year": 1906
   },
   {

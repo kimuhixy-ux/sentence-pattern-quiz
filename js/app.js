@@ -265,9 +265,10 @@ function renderFeedback(q, isCorrect) {
   result.classList.toggle('is-wrong', !isCorrect);
   setOptionalText('feedback-translation', q.translation ? `訳: ${q.translation}` : '');
   renderWordPicker(q);
-  // イディオム問題では文型の解説を出さず、熟語の意味と訳文に集中させる
+  // イディオム問題では文型の解説を出さず、熟語の意味・取り違えやすい理由・訳文に集中させる
   renderParts(isIdiom ? [] : q.parts || []);
-  setOptionalText('feedback-point', !isIdiom && q.point ? `引っかけポイント: ${q.point}` : '');
+  const point = isIdiom ? q.idiom.point : q.point;
+  setOptionalText('feedback-point', point ? `引っかけポイント: ${point}` : '');
   setOptionalText('feedback-explanation', isIdiom ? '' : q.explanation || '');
   setOptionalText('feedback-note', !isIdiom && q.note ? `補足: ${q.note}` : '');
   $('next-button').textContent = state.index + 1 < state.questions.length ? '次へ' : '結果を見る';
